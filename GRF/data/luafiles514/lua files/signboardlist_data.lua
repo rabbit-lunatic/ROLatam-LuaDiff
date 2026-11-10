@@ -7452,6 +7452,14 @@ SignBoardList_data = {
 		HEIGHT = 0,
 		ICONID = 1,
 		FILEPATH = "information\\over_store.bmp"
+	},
+	[1008] = {
+		MAPNAME = "har_in01",
+		CELLX = 34,
+		CELLY = 84,
+		HEIGHT = 0,
+		ICONID = 1,
+		FILEPATH = "information\\over_store.bmp"
 	}
 }
 local function MergeTables(dest, src)

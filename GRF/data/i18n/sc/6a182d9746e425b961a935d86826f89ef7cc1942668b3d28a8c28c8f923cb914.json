@@ -715,9 +715,9 @@
         "es-ES": "Tengo bastantes compañeros."
     },
     "TwYODg": {
-        "en-US": "[Lehar]\nUh... then Hellrock won't be enough.\nYou need to cross the sea. Are you planning to take a ship?",
-        "pt-BR": "[Lehar]\nHum... então Hellok não vai dar conta.\nPrecisamos atravessar o mar. Vocês pretendem ir de navio?",
-        "es-ES": "[Lehar]\nEh... entonces con Hellok no será posible.\nHay que cruzar el mar. ¿Piensan ir en barco?"
+        "en-US": "[Lehar]\nUh... then Hellock won't be enough.\nYou need to cross the sea. Are you planning to take a ship?",
+        "pt-BR": "[Lehar]\nHum... então Hellock não vai dar conta.\nPrecisamos atravessar o mar. Vocês pretendem ir de navio?",
+        "es-ES": "[Lehar]\nEh... entonces con Hellock no será posible.\nHay que cruzar el mar. ¿Piensan ir en barco?"
     },
     "UAYODg": {
         "en-US": "We'll take Lord Varmundt's airship.",
@@ -1350,8 +1350,8 @@
         "es-ES": "[Lehar]\n¡Oh! ¡Ya llegamos!\n¿Vamos al Castillo de Hielo?"
     },
     "zgYODg": {
-        "en-US": "[Lehar]\nHellrock's sled is nice, but the airship is even better!\nShall we get off first?\nI'll guide you to the Ice Castle!",
-        "pt-BR": "[Lehar]\nO trenó de Hellok é bom, mas a aeronave é ainda melhor, não acha?\nVamos descer primeiro?\nVou guiá-los até o Castelo de Gelo!",
+        "en-US": "[Lehar]\nHellock's sled is nice, but the airship is even better!\nShall we get off first?\nI'll guide you to the Ice Castle!",
+        "pt-BR": "[Lehar]\nO trenó de Hellock é bom, mas a aeronave é ainda melhor, não acha?\nVamos descer primeiro?\nVou guiá-los até o Castelo de Gelo!",
         "es-ES": "[Lehar]\n¡El trineo de Hellrock está bien, pero la aeronave es aún mejor!\n¿Bajamos primero?\n¡Los guiaré hasta el Castillo de Hielo!"
     },
     "zwYODg": {
@@ -1792,7 +1792,7 @@
     "JgcODg": {
         "en-US": "[Lehar]\nI'm talking about Snow Flower Petal.\nYou'll need this if you're going to stay here.\nIt's crystallized magic in the shape of a flower, and it's used for almost everything around here.",
         "pt-BR": "[Lehar]\nEstou falando da Pétala de Flor de Neve.\nVocê vai precisar disso para viver por aqui.\nÉ magia cristalizada em forma de flor, e aqui ela serve para praticamente tudo.",
-        "es-ES": "[Lehar]\nMe refiero a los Pétalos de Copo de Nieve.\nL os necesitarán para vivir aquí.\nSon cristales de magia con forma de flor y aquí se utilizan prácticamente para todo."
+        "es-ES": "[Lehar]\nMe refiero a los Pétaloss de Copo de Nieve.\nL os necesitarán para vivir aquí.\nSon cristales de magia con forma de flor y aquí se utilizan prácticamente para todo."
     },
     "JwcODg": {
         "en-US": "[Lehar]\nI'll give you some, so use it wherever you find it useful.\nYou may also receive some as a reward if you help the Windcys with their work.",

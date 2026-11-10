@@ -384,7 +384,7 @@ SkillInfoList_string = {
 	},
 	[SKID.TF_BACKSLIDING] = {SkillName = "Recuar"},
 	[SKID.TF_PICKSTONE] = {
-		SkillName = "Procurar Pedras"
+		SkillName = "Procurar Pedra"
 	},
 	[SKID.TF_THROWSTONE] = {
 		SkillName = "Arremessar Pedra"

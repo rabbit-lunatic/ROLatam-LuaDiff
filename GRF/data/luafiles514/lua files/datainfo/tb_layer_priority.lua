@@ -4,6 +4,10 @@ TB_Layer_Priority = {
 	Default_Bottom = 300,
 	Default_Robe = 400,
 	Items_List = {
+		[ACCESSORY_IDs.ACCESSORY_C_Aurelie_Hair] = {
+			Default = 143,
+			Direction = {}
+		},
 		[ACCESSORY_IDs.ACCESSORY_C_Petal_Twin] = {
 			Default = 143,
 			Direction = {}

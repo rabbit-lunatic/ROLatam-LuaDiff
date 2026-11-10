@@ -21,24 +21,6 @@ RecommendedQuestInfoList = {
 			"^ff0000* This page is not the actual Quest page but an introduction for it. It won't be deleted, even if you complete the quest.^000000"
 		}
 	},
-	[10000] = {
-		Title = "Airship Crash Site",
-		IconName = "ico_sc.bmp",
-		Summary = "A story at the site where the airship crashed",
-		NpcSpr = "4_M_FAIRYANG",
-		BgName = "reco_10000.bmp",
-		QuestInfo1 = {
-			"Through the <NAVI>[Dimensional Gap]<INFO>dali02,137,86,0,101,0</INFO></NAVI> discovered by chance by a Laphine,",
-			"adventurers became able to travel to the site where the airship crashed. Explore the now-forgotten cavern discovered there."
-		},
-		QuestInfo2 = {
-			"Requirements",
-			"Adventurers of ^990000Level 215 or higher^000000"
-		},
-		QuestInfo3 = {
-			"^ff0000* This page is an update introduction, not a quest. Please note that it will not be removed even if you complete the quest.^000000"
-		}
-	},
 	[84] = {
 		Title = "4th Job Release!!!",
 		IconName = "ico_jq.bmp",
@@ -128,27 +110,6 @@ And your story awaits.]],
 			"^ff0000 This page is an update introduction, not a quest. Please note that it will not be deleted even if you complete the quest.^000000"
 		}
 	},
-	[82] = {
-		Title = "Hero's Trail MD Tomb of Regret",
-		IconName = "ico_sc.bmp",
-		Summary = "The magic swordsman and the bloodthirsty magic sword encountered in Tomb of Regret",
-		BgName = "reco_82.bmp",
-		NpcSpr = "MD_TIARA",
-		NpcNavi = "dali",
-		NpcPosX = 124,
-		NpcPosY = 88,
-		QuestInfo1 = {
-			"A request from the princess of a fallen kingdom, and the contractor of the magic sword met at the destination.",
-			"The Sword roars, and the corpse that rose before its time weeps."
-		},
-		QuestInfo2 = {
-			"Requirements",
-			"Adventurers Level 220 or higher"
-		},
-		QuestInfo3 = {
-			"^ff0000 This page is an update introduction, not a quest. Please note that it will not be removed even after completing the quest.^000000"
-		}
-	},
 	[77] = {
 		Title = "Varmunt's Biosphere",
 		IconName = "ico_sc.bmp",
@@ -165,6 +126,27 @@ And your story awaits.]],
 		},
 		QuestInfo3 = {
 			"^ff0000 This page introduces an update and is not a quest. Please note that it will not be removed even after you complete the quest.^000000"
+		}
+	},
+	[75] = {
+		Title = "Episode 19: Land of the Snow Flowers",
+		IconName = "ico_ep.bmp",
+		Summary = "A frozen land beyond the northern sea.",
+		BgName = "reco_75.bmp",
+		QuestInfo1 = {
+			"A land beyond the northern sea, where the legend of ^3169ceJormungand^000000 has been passed down.",
+			"Will we be able to thwart the ambitions of ^3169ceBagot^000000, who fled with a fragment of the Heart of Ymir, and what secrets is the ^3169ceJormungand Cult^000000 hiding?",
+			"An airship filled with unease now departs for ^3169ceIssgard^000000."
+		},
+		QuestInfo2 = {
+			"Prerequisites:",
+			"Complete Episode ^3275f018^000000",
+			"^3275f0Lv. 200+^000000"
+		},
+		QuestInfo3 = {
+			"^ee1073  Bagot^000000",
+			"Right. Now.",
+			"We're going to meet him."
 		}
 	}
 }

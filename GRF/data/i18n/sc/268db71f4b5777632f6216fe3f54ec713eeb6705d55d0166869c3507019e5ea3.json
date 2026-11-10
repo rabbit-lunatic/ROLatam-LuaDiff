@@ -3611,8 +3611,8 @@
     },
     "cokB": {
         "en-US": "Gold Acidus",
-        "pt-BR": "Acidus",
-        "es-ES": "Ácidus dorado"
+        "pt-BR": "Acidus Dourado",
+        "es-ES": "Acidus Dorado"
     },
     "c4kB": {
         "en-US": "Ferus",
@@ -3626,8 +3626,8 @@
     },
     "dYkB": {
         "en-US": "Blue Acidus",
-        "pt-BR": "Acidus",
-        "es-ES": "Ácidus Azul"
+        "pt-BR": "Acidus Azul",
+        "es-ES": "Acidus Azul"
     },
     "dokB": {
         "en-US": "Ferus",
@@ -3836,8 +3836,8 @@
     },
     "n4kB": {
         "en-US": "Emerald Acidus",
-        "pt-BR": "Acidus",
-        "es-ES": "Ácidus Esmeralda"
+        "pt-BR": "Acidus Esmeralda",
+        "es-ES": "Acidus Esmeralda"
     },
     "oIkB": {
         "en-US": "Emerald Ferus",
@@ -7985,9 +7985,9 @@
         "es-ES": "Basilisco de Combate"
     },
     "3YwB": {
-        "en-US": "Fruits Pom Spider",
+        "en-US": "Fruit Pom Spider",
         "pt-BR": "Aranha Pomar",
-        "es-ES": "Araña Pom de la Fruta"
+        "es-ES": "Araña Pomar"
     },
     "3owB": {
         "en-US": "Jungle Madragora",
@@ -11157,7 +11157,7 @@
     "V48B": {
         "en-US": "Chaotic Hunter Fly",
         "pt-BR": "Mosca Caótica",
-        "es-ES": "Mosca Cazadora Caótica"
+        "es-ES": "Mosca Caótica"
     },
     "WI8B": {
         "en-US": "Chaotic Killer Mantis",
@@ -11637,7 +11637,7 @@
     "t48B": {
         "en-US": "Revival Branch",
         "pt-BR": "Lenha Viva",
-        "es-ES": "Rama de Resurrección"
+        "es-ES": "Rama Revivida"
     },
     "uI8B": {
         "en-US": "Hungry Savage",
@@ -12227,12 +12227,12 @@
     "LZAB": {
         "en-US": "Diligent Andre",
         "pt-BR": "Andre Diligente",
-        "es-ES": "Andre diligente"
+        "es-ES": "Andre Diligente"
     },
     "LpAB": {
         "en-US": "Diligent Deniro",
         "pt-BR": "Deniro Diligente",
-        "es-ES": "Deniro diligente"
+        "es-ES": "Deniro Diligente"
     },
     "L5AB": {
         "en-US": "Diligent Piere",

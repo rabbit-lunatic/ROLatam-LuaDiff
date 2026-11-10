@@ -199,7 +199,7 @@ SkillInfoList_string = {
 		SkillName = "Tormenta de Meteoros"
 	},
 	[SKID.WZ_JUPITEL] = {
-		SkillName = "Trueno de Jupitel"
+		SkillName = "Trueno de Júpiter"
 	},
 	[SKID.WZ_VERMILION] = {
 		SkillName = "Ira de Thor"
@@ -390,10 +390,10 @@ SkillInfoList_string = {
 	},
 	[SKID.TF_BACKSLIDING] = {SkillName = "Retroceso"},
 	[SKID.TF_PICKSTONE] = {
-		SkillName = "Encontrar Piedra"
+		SkillName = "Buscar Piedra"
 	},
 	[SKID.TF_THROWSTONE] = {
-		SkillName = "Lanzamiento de Piedras"
+		SkillName = "Lanzar Piedra"
 	},
 	[SKID.MC_CARTREVOLUTION] = {
 		SkillName = "Revolución Rodante"

@@ -1,4 +1,3 @@
-RecommendedQuestInfoList = {}
 RecommendedQuestInfoList = {
 	[1] = {
 		Title = "Bem vindo ao mundo de Ragnarök!",
@@ -19,24 +18,6 @@ RecommendedQuestInfoList = {
 		},
 		QuestInfo3 = {
 			"^ff0000Esta é uma página permanente de boas vindas.^000000"
-		}
-	},
-	[10000] = {
-		Title = "Local da Queda da Aeronave",
-		IconName = "ico_sc.bmp",
-		Summary = "Uma história no local onde a aeronave caiu",
-		NpcSpr = "4_M_FAIRYANG",
-		BgName = "reco_10000.bmp",
-		QuestInfo1 = {
-			"Por meio do <NAVI>[Espaço Dimensional]<INFO>dali02,137,86,0,101,0</INFO></NAVI> descoberto por acaso por uma Laphine,",
-			"os aventureiros puderam chegar ao local onde a aeronave caiu. Explore a cavidade descoberta ali, agora esquecida."
-		},
-		QuestInfo2 = {
-			"Requisitos de acesso",
-			"Aventureiros de ^990000nível 215 ou superior^000000"
-		},
-		QuestInfo3 = {
-			"^ff0000* Esta página é uma apresentação de atualização, não uma missão. Ela não será excluída mesmo após concluir a missão.^000000"
 		}
 	},
 	[84] = {
@@ -125,27 +106,6 @@ RecommendedQuestInfoList = {
 			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Ela não será removida mesmo após a conclusão da missão. Tenha isso em mente.^000000"
 		}
 	},
-	[82] = {
-		Title = "MD Memórias dos Heróis Túmulo do Arrependimento",
-		IconName = "ico_sc.bmp",
-		Summary = "O espadachim mágico encontrado em Túmulo do Arrependimento e a espada mágica que anseia por sangue",
-		BgName = "reco_82.bmp",
-		NpcSpr = "MD_TIARA",
-		NpcNavi = "dali",
-		NpcPosX = 124,
-		NpcPosY = 88,
-		QuestInfo1 = {
-			"Um pedido recebido da princesa de um reino arruinado, e o contratante da espada mágica encontrado no destino alcançado.",
-			"A Espada ruge, e o cadáver que se ergueu fora de seu tempo derrama lágrimas."
-		},
-		QuestInfo2 = {
-			"Condições de acesso",
-			"Aventureiros de nível 220 ou superior"
-		},
-		QuestInfo3 = {
-			"^ff0000 Esta página é uma apresentação de atualização, não uma missão. Observe que ela não será excluída mesmo que a missão seja concluída.^000000"
-		}
-	},
 	[77] = {
 		Title = "Biosfera de Varmunt",
 		IconName = "ico_sc.bmp",
@@ -162,6 +122,26 @@ RecommendedQuestInfoList = {
 		},
 		QuestInfo3 = {
 			"^ff0000 Esta página apresenta uma atualização e não é uma missão. Ela não será removida mesmo após a conclusão da missão.^000000"
+		}
+	},
+	[75] = {
+		Title = "Episódio 19: Terra das Flores Invernais",
+		IconName = "ico_ep.bmp",
+		Summary = "Uma terra congelada além do mar do norte.",
+		BgName = "reco_75.bmp",
+		QuestInfo1 = {
+			"Uma terra além do mar do norte, onde se transmite a lenda de ^3169ceJormungand^000000.",
+			"Será possível impedir a ambição de ^3169ceBagot^000000, que fugiu levando um Fragmento do Coração de Ymir? Que segredos o ^3169ceCulto de Jormungand^000000 esconde?",
+			"Carregada de inquietação, a aeronave parte agora rumo a ^3169ceIssgard^000000."
+		},
+		QuestInfo2 = {
+			"Pré-requisitos:",
+			"Concluir o Episódio ^3275f018^000000",
+			"^3275f0Nv. 200 ou mais^000000"
+		},
+		QuestInfo3 = {
+			"^ee1073   Bagot^000000",
+			"Vamos te encontrar"
 		}
 	}
 }

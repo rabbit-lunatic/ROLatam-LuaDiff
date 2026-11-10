@@ -22315,6 +22315,44 @@ tbl = {
 			group = 6
 		}
 	},
+	[22539] = {
+		{
+			id = 12429,
+			prob = 1,
+			name = "Barbacoa salvaje",
+			group = 0
+		},
+		{
+			id = 12430,
+			prob = 1,
+			name = "Cóctel de sangre de Warg",
+			group = 0
+		},
+		{
+			id = 12431,
+			prob = 1,
+			name = "Filete de Minor",
+			group = 0
+		},
+		{
+			id = 12432,
+			prob = 1,
+			name = "Té helado de Siroma",
+			group = 0
+		},
+		{
+			id = 12433,
+			prob = 1,
+			name = "Estofado de Drosera y hierbas",
+			group = 0
+		},
+		{
+			id = 12434,
+			prob = 1,
+			name = "Fideos con cola de Petite",
+			group = 0
+		}
+	},
 	[22550] = {
 		{
 			id = 11575,
@@ -31179,13 +31217,13 @@ tbl = {
 			group = 1
 		},
 		{
-			id = 12998,
+			id = 108356,
 			prob = 1000,
 			name = "Caja de Oridecon 10",
 			group = 1
 		},
 		{
-			id = 12997,
+			id = 108358,
 			prob = 1000,
 			name = "Caja de Elunium 10",
 			group = 1
@@ -54961,6 +54999,136 @@ tbl = {
 			group = 6
 		}
 	},
+	[101809] = {
+		{
+			id = 24746,
+			prob = 40,
+			name = "+7 Escudo Sombrío de Recarga",
+			group = 6
+		},
+		{
+			id = 24746,
+			prob = 30,
+			name = "+8 Escudo Sombrío de Recarga",
+			group = 6
+		},
+		{
+			id = 24746,
+			prob = 20,
+			name = "+9 Escudo Sombrío de Recarga",
+			group = 6
+		},
+		{
+			id = 24746,
+			prob = 10,
+			name = "+10 Escudo Sombrío de Recarga",
+			group = 6
+		}
+	},
+	[101858] = {
+		{
+			id = 24730,
+			prob = 40,
+			name = "+7 Arete Sombrío de Automagia",
+			group = 6
+		},
+		{
+			id = 24730,
+			prob = 30,
+			name = "+8 Arete Sombrío de Automagia",
+			group = 6
+		},
+		{
+			id = 24730,
+			prob = 20,
+			name = "+9 Arete Sombrío de Automagia",
+			group = 6
+		},
+		{
+			id = 24730,
+			prob = 10,
+			name = "+10 Arete Sombrío de Automagia",
+			group = 6
+		}
+	},
+	[101859] = {
+		{
+			id = 24731,
+			prob = 40,
+			name = "+7 Collar Sombrío de Automagia",
+			group = 6
+		},
+		{
+			id = 24731,
+			prob = 30,
+			name = "+8 Collar Sombrío de Automagia",
+			group = 6
+		},
+		{
+			id = 24731,
+			prob = 20,
+			name = "+9 Collar Sombrío de Automagia",
+			group = 6
+		},
+		{
+			id = 24731,
+			prob = 10,
+			name = "+10 Collar Sombrío de Automagia",
+			group = 6
+		}
+	},
+	[101860] = {
+		{
+			id = 24728,
+			prob = 40,
+			name = "+7 Malla Sombría de Automagia",
+			group = 6
+		},
+		{
+			id = 24728,
+			prob = 30,
+			name = "+8 Malla Sombría de Automagia",
+			group = 6
+		},
+		{
+			id = 24728,
+			prob = 20,
+			name = "+9 Malla Sombría de Automagia",
+			group = 6
+		},
+		{
+			id = 24728,
+			prob = 10,
+			name = "+10 Malla Sombría de Automagia",
+			group = 6
+		}
+	},
+	[101861] = {
+		{
+			id = 24729,
+			prob = 40,
+			name = "+7 Greba Sombría de Automagia",
+			group = 6
+		},
+		{
+			id = 24729,
+			prob = 30,
+			name = "+8 Greba Sombría de Automagia",
+			group = 6
+		},
+		{
+			id = 24729,
+			prob = 20,
+			name = "+9 Greba Sombría de Automagia",
+			group = 6
+		},
+		{
+			id = 24729,
+			prob = 10,
+			name = "+10 Greba Sombría de Automagia",
+			group = 6
+		}
+	},
 	[101863] = {
 		{
 			id = 24386,
@@ -55010,6 +55178,110 @@ tbl = {
 			id = 24733,
 			prob = 10,
 			name = "+10 Escudo Sombrío del Infinito",
+			group = 6
+		}
+	},
+	[101920] = {
+		{
+			id = 24770,
+			prob = 40,
+			name = "+7 Guantelete Sombrío de EXP",
+			group = 6
+		},
+		{
+			id = 24770,
+			prob = 30,
+			name = "+8 Guantelete Sombrío de EXP",
+			group = 6
+		},
+		{
+			id = 24770,
+			prob = 20,
+			name = "+9 Guantelete Sombrío de EXP",
+			group = 6
+		},
+		{
+			id = 24770,
+			prob = 10,
+			name = "+10 Guantelete Sombrío de EXP",
+			group = 6
+		}
+	},
+	[101921] = {
+		{
+			id = 24683,
+			prob = 40,
+			name = "+7 Escudo Sombrío de EXP",
+			group = 6
+		},
+		{
+			id = 24683,
+			prob = 30,
+			name = "+8 Escudo Sombrío de EXP",
+			group = 6
+		},
+		{
+			id = 24683,
+			prob = 20,
+			name = "+9 Escudo Sombrío de EXP",
+			group = 6
+		},
+		{
+			id = 24683,
+			prob = 10,
+			name = "+10 Escudo Sombrío de EXP",
+			group = 6
+		}
+	},
+	[101923] = {
+		{
+			id = 24768,
+			prob = 40,
+			name = "+7 Guantelete Sombrío Mega Repente",
+			group = 6
+		},
+		{
+			id = 24768,
+			prob = 30,
+			name = "+8 Guantelete Sombrío Mega Repente",
+			group = 6
+		},
+		{
+			id = 24768,
+			prob = 20,
+			name = "+9 Guantelete Sombrío Mega Repente",
+			group = 6
+		},
+		{
+			id = 24768,
+			prob = 10,
+			name = "+10 Guantelete Sombrío Mega Repente",
+			group = 6
+		}
+	},
+	[101924] = {
+		{
+			id = 24767,
+			prob = 40,
+			name = "+7 Escudo Sombrío Mega Repente",
+			group = 6
+		},
+		{
+			id = 24767,
+			prob = 30,
+			name = "+8 Escudo Sombrío Mega Repente",
+			group = 6
+		},
+		{
+			id = 24767,
+			prob = 20,
+			name = "+9 Escudo Sombrío Mega Repente",
+			group = 6
+		},
+		{
+			id = 24767,
+			prob = 10,
+			name = "+10 Escudo Sombrío Mega Repente",
 			group = 6
 		}
 	},
@@ -57062,6 +57334,26 @@ tbl = {
 			id = 1000502,
 			prob = 10,
 			name = "Agua Ungida 3",
+			group = 0
+		},
+		{
+			id = 100081,
+			prob = 10,
+			name = "[Evento] Tomo de Batalla",
+			group = 0
+		}
+	},
+	[102745] = {
+		{
+			id = 1000812,
+			prob = 10,
+			name = "Piedra Mágica de Flor Invernal 10",
+			group = 0
+		},
+		{
+			id = 1000608,
+			prob = 10,
+			name = "Pétalo de Copo de Nieve 10",
 			group = 0
 		},
 		{
@@ -68527,9 +68819,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 16862,
+			id = 108562,
 			prob = 0,
-			name = "Manual de Clase (1) 2",
+			name = "Manual de Clase(10) 2",
 			group = 0
 		},
 		{
@@ -73709,7 +74001,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 600,
 			name = "Caja de Barritas 3",
 			group = 6
@@ -73963,7 +74255,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 600,
 			name = "Caja de Barritas 3",
 			group = 6
@@ -74667,7 +74959,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 600,
 			name = "Caja de Barritas 3",
 			group = 6
@@ -74921,7 +75213,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 600,
 			name = "Caja de Barritas 3",
 			group = 6
@@ -75991,7 +76283,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 600,
 			name = "Caja de Barritas 3",
 			group = 6
@@ -76459,7 +76751,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 600,
 			name = "Caja de Barritas 3",
 			group = 6
@@ -78777,7 +79069,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 1408,
 			name = "Caja de Barritas",
 			group = 6
@@ -79037,7 +79329,7 @@ tbl = {
 			group = 6
 		},
 		{
-			id = 17449,
+			id = 108557,
 			prob = 1408,
 			name = "Caja de Barritas",
 			group = 6
@@ -87797,6 +88089,22 @@ tbl = {
 			group = 0
 		}
 	},
+	[108356] = {
+		{
+			id = 984,
+			prob = 10,
+			name = "Oridecon 5",
+			group = 0
+		}
+	},
+	[108358] = {
+		{
+			id = 985,
+			prob = 10,
+			name = "Elunium 5",
+			group = 0
+		}
+	},
 	[108367] = {
 		{
 			id = 108437,
@@ -88889,6 +89197,806 @@ tbl = {
 			group = 0
 		}
 	},
+	[108539] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Cupón de Millas Kachua",
+			group = 0
+		},
+		{
+			id = 108557,
+			prob = 1400,
+			name = "Caja de Barritas 3",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Maleta de Productos Químicos 2",
+			group = 6
+		},
+		{
+			id = 12792,
+			prob = 1400,
+			name = "Super Píldora de Combate 2",
+			group = 6
+		},
+		{
+			id = 12514,
+			prob = 1400,
+			name = "[Evento] Pulidor de Armas 2",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Evento] Bendición de Tyr 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual y Goma de Mascar",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poción de Maná Pequeña 2",
+			group = 6
+		},
+		{
+			id = 12404,
+			prob = 950,
+			name = "Poción energizante 5",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitada] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Caja con 3 Bendiciones de Herrero",
+			group = 6
+		},
+		{
+			id = 22539,
+			prob = 600,
+			name = "Caja de Cocina Avanzada",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 600,
+			name = "Seguro Nuevo 2",
+			group = 6
+		},
+		{
+			id = 17600,
+			prob = 600,
+			name = "Cj. Tarjeta Pata de Gato (1 día)",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caja de Martillos Sombríos",
+			group = 6
+		},
+		{
+			id = 24792,
+			prob = 500,
+			name = "Guantalete Sombría Magistral",
+			group = 6
+		},
+		{
+			id = 24793,
+			prob = 500,
+			name = "Escudo Sombrío Magistral",
+			group = 6
+		},
+		{
+			id = 108314,
+			prob = 400,
+			name = "Cubo Sombrío Talentoso",
+			group = 6
+		},
+		{
+			id = 24832,
+			prob = 400,
+			name = "Malla Magistral de los Halcones",
+			group = 6
+		},
+		{
+			id = 24833,
+			prob = 400,
+			name = "Grebas Magistrales de los Halcones",
+			group = 6
+		},
+		{
+			id = 24834,
+			prob = 400,
+			name = "Aretes Magistrales de los Halcones",
+			group = 6
+		},
+		{
+			id = 24835,
+			prob = 300,
+			name = "Collar Magistral de los Halcones",
+			group = 6
+		},
+		{
+			id = 102485,
+			prob = 300,
+			name = "Caja de Esencia Sombría",
+			group = 6
+		},
+		{
+			id = 101399,
+			prob = 300,
+			name = "Sobre de Encantamientos",
+			group = 6
+		},
+		{
+			id = 400375,
+			prob = 200,
+			name = "Corona Ambivalente Imperial [1]",
+			group = 6
+		},
+		{
+			id = 400380,
+			prob = 200,
+			name = "Corona Ambivalente Mecánica [1]",
+			group = 6
+		},
+		{
+			id = 400376,
+			prob = 200,
+			name = "Corona Ambivalente Arcana [1]",
+			group = 6
+		},
+		{
+			id = 470236,
+			prob = 200,
+			name = "Botas Ambivalentes Imperiales [1]",
+			group = 6
+		},
+		{
+			id = 470221,
+			prob = 200,
+			name = "Botas Ambivalentes Mecánicas [1]",
+			group = 6
+		},
+		{
+			id = 470237,
+			prob = 200,
+			name = "Botas Ambivalentes Arcanas [1]",
+			group = 6
+		},
+		{
+			id = 101919,
+			prob = 80,
+			name = "Sombra de EXP Seleccionable",
+			group = 6
+		},
+		{
+			id = 101856,
+			prob = 80,
+			name = "Automagia Seleccionable",
+			group = 6
+		},
+		{
+			id = 620022,
+			prob = 70,
+			name = "Mazo Celestial [2]",
+			group = 6
+		},
+		{
+			id = 510092,
+			prob = 70,
+			name = "Daga Celestial [2]",
+			group = 6
+		},
+		{
+			id = 500065,
+			prob = 70,
+			name = "Estoque Infernal [2]",
+			group = 6
+		},
+		{
+			id = 550093,
+			prob = 70,
+			name = "Segadora Infernal [2]",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Núcleo Dimensional",
+			group = 6
+		},
+		{
+			id = 28946,
+			prob = 45,
+			name = "Sangriento Purificado [1]",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Sobre de Alto Refino",
+			group = 6
+		},
+		{
+			id = 101922,
+			prob = 5,
+			name = "Mega Repente Seleccionable",
+			group = 6
+		},
+		{
+			id = 101809,
+			prob = 5,
+			name = "Caja de Escudo de Recarga",
+			group = 6
+		}
+	},
+	[108540] = {
+		{
+			id = 1000274,
+			prob = 0,
+			name = "Cupón de Millas Kachua",
+			group = 0
+		},
+		{
+			id = 108557,
+			prob = 1400,
+			name = "Caja de Barritas 3",
+			group = 6
+		},
+		{
+			id = 23312,
+			prob = 1400,
+			name = "Maleta de Productos Químicos 2",
+			group = 6
+		},
+		{
+			id = 12792,
+			prob = 1400,
+			name = "Super Píldora de Combate 2",
+			group = 6
+		},
+		{
+			id = 12514,
+			prob = 1400,
+			name = "[Evento] Pulidor de Armas 2",
+			group = 6
+		},
+		{
+			id = 23047,
+			prob = 1400,
+			name = "[Evento] Bendición de Tyr 3",
+			group = 6
+		},
+		{
+			id = 22979,
+			prob = 950,
+			name = "[Evento] Manual y Goma de Mascar",
+			group = 6
+		},
+		{
+			id = 23012,
+			prob = 950,
+			name = "[Evento] Poción de Maná Pequeña 2",
+			group = 6
+		},
+		{
+			id = 12404,
+			prob = 950,
+			name = "Poción energizante 5",
+			group = 6
+		},
+		{
+			id = 102803,
+			prob = 950,
+			name = "Estimulante 2",
+			group = 6
+		},
+		{
+			id = 6833,
+			prob = 950,
+			name = "[Limitada] Amuleto de Siegfried 3",
+			group = 6
+		},
+		{
+			id = 101047,
+			prob = 600,
+			name = "Caja con 3 Bendiciones de Herrero",
+			group = 6
+		},
+		{
+			id = 22539,
+			prob = 600,
+			name = "Caja de Cocina Avanzada",
+			group = 6
+		},
+		{
+			id = 6413,
+			prob = 600,
+			name = "Seguro Nuevo 2",
+			group = 6
+		},
+		{
+			id = 17600,
+			prob = 600,
+			name = "Cj. Tarjeta Pata de Gato (1 día)",
+			group = 6
+		},
+		{
+			id = 101048,
+			prob = 600,
+			name = "Caja de Martillos Sombríos",
+			group = 6
+		},
+		{
+			id = 24792,
+			prob = 500,
+			name = "Guantalete Sombría Magistral",
+			group = 6
+		},
+		{
+			id = 24793,
+			prob = 500,
+			name = "Escudo Sombrío Magistral",
+			group = 6
+		},
+		{
+			id = 108314,
+			prob = 400,
+			name = "Cubo Sombrío Talentoso",
+			group = 6
+		},
+		{
+			id = 24832,
+			prob = 400,
+			name = "Malla Magistral de los Halcones",
+			group = 6
+		},
+		{
+			id = 24833,
+			prob = 400,
+			name = "Grebas Magistrales de los Halcones",
+			group = 6
+		},
+		{
+			id = 24834,
+			prob = 400,
+			name = "Aretes Magistrales de los Halcones",
+			group = 6
+		},
+		{
+			id = 24835,
+			prob = 300,
+			name = "Collar Magistral de los Halcones",
+			group = 6
+		},
+		{
+			id = 102485,
+			prob = 300,
+			name = "Caja de Esencia Sombría",
+			group = 6
+		},
+		{
+			id = 101399,
+			prob = 300,
+			name = "Sobre de Encantamientos",
+			group = 6
+		},
+		{
+			id = 400375,
+			prob = 200,
+			name = "Corona Ambivalente Imperial [1]",
+			group = 6
+		},
+		{
+			id = 400380,
+			prob = 200,
+			name = "Corona Ambivalente Mecánica [1]",
+			group = 6
+		},
+		{
+			id = 400376,
+			prob = 200,
+			name = "Corona Ambivalente Arcana [1]",
+			group = 6
+		},
+		{
+			id = 470236,
+			prob = 200,
+			name = "Botas Ambivalentes Imperiales [1]",
+			group = 6
+		},
+		{
+			id = 470221,
+			prob = 200,
+			name = "Botas Ambivalentes Mecánicas [1]",
+			group = 6
+		},
+		{
+			id = 470237,
+			prob = 200,
+			name = "Botas Ambivalentes Arcanas [1]",
+			group = 6
+		},
+		{
+			id = 101919,
+			prob = 80,
+			name = "Sombra de EXP Seleccionable",
+			group = 6
+		},
+		{
+			id = 101856,
+			prob = 80,
+			name = "Automagia Seleccionable",
+			group = 6
+		},
+		{
+			id = 620022,
+			prob = 70,
+			name = "Mazo Celestial [2]",
+			group = 6
+		},
+		{
+			id = 510092,
+			prob = 70,
+			name = "Daga Celestial [2]",
+			group = 6
+		},
+		{
+			id = 500065,
+			prob = 70,
+			name = "Estoque Infernal [2]",
+			group = 6
+		},
+		{
+			id = 550093,
+			prob = 70,
+			name = "Segadora Infernal [2]",
+			group = 6
+		},
+		{
+			id = 7925,
+			prob = 45,
+			name = "Núcleo Dimensional",
+			group = 6
+		},
+		{
+			id = 28946,
+			prob = 45,
+			name = "Sangriento Purificado [1]",
+			group = 6
+		},
+		{
+			id = 100750,
+			prob = 10,
+			name = "Sobre de Alto Refino",
+			group = 6
+		},
+		{
+			id = 101922,
+			prob = 5,
+			name = "Mega Repente Seleccionable",
+			group = 6
+		},
+		{
+			id = 101809,
+			prob = 5,
+			name = "Caja de Escudo de Recarga",
+			group = 6
+		}
+	},
+	[108541] = {
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars",
+			group = 0
+		}
+	},
+	[108542] = {
+		{
+			id = 23898,
+			prob = 0,
+			name = "[Evento] Poción Ilimitada 8",
+			group = 0
+		},
+		{
+			id = 23899,
+			prob = 0,
+			name = "[Evento] Todopoderoso 8",
+			group = 0
+		},
+		{
+			id = 100061,
+			prob = 0,
+			name = "[Evento] Elixir Rojo 15",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 2",
+			group = 0
+		}
+	},
+	[108543] = {
+		{
+			id = 12208,
+			prob = 0,
+			name = "Manual de Combate 2",
+			group = 0
+		},
+		{
+			id = 14533,
+			prob = 0,
+			name = "Manual de Combate Avanzado 2",
+			group = 0
+		},
+		{
+			id = 12497,
+			prob = 0,
+			name = "[Limitado] Chicle 2",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 6",
+			group = 0
+		}
+	},
+	[108544] = {
+		{
+			id = 12516,
+			prob = 0,
+			name = "[Evento] Poción de Vida Pequeña 20",
+			group = 0
+		},
+		{
+			id = 12515,
+			prob = 0,
+			name = "[Evento] Poción de Vida Mediana  20",
+			group = 0
+		},
+		{
+			id = 9610,
+			prob = 0,
+			name = "[Evento] Agua Misteriosa 20",
+			group = 0
+		},
+		{
+			id = 101367,
+			prob = 0,
+			name = "[Especial] Poción de Mana Pequeña 20",
+			group = 0
+		},
+		{
+			id = 14600,
+			prob = 0,
+			name = "Poción Mental 20",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 2",
+			group = 0
+		}
+	},
+	[108545] = {
+		{
+			id = 22979,
+			prob = 0,
+			name = "[Evento] Manual y Goma de Mascar 30",
+			group = 0
+		},
+		{
+			id = 14533,
+			prob = 0,
+			name = "Manual de Combate Avanzado 10",
+			group = 0
+		},
+		{
+			id = 100081,
+			prob = 0,
+			name = "[Evento] Tomo de Batalla 2",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 11",
+			group = 0
+		}
+	},
+	[108546] = {
+		{
+			id = 100913,
+			prob = 0,
+			name = "Manual de Kafra [7 Días]",
+			group = 0
+		},
+		{
+			id = 23899,
+			prob = 0,
+			name = "[Evento] Todopoderoso 25",
+			group = 0
+		},
+		{
+			id = 14766,
+			prob = 0,
+			name = "Poción Ilimitada 25",
+			group = 0
+		},
+		{
+			id = 100333,
+			prob = 0,
+			name = "[Evento] Poción Infinita 25",
+			group = 0
+		},
+		{
+			id = 23204,
+			prob = 0,
+			name = "Escrituras 100",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 11",
+			group = 0
+		}
+	},
+	[108548] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Miaufruto 100",
+			group = 0
+		},
+		{
+			id = 101103,
+			prob = 0,
+			name = "Caja de Piedras de Disfraz 25 2",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 6",
+			group = 0
+		}
+	},
+	[108549] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Miaufruto 200",
+			group = 0
+		},
+		{
+			id = 101103,
+			prob = 0,
+			name = "Caja de Piedras de Disfraz 25 4",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 12",
+			group = 0
+		}
+	},
+	[108550] = {
+		{
+			id = 6909,
+			prob = 0,
+			name = "Miaufruto 300",
+			group = 0
+		},
+		{
+			id = 101103,
+			prob = 0,
+			name = "Caja de Piedras de Disfraz 25 6",
+			group = 0
+		},
+		{
+			id = 108540,
+			prob = 0,
+			name = "[Evento] Artefacto Oval ROStars 18",
+			group = 0
+		}
+	},
+	[108557] = {
+		{
+			id = 14616,
+			prob = 1,
+			name = "Barritas de FUE",
+			group = 0
+		},
+		{
+			id = 14617,
+			prob = 1,
+			name = "Barritas de VIT",
+			group = 0
+		},
+		{
+			id = 14618,
+			prob = 1,
+			name = "Barritas de AGI",
+			group = 0
+		},
+		{
+			id = 14619,
+			prob = 1,
+			name = "Barritas de INT",
+			group = 0
+		},
+		{
+			id = 14620,
+			prob = 1,
+			name = "Barritas de DES",
+			group = 0
+		},
+		{
+			id = 14621,
+			prob = 1,
+			name = "Barritas de SUE",
+			group = 0
+		}
+	},
+	[108562] = {
+		{
+			id = 14606,
+			prob = 0,
+			name = "Manual de Clase 10",
+			group = 0
+		}
+	},
+	[108564] = {
+		{
+			id = 14539,
+			prob = 0,
+			name = "Perg. Arm. Oscuridad 30",
+			group = 0
+		}
+	},
+	[108565] = {
+		{
+			id = 14540,
+			prob = 0,
+			name = "Pergamino de Armadura Sagrada 30",
+			group = 0
+		}
+	},
+	[108566] = {
+		{
+			id = 14593,
+			prob = 0,
+			name = "Pergamino de amplificación mística 50",
+			group = 0
+		}
+	},
 	[200001] = {
 		{
 			id = 25793,
@@ -89357,9 +90465,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108438,
+			id = 108541,
 			prob = 1,
-			name = "Bolsa de Artefacto Diabólico 11",
+			name = "Bolsa de Artefacto Oval ROStars 11",
 			group = 0
 		}
 	},
@@ -89371,9 +90479,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108438,
+			id = 108541,
 			prob = 1,
-			name = "Bolsa de Artefacto Diabólico",
+			name = "Bolsa de Artefacto Oval ROStars",
 			group = 0
 		}
 	},
@@ -89497,9 +90605,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108438,
+			id = 108541,
 			prob = 1,
-			name = "Bolsa de Artefacto Diabólico 11",
+			name = "Bolsa de Artefacto Oval ROStars 11",
 			group = 0
 		}
 	},
@@ -89511,9 +90619,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108438,
+			id = 108541,
 			prob = 1,
-			name = "Bolsa de Artefacto Diabólico",
+			name = "Bolsa de Artefacto Oval ROStars",
 			group = 0
 		}
 	},
@@ -89591,9 +90699,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108438,
+			id = 108541,
 			prob = 1,
-			name = "Bolsa de Artefacto Diabólico 11",
+			name = "Bolsa de Artefacto Oval ROStars 11",
 			group = 0
 		}
 	},
@@ -89605,9 +90713,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108438,
+			id = 108541,
 			prob = 1,
-			name = "Bolsa de Artefacto Diabólico",
+			name = "Bolsa de Artefacto Oval ROStars",
 			group = 0
 		}
 	},
@@ -90089,9 +91197,9 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 108438,
+			id = 108541,
 			prob = 1,
-			name = "Bolsa de Artefacto Diabólico 11",
+			name = "Bolsa de Artefacto Oval ROStars 11",
 			group = 0
 		}
 	},
@@ -91135,7 +92243,7 @@ tbl = {
 			group = 0
 		},
 		{
-			id = 16863,
+			id = 108562,
 			prob = 10,
 			name = "Manual de Clase(10) 2",
 			group = 0
@@ -91599,19 +92707,19 @@ tbl = {
 	},
 	[201034] = {
 		{
-			id = 16834,
+			id = 108564,
 			prob = 10,
 			name = "Perg. Arm. Oscuridad (30) 2",
 			group = 0
 		},
 		{
-			id = 16836,
+			id = 108565,
 			prob = 10,
-			name = "Armadura Sagrada (30) 2",
+			name = "Unknown Item 2",
 			group = 0
 		},
 		{
-			id = 16851,
+			id = 108566,
 			prob = 10,
 			name = "Amplificación Mística (50) 2",
 			group = 0

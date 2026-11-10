@@ -2643,6 +2643,16 @@ tbl_data = {
 		Search = 1,
 		Image = "유저인터페이스\\tipbox\\tip06092",
 		Imgcoord = {Position = 5, Size = 100}
+	},
+	[8143] = {
+		Search = 1,
+		Image = "유저인터페이스\\tipbox\\tip08143",
+		Imgcoord = {Position = 5, Size = 100}
+	},
+	[7101] = {
+		Search = 1,
+		Image = "",
+		Imgcoord = {Position = 5, Size = 100}
 	}
 }
 local function MergeTables(dest, src)

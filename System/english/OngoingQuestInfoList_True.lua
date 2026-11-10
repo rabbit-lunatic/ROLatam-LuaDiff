@@ -6905,25 +6905,25 @@ QuestInfoList = {
 		Description = {
 			"To participate in the Harvest Festival, you will need some items that burn well.",
 			"Gather 5 <ITEM>[High-quality Branches]<INFO>25391</INFO></ITEM>, 10 <ITEM>[Tree Root]<INFO>902</INFO></ITEM>, and 1 <ITEM>[Fire Arrow]<INFO>1752</INFO></ITEM>.",
-			"Report to <NAVI>[Lana]<INFO>alberta,138,169,0,101,0</INFO></NAVI> when you're done."
+			"When you're done, report to <NAVI>[Lana]<INFO>alberta,138,169,0,101,0</INFO></NAVI> ."
 		},
 		Summary = "Gather materials."
 	},
 	[3365] = {
-		Title = "[Event] Kadu the Magician",
+		Title = "[Event] Luna the Mage",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"You heard someone was dispatched from Geffen Tower for this Fire Festival.",
-			"How about meeting up with <NAVI>[Luna the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI> and hear more about it?"
+			"How about meeting up with <NAVI>[Luna the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI>? Let's hear what he has to say."
 		},
-		Summary = "Talk to Kadu"
+		Summary = "Talk to Luna"
 	},
 	[3366] = {
 		Title = "[Event] Serena the Hunter",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"You heard a hunter needs help to catch some hungry savages that are destroying the crops.",
-			"How about meeting up with <NAVI>[Hunter Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> and hear more about it?"
+			"How about meeting up with <NAVI>[Hunter Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>? Let's hear what she has to say."
 		},
 		Summary = "Talk to Serena"
 	},
@@ -6932,7 +6932,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Food is a must at a festival.",
-			"How about meeting up with <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> and hear more about it?"
+			"How about meeting up with <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>? Let's hear what she has to say."
 		},
 		Summary = "Talk to Songhwa"
 	},
@@ -6947,17 +6947,17 @@ QuestInfoList = {
 		Title = "[Daily] Collecting Branches",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"I need you to defeat 10 Revival Branch and bring me 10 High-quality branches. My honor and life depend on it!",
-			"Report to <NAVI>[Kadu the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI> when you're done."
+			"I need you to defeat 10x Revival Branch and bring me 10x High-quality branches. My honor and life depend on it!",
+			"When you're done, report to <NAVI>[Luna the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Collect 10 High-quality branches"
+		Summary = "Collect 10x High-quality branches"
 	},
 	[3370] = {
 		Title = "[Waiting] Collecting Branches",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Luna is busy right now. Could you come back later in the morning?",
-			"Come back to <NAVI>[Kadu the Mage]<INFO>alberta,134,162,0,101,0</INFO></NAVI> tomorrow."
+			"Come back to [<NAVI>Luna the Mage<INFO>alberta,134,162,0,101,0</INFO></NAVI>] tomorrow."
 		},
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
@@ -6966,18 +6966,18 @@ QuestInfoList = {
 		Title = "[Daily] Capturing Hungry Savages",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"We need to safely capture 10 Hungry Savages that have already come down to the village and return them home.",
-			"Report to <NAVI>[Hunter Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> when you're done.",
+			"We need to safely capture 10x Hungry Savages that have already come down to the village and return them home.",
+			"When you're done, report to <NAVI>[Hunter Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>.",
 			"Talk to her if you run out Savage Traps."
 		},
-		Summary = "Capture 10 Hungry Savages"
+		Summary = "Capture 10x Hungry Savages"
 	},
 	[3372] = {
 		Title = "[Waiting] Capturing Hungry Savages",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Serena needs a time to prepare the traps.",
-			"Come back to <NAVI>[Hunter Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> tomorrow."
+			"Come back to [<NAVI>Hunter Serena<INFO>alberta,152,198,0,101,0</INFO></NAVI>] tomorrow."
 		},
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
@@ -6986,8 +6986,8 @@ QuestInfoList = {
 		Title = "[Daily] Songpyeon Preparation",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Collect 1 <ITEM>[Grains]<INFO>577</INFO></ITEM>, 3 <ITEM>[Honey]<INFO>518</INFO></ITEM>, and 10 <ITEM>[Green Herb]<INFO>511</INFO></ITEM>.",
-			"Report to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> when you're done."
+			"Collect 1x <ITEM>[Grains]<INFO>577</INFO></ITEM>, 3x <ITEM>[Honey]<INFO>518</INFO></ITEM>, and 10x <ITEM>[Green Herb]<INFO>511</INFO></ITEM>.",
+			"When you're done, report to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Collect ingredients"
 	},
@@ -6995,8 +6995,8 @@ QuestInfoList = {
 		Title = "[Daily] Moon Cookies Preparation",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Collect 1 <ITEM>[Yellow Spice]<INFO>7452</INFO></ITEM>, and 3 <ITEM>[Trunk]<INFO>1019 </INFO></ITEM>.",
-			"Report to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> when you're done."
+			"Collect 1x <ITEM>[Yellow Spice]<INFO>7452</INFO></ITEM>, and 3x <ITEM>[Trunk]<INFO>1019 </INFO></ITEM>.",
+			"When you're done, report to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Collect ingredients"
 	},
@@ -7004,8 +7004,8 @@ QuestInfoList = {
 		Title = "[Daily] Roast Turkey Preparation",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Collect 1 <ITEM>[Savory Sauce]<INFO>7454</INFO></ITEM>, 3 <ITEM>[Lemon]<INFO>568</INFO></ITEM>, and 10 <ITEM>[Carrot]<INFO>515</INFO></ITEM>.",
-			"Report to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> when you're done."
+			"Collect 1x <ITEM>[Savory Sauce]<INFO>7454</INFO></ITEM>, 3x <ITEM>[Lemon]<INFO>568</INFO></ITEM>, and 10x <ITEM>[Carrot]<INFO>515</INFO></ITEM>.",
+			"When you're done, report to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Collect ingredients"
 	},
@@ -7014,7 +7014,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"They are busy preparing food right now.",
-			"Come back to <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> tomorrow."
+			"Come back to [<NAVI>Songhwa<INFO>alberta,119,193,0,101,0</INFO></NAVI>] tomorrow."
 		},
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
@@ -7023,7 +7023,7 @@ QuestInfoList = {
 		Title = "[Event] Louise Business",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI> seems to need help. Let's talk to her."
+			"[<NAVI>Louise<INFO>alberta,115,198,0,101,0</INFO></NAVI>] seems to need help. Let's talk to her."
 		},
 		Summary = "Talk to Louise"
 	},
@@ -7032,8 +7032,8 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"The turkeys need food.",
-			"Let's collect 30 <ITEM>[Grasshopper's Leg]<INFO>940</INFO></ITEM>, 20 <ITEM>[Green Herb]<INFO>511</INFO></ITEM>, and 20 <ITEM>[Harvest Biscuit]<INFO>11613</INFO></ITEM>.",
-			"Report to <NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI> when you're done."
+			"Let's collect 30x <ITEM>[Grasshopper's Leg]<INFO>940</INFO></ITEM>, 20x <ITEM>[Green Herb]<INFO>511</INFO></ITEM>, and 20x <ITEM>[Harvest Biscuit]<INFO>11613</INFO></ITEM>.",
+			"When you're done, report to <NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Collect materials"
 	},
@@ -7042,8 +7042,8 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"The turkeys need food.",
-			"Let's collect 30 <ITEM>[Grasshopper's Leg]<INFO>940</INFO></ITEM>, 20 <ITEM>[Green Herb]<INFO>511</INFO></ITEM>, and 20 <ITEM>[Harvest Biscuit]<INFO>11613</INFO></ITEM>.",
-			"Report to <NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI> when you're done."
+			"Let's collect 30x <ITEM>[Grasshopper's Leg]<INFO>940</INFO></ITEM>, 20x <ITEM>[Green Herb]<INFO>511</INFO></ITEM>, and 20x <ITEM>[Harvest Biscuit]<INFO>11613</INFO></ITEM>.",
+			"When you're done, report to <NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Collect materials"
 	},
@@ -7052,7 +7052,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"There's plenty of food for the turkeys now. Let's go back and look for them after dawn.",
-			"Come back to <NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI> tomorrow."
+			"Come back to [<NAVI>Louise<INFO>alberta,115,198,0,101,0</INFO></NAVI>] tomorrow."
 		},
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
@@ -7061,7 +7061,7 @@ QuestInfoList = {
 		Title = "[Event] Mr. Kim Business",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Mr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI> seems to need help. Let's talk to him."
+			"[<NAVI>Mr. Kim<INFO>alberta,119,198,0,101,0</INFO></NAVI>] seems to need help. Let's talk to him."
 		},
 		Summary = "Talk to Mr. Kim"
 	},
@@ -7069,25 +7069,25 @@ QuestInfoList = {
 		Title = "[Event] Urgent Visit to Kunlun",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Mr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI> needs to visit her daughter in Kunlun but he's too busy to get a ticket.",
-			"Let's give him 2 <ITEM>[Tickets to anywhere]<INFO>25392</INFO></ITEM>."
+			"[<NAVI>Mr. Kim<INFO>alberta,119,198,0,101,0</INFO></NAVI>] needs to visit her daughter in Kunlun but he's too busy to get a ticket.",
+			"Let's give him 2x <ITEM>[Ticket to Anywhere]<INFO>25392</INFO></ITEM>."
 		},
-		Summary = "2 Tickets for Mr. Kim"
+		Summary = "2x Ticket to Anywhere for Mr. Kim"
 	},
 	[3383] = {
 		Title = "[Daily] Urgent Visit to Kunlun",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Mr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI> needs to visit her daughter in Kunlun but he's too busy to get a ticket.",
-			"Let's give him 2 <ITEM>[Tickets to anywhere]<INFO>25392</INFO></ITEM>."
+			"[<NAVI>Mr. Kim<INFO>alberta,119,198,0,101,0</INFO></NAVI>] needs to visit her daughter in Kunlun but he's too busy to get a ticket.",
+			"Let's give him 2x <ITEM>[Ticket to Anywhere]<INFO>25392</INFO></ITEM>."
 		},
-		Summary = "2 Tickets for Mr. Kim"
+		Summary = "2 Ticket to Anywhere for Mr. Kim"
 	},
 	[3384] = {
 		Title = "[Waiting] Urgent Visit to Kunlun",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Let's check out with <NAVI>[Mr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI> tomorrow. He might need our help again."
+			"Let's check out with [<NAVI>Mr. Kim<INFO>alberta,119,198,0,101,0</INFO></NAVI>] tomorrow. He might need our help again."
 		},
 		Summary = "Resets at 04:00",
 		CoolTimeQuest = 1
@@ -7096,7 +7096,7 @@ QuestInfoList = {
 		Title = "[Event] Eunwol Business",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Eunwol]<INFO>alberta,117,198,0,101,0</INFO></NAVI> seems to need help. Let's talk to him."
+			"[<NAVI>Eunwol<INFO>alberta,117,198,0,101,0</INFO></NAVI>] seems to need help. Let's talk to him."
 		},
 		Summary = "Talk to Eunwol"
 	},
@@ -7104,17 +7104,17 @@ QuestInfoList = {
 		Title = "[Event] Cookies Delivery",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Eunwol]<INFO>alberta,117,198,0,101,0</INFO></NAVI> asks you to bring him 10 <ITEM>[Harvest Biscuit]<INFO>11613</INFO></ITEM>."
+			"[<NAVI>Eunwol<INFO>alberta,117,198,0,101,0</INFO></NAVI>] asks you to bring him 10x <ITEM>[Autumnal Cookie]<INFO>11613</INFO></ITEM>."
 		},
-		Summary = "Give 10 Harvest Biscuit"
+		Summary = "Give 10x Autumnal Cookie"
 	},
 	[3387] = {
 		Title = "[Daily] Cookies Delivery",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Eunwol]<INFO>alberta,117,198,0,101,0</INFO></NAVI> asks you to bring him 10 <ITEM>[Harvest Biscuit]<INFO>11613</INFO></ITEM>."
+			"[<NAVI>Eunwol<INFO>alberta,117,198,0,101,0</INFO></NAVI>] asks you to bring him 10x <ITEM>[Autumnal Cookie]<INFO>11613</INFO></ITEM>."
 		},
-		Summary = "Give 10 Harvest Biscuit"
+		Summary = "Give 10x Autumnal Cookie"
 	},
 	[3388] = {
 		Title = "[Waiting] Cookies Delivery",
@@ -34357,7 +34357,7 @@ QuestInfoList = {
 		}
 	},
 	[11794] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Voglinde seems to be looking for a certain Cardinal. Let's ask the <NAVI>[friends]<INFO>icas_in,130,201,0,101,0</INFO></NAVI> who came to Ice Castle together by airship about the whereabouts of the Cardinal."
@@ -34365,39 +34365,39 @@ QuestInfoList = {
 		Summary = "Talk to Maram"
 	},
 	[11795] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Maram says he has not seen the Cardinal Voglinde is looking for. Let's ask <NAVI>[Lehar]<INFO>icas_in,136,197,0,101,0</INFO></NAVI>, who has just returned to Ice Castle, about the Cardinal."
+			"Maram says he has not seen the Cardinal that Voglinde is looking for. Let's ask <NAVI>[Lehar]<INFO>icas_in,136,197,0,101,0</INFO></NAVI>, who has just returned to Ice Castle, about the Cardinal."
 		},
 		Summary = "Talk to Lehar"
 	},
 	[11796] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"It seems Lehar also does not know the whereabouts of the Saint. Let's report to <NAVI>[Voglinde]<INFO>icas_in,164,228,0,101,0</INFO></NAVI> at Inside the Ice Castle."
+			"It seems Lehar also does not know the whereabouts of the Saint. Let's report to <NAVI>[Voglinde]<INFO>icas_in,164,228,0,101,0</INFO></NAVI>, inside the Ice Castle."
 		},
 		Summary = "Talk to Voglinde"
 	},
 	[11797] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We need to return to Midgard to find the Saint. Let's find <NAVI>[Hellrock]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI> at Frozen Tail."
+			"We need to return to Midgard to find the Saint. Let's find <NAVI>[Hellock]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI> at Frozen Tail."
 		},
-		Summary = "Talk to Hellrock"
+		Summary = "Talk to Hellock"
 	},
 	[11798] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"We arrived in Aldebaran on Hellrock's sleigh. Let's talk to <NAVI>[Hellrock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> again."
+			"We arrived in Aldebaran on Hellock's sleigh. Speak again with <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Talk to Hellrock"
+		Summary = "Talk to Hellock"
 	},
 	[11799] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Let's meet <NAVI>[Copy Officer Alice]<INFO>prontera,254,309,0,101,0</INFO></NAVI> in Prontera to gather information about the Saint."
@@ -34405,7 +34405,7 @@ QuestInfoList = {
 		Summary = "Talk to Alice"
 	},
 	[11800] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Follow Alice to the <NAVI>[Saint's quarters]<INFO>prt_cas,20,32,0,101,0</INFO></NAVI>."
@@ -34413,7 +34413,7 @@ QuestInfoList = {
 		Summary = "Find the Saint"
 	},
 	[11801] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"We found the <NAVI>[Saint]<INFO>prt_cas,18,32,0,101,0</INFO></NAVI> at Prontera Palace. She seems to be packing for the trip to Issgard, so let's keep watch until Alice, who went to fetch a porter, returns."
@@ -34421,7 +34421,7 @@ QuestInfoList = {
 		Summary = "Talk to Saint"
 	},
 	[11802] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Alice returned to Prontera Palace with a porter, but Friederike's belongings are still completely unpacked and there seem to be far too many of them. Let's check the <NAVI>[Travel Bag]<INFO>prt_cas,15,31,0,101,0</INFO></NAVI> to reduce the luggage."
@@ -34429,7 +34429,7 @@ QuestInfoList = {
 		Summary = "Check Travel Bag"
 	},
 	[11803] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Let's also check another <NAVI>[Travel Bag]<INFO>prt_cas,16,27,0,101,0</INFO></NAVI> in Friederike's quarters inside Prontera Palace."
@@ -34437,7 +34437,7 @@ QuestInfoList = {
 		Summary = "Check Travel Bag"
 	},
 	[11804] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Let's also check another <NAVI>[Travel Bag]<INFO>prt_cas,26,27,0,101,0</INFO></NAVI> in Friederike's quarters inside Prontera Palace."
@@ -34445,7 +34445,7 @@ QuestInfoList = {
 		Summary = "Check Travel Bag"
 	},
 	[11805] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Let's also check another <NAVI>[Travel Bag]<INFO>prt_cas,23,36,0,101,0</INFO></NAVI> in Friederike's quarters inside Prontera Palace."
@@ -34453,7 +34453,7 @@ QuestInfoList = {
 		Summary = "Check Travel Bag"
 	},
 	[11806] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Let's also check another <NAVI>[Travel Bag]<INFO>prt_cas,22,30,0,101,0</INFO></NAVI> in Friederike's quarters inside Prontera Palace."
@@ -34461,7 +34461,7 @@ QuestInfoList = {
 		Summary = "Check Travel Bag"
 	},
 	[11807] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Packing is complete. Let's talk to <NAVI>[Copy Officer Alice]<INFO>prt_cas,21,31,0,101,0</INFO></NAVI> in Friederike's quarters inside Prontera Palace."
@@ -34469,15 +34469,15 @@ QuestInfoList = {
 		Summary = "Talk to Alice"
 	},
 	[11808] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Preparations to leave for Issgard are complete. Meet <NAVI>[Hellrock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> in Aldebaran and travel to Issgard."
+			"Preparations to leave for Issgard are complete. Meet <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> in Aldebaran and travel to Issgard."
 		},
-		Summary = "Talk to Hellrock"
+		Summary = "Talk to Hellock"
 	},
 	[11809] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"We arrived in Issgard again. Take Friederike to <NAVI>[Ice Castle]<INFO>icecastle,23,123,0,101,0</INFO></NAVI>."
@@ -34485,7 +34485,7 @@ QuestInfoList = {
 		Summary = "To Ice Castle"
 	},
 	[11810] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Let's go to the room prepared for <NAVI>[Friederike]<INFO>icecastle,59,213,0,101,0</INFO></NAVI> at Ice Castle."
@@ -34493,7 +34493,7 @@ QuestInfoList = {
 		Summary = "Talk to Friederike"
 	},
 	[11811] = {
-		Title = "Purifying Saint",
+		Title = "Saint of Purification",
 		IconName = "ico_ep.bmp",
 		Description = {
 			"Voglinde came to Friederike's room at Ice Castle, confirmed that Friederike had arrived safely, and left. It seems the next task has been entrusted to <NAVI>[Lehar]<INFO>icas_in,35,118,0,101,0</INFO></NAVI>, so let's talk to him."

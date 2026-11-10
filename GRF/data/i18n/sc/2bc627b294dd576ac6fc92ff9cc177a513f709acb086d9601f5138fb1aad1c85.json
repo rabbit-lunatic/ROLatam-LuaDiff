@@ -47,7 +47,7 @@
     "CRMRDg": {
         "en-US": "[Maram]\nThese are armors crafted by Vellgunde.\nThey're made with the magic of snow flowers, so I'm exchanging them for Snow Flower Petal.",
         "pt-BR": "[Maram]\nEstas armaduras foram feitas por Vellgunde.\nComo foram criadas com o poder mágico da neve, estou trocando por Pétala de Flor de Neve.",
-        "es-ES": "[Maram]\nEstas son armaduras fabricadas por Vellgunde.\nEstán hechas con la magia de las Flores de Nieve, así que las intercambio por Pétalo de Copo de Nieve."
+        "es-ES": "[Maram]\nEstas son armaduras fabricadas por Vellgunde.\nEstán hechas con la magia de las Flores de Nieve, así que las intercambio por Pétalo de Flor Invernal."
     },
     "ChMRDg": {
         "en-US": "[Maram]\nThese are weapons I procured the basic materials for and Vellgunde completed.\nSince the basic materials cost money, I'll have to charge a small amount of Zeny.",
@@ -127,7 +127,7 @@
     "GRMRDg": {
         "en-US": "Exchange Snow Flower Petal",
         "pt-BR": "Trocar Pétala de Flor de Neve",
-        "es-ES": "Intercambiar Pétalo de Copo de Nieve"
+        "es-ES": "Intercambiar Pétalo de Flor Invernal"
     },
     "GhMRDg": {
         "en-US": "Is Hoyoyo your real name?",
@@ -152,7 +152,7 @@
     "HhMRDg": {
         "en-US": "[Hoyoyo]\nHmm? Do you want to do something with Snow Flower Petal?\nVellgunde has been doing quite a lot of research lately.",
         "pt-BR": "[Hoyoyo]\nHmm? Quer fazer alguma coisa com Pétala de Flor de Neve?\nVellgunde tem pesquisado bastante coisa ultimamente.",
-        "es-ES": "[Hoyoyo]\n¿Mmm? ¿Quieres hacer algo con los Pétalos de Copo de Nieve?\nÚltimamente, Vellgunde ha estado investigando bastante."
+        "es-ES": "[Hoyoyo]\n¿Mmm? ¿Quieres hacer algo con los Pétaloss de Copo de Nieve?\nÚltimamente, Vellgunde ha estado investigando bastante."
     },
     "HxMRDg": {
         "en-US": "[Hoyoyo]\nIf you put a little more effort into helping the Ice Castle, wouldn't that lead to some good results?\nHoyoyoyoyoyo~ Hoyoyoyoyoyoyo~",
@@ -192,7 +192,7 @@
     "JhMRDg": {
         "en-US": "[Vellgunde]\nI'll give you Snow Flower Petal in return.\nYou'll need it when enhancing weapons or armor.",
         "pt-BR": "[Vellgunde]\nEm troca, vou lhe dar Pétala de Flor de Neve.\nVocê vai precisar disso para aprimorar armas ou armaduras.",
-        "es-ES": "[Vellgunde]\nTe daré Pétalos de Copo de Nieve a cambio.\nLos necesitarás para mejorar armas o armaduras."
+        "es-ES": "[Vellgunde]\nTe daré Pétalos de Flor Invernal a cambio.\nLos necesitarás para mejorar armas o armaduras."
     },
     "JxMRDg": {
         "en-US": "[Vellgunde]\nWhat do you need from me?\nI usually research the magic of Jormungand and the Rgans.\nIf there's anything we can help each other with, let's do so.",
@@ -242,7 +242,7 @@
     "MBMRDg": {
         "en-US": "[Vellgunde]\nThat's also a crystal formed by absorbing the residual magic of Jormungand.\nIf it's purified properly, it can be used like Snow Flower Petal.",
         "pt-BR": "[Vellgunde]\nIsso também é um cristal que absorveu o poder mágico residual de Jormungand, sabe?\nSe for bem purificado, pode ser usado como Pétala de Flor de Neve.",
-        "es-ES": "[Vellgunde]\nEso también es un cristal formado al absorber la magia residual de Jormungand.\nSi se purifica correctamente, puede utilizarse como los Pétalos de Copo de Nieve."
+        "es-ES": "[Vellgunde]\nEso también es un cristal formado al absorber la magia residual de Jormungand.\nSi se purifica correctamente, puede utilizarse como los Pétaloss de Copo de Nieve."
     },
     "MRMRDg": {
         "en-US": "[Vellgunde]\nOf course, it's less efficient and would only be useful as fuel.\nI'm researching the magical properties of Rgan and Jormungand, so I need it.",
@@ -277,12 +277,12 @@
     "NxMRDg": {
         "en-US": "[Vellgunde]\nYou need Ice Flower Magic Stones?\nThey can be made from Snow Flower Petal...\nBut it takes a bit of luck.",
         "pt-BR": "[Vellgunde]\nVocê precisa de Pedra Mágica de Flor de Gelo?\nDá para fazer com Pétala de Flor de Neve...\nMas é preciso ter um pouco de sorte.",
-        "es-ES": "[Vellgunde]\n¿Necesitas Piedras Mágicas de Flor Invernal?\nSe pueden fabricar a partir de Pétalos de Copo de Nieve...\nPero necesitas un poco de suerte."
+        "es-ES": "[Vellgunde]\n¿Necesitas Piedras Mágicas de Flor Invernal?\nSe pueden fabricar a partir de Pétalos de Flor Invernal...\nPero necesitas un poco de suerte."
     },
     "OBMRDg": {
         "en-US": "[Vellgunde]\nIf you're willing to risk a little bad luck, I can make them for you.\nI need to grind up about ^4D4DFFSnow Flower Petal 35^000000 and compress them.",
         "pt-BR": "[Vellgunde]\nSe estiver disposto a aceitar um pouco de azar, posso fazer para você.\nÉ preciso moer e comprimir cerca de ^4D4DFF35x Pétala de Flor de Neve^000000.",
-        "es-ES": "[Vellgunde]\nSi estás dispuesto a aceptar algo de mala suerte, puedo hacerla.\nNecesito triturar y comprimir unos ^4D4DFF35 Pétalos de Copo de Nieve^000000."
+        "es-ES": "[Vellgunde]\nSi estás dispuesto a aceptar algo de mala suerte, puedo hacerla.\nNecesito triturar y comprimir unos ^4D4DFF35 Pétalos de Flor Invernal^000000."
     },
     "ORMRDg": {
         "en-US": "Extract Ice Flower Magic Stones.",
@@ -312,7 +312,7 @@
     "PhMRDg": {
         "en-US": "[Vellgunde]\nTo make Ice Flower Magic Stones, you need ^4D4DFFSnow Flower Petal 35^000000.\nThey're crystals of magic, you know?\nThat's why they're also used as fuel in various places.",
         "pt-BR": "[Vellgunde]\nPara criar Pedra Mágica de Flor de Gelo, são necessárias ^4D4DFF35x Pétala de Flor de Neve^000000.\nAfinal, isso é um cristal de poder mágico, sabe?\nPor isso também é usado como combustível em vários lugares.",
-        "es-ES": "[Vellgunde]\nPara fabricar Piedras Mágicas de Flor Invernal, necesitas ^4D4DFF35 Pétalos de Copo de Nieve^000000.\nSon cristales de magia.\nPor eso también se utilizan como combustible en distintos lugares."
+        "es-ES": "[Vellgunde]\nPara fabricar Piedras Mágicas de Flor Invernal, necesitas ^4D4DFF35 Pétalos de Flor Invernal^000000.\nSon cristales de magia.\nPor eso también se utilizan como combustible en distintos lugares."
     },
     "PxMRDg": {
         "en-US": "[Vellgunde]\nThey also serve as currency among the Windcys, so try helping out the Windcys around here.\nYou might be able to get some petals.",

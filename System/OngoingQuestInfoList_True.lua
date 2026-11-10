@@ -6988,14 +6988,14 @@ QuestInfoList = {
 	[3365] = {
 		Title = "[Evento] Kadu, o Mago",
 		Description = {
-			"Conheça <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI> o Mago-Bombeiro do Festival da Colheita."
+			"Conheça <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI>, o Mago-Bombeiro do Festival da Colheita."
 		},
 		Summary = "Fale com Kadu"
 	},
 	[3366] = {
 		Title = "[Evento] Serena, a Caçadora",
 		Description = {
-			"Conheça <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI> a caçadora de selvagens.",
+			"Conheça <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>, a caçadora de selvagens.",
 			""
 		},
 		Summary = "Fale com Serena"
@@ -7003,7 +7003,7 @@ QuestInfoList = {
 	[3367] = {
 		Title = "[Evento] Songhwa, o Cozinheiro",
 		Description = {
-			"Conheça <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI> o cozinheiro regional."
+			"Conheça <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>, a cozinheira local."
 		},
 		Summary = "Fale com Songhwa"
 	},
@@ -7017,23 +7017,23 @@ QuestInfoList = {
 	[3369] = {
 		Title = "[Diária] Coleta de Lenha",
 		Description = {
-			"Elimine 10 Lenhas Vivas e traga 10 Lenhas de Qualidade para <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI>, no Festival da Colheita."
+			"Elimine 10x Lenhas Vivas e traga 10x Lenhas de Qualidade para <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI>, no Festival da Colheita."
 		},
-		Summary = "Colete 10 Lenhas de Qualidade"
+		Summary = "Colete 10x Lenhas de Qualidade"
 	},
 	[3370] = {
 		Title = "[Espera] Coleta de Lenha",
 		Description = {
-			"Você completou uma missão diária do Festival da Colheita. Após as 4 horas da manhã, fale com <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
+			"Você completou uma missão diária do Festival da Colheita. Após às 4 horas da manhã, fale com <NAVI>[Kadu]<INFO>alberta,134,162,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[3371] = {
 		Title = "[Diária] Capturando Selvagens Famintos",
 		Description = {
-			"Use a Armadilha de Selvagem nos monstros [Selvagens Famintos] até conseguir 10 Selvagem Capturado. Leve-os para <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>, no Festival da Colheita."
+			"Use a Armadilha de Selvagem nos monstros [Selvagens Famintos] até conseguir 10x Selvagem Capturado. Leve-os para <NAVI>[Serena]<INFO>alberta,152,198,0,101,0</INFO></NAVI>, no Festival da Colheita."
 		},
-		Summary = "Capture 10 Selvagens Famintos"
+		Summary = "Capture 10x Selvagens Famintos"
 	},
 	[3372] = {
 		Title = "[Espera] Capturando Selvagens Famintos",
@@ -7045,14 +7045,14 @@ QuestInfoList = {
 	[3373] = {
 		Title = "[Diária] Comidas Típicas: Songpyeon",
 		Description = {
-			"Traga 1 <ITEM>[Sacola de Grãos]<INFO>577</INFO></ITEM>, 3 <ITEM>[Mel]<INFO>518</INFO></ITEM> e 10 <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+			"Consiga 1x <ITEM>[Sacola de Grãos]<INFO>577</INFO></ITEM>, 3x <ITEM>[Mel]<INFO>518</INFO></ITEM> e 10x <ITEM>[Erva Verde]<INFO>511</INFO></ITEM>. Traga-os para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Colete ingredientes."
 	},
 	[3374] = {
 		Title = "[Diária] Comidas Típicas: Bolinhos Lunares",
 		Description = {
-			"Traga 1 <ITEM>[Condimento Amarelo]<INFO>7452</INFO></ITEM> e 3 <ITEM>[Tronco]<INFO>1019 </INFO></ITEM> para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>",
+			"Consiga 1x <ITEM>[Condimento Amarelo]<INFO>7452</INFO></ITEM>, e 3x <ITEM>[Tronco]<INFO>1019 </INFO></ITEM>. Traga-os para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>.",
 			""
 		},
 		Summary = "Colete ingredientes."
@@ -7060,21 +7060,21 @@ QuestInfoList = {
 	[3375] = {
 		Title = "[Diária] Comidas Típicas: Peru Assado",
 		Description = {
-			"Traga 10 <ITEM>[Molho Saboroso]<INFO>7454</INFO></ITEM>, 3 <ITEM>[Limão]<INFO>568</INFO></ITEM> e 1 <ITEM>[Cenoura<INFO>515</INFO></ITEM> para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+			"Consiga 10x <ITEM>[Molho Saboroso]<INFO>7454</INFO></ITEM>, 3x <ITEM>[Limão]<INFO>568</INFO></ITEM>, e 1x <ITEM>[Cenoura<INFO>515</INFO></ITEM>. Traga-os para <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Colete ingredientes."
 	},
 	[3376] = {
 		Title = "[Espera] Comidas Típicas: Comida do Festival",
 		Description = {
-			"Você completou uma missão diária do Festival da Colheita. Após as 4 horas da manhã, fale com <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>"
+			"Você completou uma missão diária do Festival da Colheita. Após as 4 horas da manhã, fale com <NAVI>[Songhwa]<INFO>alberta,119,193,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[3377] = {
 		Title = "[Evento] Pedido de Louise",
 		Description = {
-			"<NAVI>[Louise]<INFO>alberta,115,198,0,101,0</INFO></NAVI> quer ajuda."
+			"Parece que [<NAVI>Louise<INFO>alberta,115,198,0,101,0</INFO></NAVI>] precisa de ajuda."
 		},
 		Summary = "Fale com Louise."
 	},
@@ -7082,7 +7082,7 @@ QuestInfoList = {
 		Title = "[Evento] Alimentar o Peru",
 		Description = {
 			"Perus precisam de comida.",
-			"Entregue 30 <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20 <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20 <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>"
+			"Entregue 30x <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20x <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20x <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>."
 		},
 		Summary = "Colete ingredientes."
 	},
@@ -7090,7 +7090,7 @@ QuestInfoList = {
 		Title = "[Diária] Alimentar o Peru",
 		Description = {
 			"Perus precisam de comida.",
-			"Entregue 30 <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20 <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20 <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>"
+			"Entregue 30x <ITEM>[Perna de Gafanhoto]<INFO>940</INFO></ITEM>, 20x <ITEM>[Erva Verde]<INFO>511</INFO></ITEM> e 20x <ITEM>[Biscoito Outonal]<INFO>11613</INFO></ITEM>"
 		},
 		Summary = "Colete ingredientes."
 	},
@@ -7105,52 +7105,52 @@ QuestInfoList = {
 	[3381] = {
 		Title = "[Evento] Negócios do Sr. Kim",
 		Description = {
-			"<NAVI>[Sr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI> parece precisar de ajuda. Vamos falar com ele."
+			"Parece que o [<NAVI>Sr. Kim<INFO>alberta,119,198,0,101,0</INFO></NAVI>] precisa de ajuda. Vamos falar com ele."
 		},
 		Summary = "Fale com o Sr. Kim"
 	},
 	[3382] = {
 		Title = "[Evento] Saudades da Família",
 		Description = {
-			"Traga 2 <ITEM>[Vale-Viagem]<INFO>25392</INFO></ITEM> para <NAVI>[Sr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI>.",
+			"Traga 2x [<ITEM>Vale-Viagem<INFO>25392</INFO></ITEM>] para <NAVI>[Sr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI>.",
 			""
 		},
-		Summary = "2 Vale-Viagem para o Sr. Kim"
+		Summary = "2x Vale-Viagem para o Sr. Kim"
 	},
 	[3383] = {
 		Title = "[Diário] Saudades da Família",
 		Description = {
-			"Traga 2 <ITEM>[Vale-Viagem]<INFO>25392</INFO></ITEM> para <NAVI>[Sr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI>."
+			"Traga 2x [<ITEM>Vale-Viagem<INFO>25392</INFO></ITEM>] para <NAVI>[Sr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI>."
 		},
-		Summary = "2 Vale-Viagem para o Sr. Kim"
+		Summary = "2x Vale-Viagem para o Sr. Kim"
 	},
 	[3384] = {
 		Title = "[Espera] Saudades da Família",
 		Description = {
-			"Você completou uma missão diária do Festival da Colheita. Após as 4 horas da manhã, fale com Sr. Kim"
+			"Você completou uma missão diária do Festival da Colheita. Após as 4 horas da manhã, fale com o <NAVI>[Sr. Kim]<INFO>alberta,119,198,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reinicia às 04:00"
 	},
 	[3385] = {
 		Title = "[Evento] Pedido de Eunwol",
 		Description = {
-			"<NAVI>[Eunwol]<INFO>alberta,117,198,0,101,0</INFO></NAVI> quer ajuda."
+			"Parece que [<NAVI>Eunwol<INFO>alberta,117,198,0,101,0</INFO></NAVI>] precisa de ajuda."
 		},
 		Summary = "Fale com Eunwol"
 	},
 	[3386] = {
 		Title = "[Evento] Entrega de Biscoitos",
 		Description = {
-			"Traga para Eunwol 10 <ITEM>[Biscoitos Outonais]<INFO>11613</INFO></ITEM>."
+			"Traga para Eunwol 10x <ITEM>[Biscoitos Outonais]<INFO>11613</INFO></ITEM>."
 		},
-		Summary = "Entregue 10 Biscoitos Outonais"
+		Summary = "Entregue 10x Biscoito Outonal"
 	},
 	[3387] = {
 		Title = "[DIária] Entrega de Biscoitos",
 		Description = {
-			"Traga 10 <ITEM>[Biscoitos Outonais]<INFO>11613</INFO></ITEM> para Eunwol."
+			"Traga 10x [<ITEM>Biscoito Outonal<INFO>11613</INFO></ITEM>] para Eunwol."
 		},
-		Summary = "Entregue 10 Biscoitos Outonais"
+		Summary = "Entregue 10x Biscoito Outonal"
 	},
 	[3388] = {
 		Title = "[Espera] Entrega de Biscoitos",
@@ -34262,7 +34262,7 @@ QuestInfoList = {
 		Title = "Santa da Purificação",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Voglinde parece estar procurando um certo Cardeal. Vamos perguntar aos <NAVI>[amigos]<INFO>icas_in,130,201,0,101,0</INFO></NAVI> que vieram de aeronave conosco até o Castelo de Gelo sobre o paradeiro do Cardeal."
+			"Voglinde parece estar procurando um certo Cardeal. Vamos perguntar aos <NAVI>[amigos]<INFO>icas_in,130,201,0,101,0</INFO></NAVI> que vieram de aeroplano conosco até o Castelo de Gelo sobre o paradeiro do Cardeal."
 		},
 		Summary = "Converse com Maram"
 	},
@@ -34286,17 +34286,17 @@ QuestInfoList = {
 		Title = "Santa da Purificação",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Precisamos voltar a Midgard para procurar Santa. Vamos procurar <NAVI>[Hellok]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI> em Cauda Congelada."
+			"Precisamos voltar a Midgard para procurar Santa. Vamos procurar <NAVI>[Hellock]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI> em Cauda Congelada."
 		},
-		Summary = "Converse com Hellok"
+		Summary = "Converse com Hellock"
 	},
 	[11798] = {
 		Title = "Santa da Purificação",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Cheguei a Al De Baran no trenó de Hellok. Vamos falar novamente com <NAVI>[Hellok]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>."
+			"Cheguei a Al De Baran no trenó de Hellock. Vamos falar novamente com <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Converse com Hellok"
+		Summary = "Converse com Hellock"
 	},
 	[11799] = {
 		Title = "Santa da Purificação",
@@ -34374,9 +34374,9 @@ QuestInfoList = {
 		Title = "Santa da Purificação",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Os preparativos para partir rumo a Isgard estão concluídos. Vamos encontrar <NAVI>[Hellok]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> em Al De Baran e seguir para Isgard."
+			"Os preparativos para partir rumo a Isgard estão concluídos. Vamos encontrar <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> em Al De Baran e seguir para Isgard."
 		},
-		Summary = "Converse com Hellok"
+		Summary = "Converse com Hellock"
 	},
 	[11809] = {
 		Title = "Santa da Purificação",

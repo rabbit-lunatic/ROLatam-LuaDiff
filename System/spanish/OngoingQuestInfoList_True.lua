@@ -6910,13 +6910,13 @@ QuestInfoList = {
 		Summary = "Reúne materiales."
 	},
 	[3365] = {
-		Title = "[Evento] Kadu el Mago",
+		Title = "[Evento] Luna el Mago",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Te dijeron que enviaron a alguien desde la Torre de Geffen para este Festival del Fuego.",
-			"¿Qué tal si nos reunimos con <NAVI>[Kadu el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> para que nos cuente más al respecto?"
+			"¿Qué tal si nos reunimos con <NAVI>[Luna el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> para que nos cuente más al respecto?"
 		},
-		Summary = "Habla con Kadu."
+		Summary = "Habla con Luna."
 	},
 	[3366] = {
 		Title = "[Evento] Serena la cazadora",
@@ -6947,17 +6947,17 @@ QuestInfoList = {
 		Title = "[Diario] Recolección de Leña",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Necesito que derrotes a 10 Leños Vivos y me traigas 10 Leña de Calidad.. ¡Mi honor y mi vida dependen de ello!",
-			"Informa a <NAVI>[Kadu el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
+			"Necesito que derrotes a 10x Leños Vivos y me traigas 10x Leña de Calidad.. ¡Mi honor y mi vida dependen de ello!",
+			"Informa a <NAVI>[Luna el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
-		Summary = "Recolecta 10 Leñas de Calidad"
+		Summary = "Recolecta 10x Leñas de Calidad"
 	},
 	[3370] = {
 		Title = "[Espera] Recolección de Leña",
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Luna está ocupada en este momento. ¿Podrías volver luego por la mañana?",
-			"Vuelve con <NAVI>[Kadu el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> mañana."
+			"Vuelve con <NAVI>[Luna el Mago]<INFO>alberta, 134, 162, 0, 101, 0</INFO></NAVI> mañana."
 		},
 		Summary = "Reinicio a las 04:00",
 		CoolTimeQuest = 1
@@ -6966,11 +6966,11 @@ QuestInfoList = {
 		Title = "[Diario] Captura de Salvajes Hambrientos",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Tenemos que capturar, sin correr peligro, 10 Salvajes Hambrientos que vinieron a la aldea y enviarlos de vuelta a casa.",
+			"Tenemos que capturar, sin correr peligro, 10x Salvajes Hambrientos que vinieron a la aldea y enviarlos de vuelta a casa.",
 			"Informa a <NAVI>[Serena la cazadora]<INFO>alberta, 152, 198, 0, 101, 0</INFO></NAVI> cuando hayas terminado.",
 			"Habla con ella si te quedas sin Trampas para Salvajes."
 		},
-		Summary = "Captura a 10 Salvajes Hambrientos."
+		Summary = "Captura a 10x Salvajes Hambrientos."
 	},
 	[3372] = {
 		Title = "[Espera] Captura de Salvajes Hambrientos",
@@ -6986,7 +6986,7 @@ QuestInfoList = {
 		Title = "[Diario] Preparación de Songpyeon",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Recolecta 1 unidad de <ITEM>[Granos]<INFO>577</INFO></ITEM>, 3 unidades de <ITEM>[Miel]<INFO>518</INFO></ITEM> y 10 unidades de <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM>.",
+			"Recolecta 1x <ITEM>[Granos]<INFO>577</INFO></ITEM>, 3x <ITEM>[Miel]<INFO>518</INFO></ITEM> y 10x <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM>.",
 			"Informa a <NAVI>[Songhwa]<INFO>alberta, 119, 193, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los ingredientes."
@@ -6995,7 +6995,7 @@ QuestInfoList = {
 		Title = "[Diario] Preparación de Galletas Lunares",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Recolecta 1 <ITEM>[Especia amarilla]<INFO>7452</INFO></ITEM> y 3 <ITEM>[Troncos]<INFO>1019 </INFO></ITEM>.",
+			"Recolecta 1x <ITEM>[Especia amarilla]<INFO>7452</INFO></ITEM> y 3x <ITEM>[Troncos]<INFO>1019 </INFO></ITEM>.",
 			"Informa a <NAVI>[Songhwa]<INFO>alberta, 119, 193, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los ingredientes."
@@ -7004,7 +7004,7 @@ QuestInfoList = {
 		Title = "[Diario] Preparación de pavo asado",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Recolecta 1 unidad de <ITEM>[Salsa sabrosa]<INFO>7454</INFO></ITEM>, 3 <ITEM>[Limones]<INFO>568</INFO></ITEM> y 10 <ITEM>[Zanahorias]<INFO>515</INFO></ITEM>.",
+			"Recolecta 1x <ITEM>[Salsa sabrosa]<INFO>7454</INFO></ITEM>, 3x <ITEM>[Limones]<INFO>568</INFO></ITEM> y 10x <ITEM>[Zanahorias]<INFO>515</INFO></ITEM>.",
 			"Informa a <NAVI>[Songhwa]<INFO>alberta, 119, 193, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los ingredientes."
@@ -7032,7 +7032,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Los pavos necesitan comida.",
-			"Recolectemos 30 <ITEM>[Patas de saltamontes]<INFO>940</INFO></ITEM>, 20 <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM> y 20 <ITEM>[Galleta de la cosecha]<INFO>11613</INFO></ITEM>.",
+			"Recolectemos 30x <ITEM>[Patas de saltamontes]<INFO>940</INFO></ITEM>, 20x <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM> y 20x <ITEM>[Galleta de la cosecha]<INFO>11613</INFO></ITEM>.",
 			"Informa a <NAVI>[Louise]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los materiales."
@@ -7042,7 +7042,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Los pavos necesitan comida.",
-			"Recolectemos 30 <ITEM>[Patas de saltamontes]<INFO>940</INFO></ITEM>, 20 <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM> y 20 <ITEM>[Galleta de la cosecha]<INFO>11613</INFO></ITEM>.",
+			"Recolectemos 30x <ITEM>[Patas de saltamontes]<INFO>940</INFO></ITEM>, 20x <ITEM>[Hierbas verdes]<INFO>511</INFO></ITEM> y 20x <ITEM>[Galleta de la cosecha]<INFO>11613</INFO></ITEM>.",
 			"Informa a <NAVI>[Louise]<INFO>alberta, 115, 198, 0, 101, 0</INFO></NAVI> cuando hayas terminado."
 		},
 		Summary = "Recolecta los materiales."
@@ -7069,19 +7069,19 @@ QuestInfoList = {
 		Title = "[Evento] Visita urgente a Kunlun",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"El <NAVI>[Sr. Kim]<INFO>alberta, 119, 198, 0, 101, 0</INFO></NAVI> debe visitar a su hija en Kunlun, pero está demasiado ocupado para conseguir un boleto.",
-			"Démosle 2 <ITEM>[Boletos a cualquier parte]<INFO>25392</INFO></ITEM>."
+			"El [<NAVI>Sr. Kim<INFO>alberta, 119, 198, 0, 101, 0</INFO></NAVI>] debe visitar a su hija en Kunlun, pero está demasiado ocupado para conseguir un boleto.",
+			"Démosle 2x <ITEM>[Vale de Viaje]<INFO>25392</INFO></ITEM>."
 		},
-		Summary = "2 Boletos para el Sr. Kim."
+		Summary = "2x Vale de Viaje para el Sr. Kim."
 	},
 	[3383] = {
 		Title = "[Diario] Visita urgente a Kunlun",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"El <NAVI>[Sr. Kim]<INFO>alberta, 119, 198, 0, 101, 0</INFO></NAVI> debe visitar a su hija en Kunlun, pero está demasiado ocupado para conseguir un boleto.",
-			"Démosle 2 <ITEM>[Boletos a cualquier parte]<INFO>25392</INFO></ITEM>."
+			"El [<NAVI>Sr. Kim<INFO>alberta, 119, 198, 0, 101, 0</INFO></NAVI>] debe visitar a su hija en Kunlun, pero está demasiado ocupado para conseguir un boleto.",
+			"Démosle 2x <ITEM>[Vale de Viaje]<INFO>25392</INFO></ITEM>."
 		},
-		Summary = "2 Boletos para el Sr. Kim."
+		Summary = "2x Vale de Viaje para el Sr. Kim."
 	},
 	[3384] = {
 		Title = "[Espera] Visita urgente a Kunlun",
@@ -7104,17 +7104,17 @@ QuestInfoList = {
 		Title = "[Evento] Entrega de galletas",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Eunwol]<INFO>alberta, 117, 198, 0, 101, 0</INFO></NAVI> te pide que le traigas 10 <ITEM>[Galletas de cosecha]<INFO>11613</INFO></ITEM>."
+			"[<NAVI>Eunwol<INFO>alberta, 117, 198, 0, 101, 0</INFO></NAVI>] te pide que le traigas 10x <ITEM>[Galleta Otoñal]<INFO>11613</INFO></ITEM>."
 		},
-		Summary = "Entrégale 10 Galletas de cosecha."
+		Summary = "Entrégale 10x Galleta Otoñal."
 	},
 	[3387] = {
 		Title = "[Diario] Entrega de galletas",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[Eunwol]<INFO>alberta, 117, 198, 0, 101, 0</INFO></NAVI> te pide que le traigas 10 <ITEM>[Galletas de cosecha]<INFO>11613</INFO></ITEM>."
+			"[<NAVI>Eunwol<INFO>alberta, 117, 198, 0, 101, 0</INFO></NAVI>] te pide que le traigas 10x <ITEM>[Galleta Otoñal]<INFO>11613</INFO></ITEM>."
 		},
-		Summary = "Entrégale 10 Galletas de cosecha."
+		Summary = "Entrégale 10 Galleta Otoñal."
 	},
 	[3388] = {
 		Title = "[Espera] Entrega de galletas",
@@ -34136,17 +34136,17 @@ QuestInfoList = {
 		Title = "Santa de la Purificación",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Debemos regresar a Midgard para encontrar a Santa. Vayamos a buscar a <NAVI>[Hellok]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI> en Cola congelada."
+			"Debemos regresar a Midgard para encontrar a Santa. Vayamos a buscar a <NAVI>[Hellock]<INFO>jor_tail,211,63,0,101,0</INFO></NAVI> en Cola congelada."
 		},
-		Summary = "Habla con Hellok"
+		Summary = "Habla con Hellock"
 	},
 	[11798] = {
 		Title = "Santa de la Purificación",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Llegamos a Aldebaran en el trineo de Hellok. Hablemos de nuevo con <NAVI>[Hellok]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>."
+			"Llegamos a Aldebaran en el trineo de Hellock. Hablemos de nuevo con <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>."
 		},
-		Summary = "Habla con Hellok"
+		Summary = "Habla con Hellock"
 	},
 	[11799] = {
 		Title = "Santa de la Purificación",
@@ -34224,9 +34224,9 @@ QuestInfoList = {
 		Title = "Santa de la Purificación",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Todo está listo para partir hacia Issgard. Encontremos a <NAVI>[Hellok]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> en Aldebaran y vayamos a Issgard."
+			"Todo está listo para partir hacia Issgard. Encontremos a <NAVI>[Hellock]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI> en Aldebaran y vayamos a Issgard."
 		},
-		Summary = "Habla con Hellok"
+		Summary = "Habla con Hellock"
 	},
 	[11809] = {
 		Title = "Santa de la Purificación",

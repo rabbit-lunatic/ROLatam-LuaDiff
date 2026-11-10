@@ -19860,7 +19860,7 @@ tbl = {
 			"^FA4E09[Cartola]^000000",
 			"^0000FFINT +2.^000000",
 			"^0000FFDEX +2 additional.^000000",
-			"^0000FFSP natural recoveryeration +5%.^000000",
+			"^0000FFSP natural recovery +5%.^000000",
 			"Each time the weapon is refined:",
 			"^0000FFMagical damage +1%.^000000",
 			"-------------------------",
@@ -21848,8 +21848,8 @@ tbl = {
 		identifiedResourceName = "음유시인의활",
 		identifiedDescriptionName = {
 			"A strange bow made of strange materials. They say it was created by a Minstrel who wanted to play and shoot at the same time. Unfortunately, it didn't work out...",
-			"^0000ffINT +2.^000000",
-			"^0000ffSP natural recoveryeration +10%.^000000",
+			"^0000FFINT +2.^000000",
+			"^0000FFSP natural recovery +10%.^000000",
 			"Type: ^777777Bow^000000",
 			"Attack: ^777777120^000000",
 			"Weight: ^777777170^000000",
@@ -33498,8 +33498,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"A sacred armor made by the goddess to heal the chosen warrior.",
 			"-------------------------",
-			"^0000ffVIT +2.^000000",
-			"^0000ffHP natural recoveryeration +50%.^000000",
+			"^0000FFVIT +2.^000000",
+			"^0000FFHP natural recovery +50%.^000000",
 			"-------------------------",
 			"Type: ^777777Armor^000000",
 			"DEF: ^77777775^000000 MDEF: ^7777775^000000",
@@ -33572,8 +33572,8 @@ tbl = {
 		identifiedResourceName = "어드밴쳐슈츠",
 		identifiedDescriptionName = {
 			"Costume mass-produced in the Maroll Kingdom.",
-			"^0000ffMax HP +600.^000000",
-			"^0000ffSP natural recoveryeration +10%.^000000",
+			"^0000FFMax HP +600.^000000",
+			"^0000FFSP natural recovery +10%.^000000",
 			"Type: ^777777Armor^000000",
 			"DEF: ^77777710^000000",
 			"Weight: ^7777770^000000",
@@ -34147,11 +34147,11 @@ tbl = {
 		identifiedResourceName = "타이달슈즈",
 		identifiedDescriptionName = {
 			"This pair of waterproof shoes has been specially designed for slippery areas.",
-			"^0000ffWater property resistance +5%.^000000",
+			"^0000FFWater property resistance +5%.^000000",
 			"^FA4E09Set^000000",
 			"^FA4E09[Wool Scarf]^000000",
-			"^0000ffMax HP +10%.^000000",
-			"^0000ffHP natural recoveryeration +5%.^000000",
+			"^0000FFMax HP +10%.^000000",
+			"^0000FFHP natural recovery +5%.^000000",
 			"Type: ^777777Shoes^000000",
 			"DEF: ^77777713^000000",
 			"Weight: ^77777730^000000",
@@ -34437,7 +34437,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Very useful for running. Tie your shoelaces tightly and take off running!",
 			"^0000FFAGI +1.^000000",
-			"^0000FFSP natural recoveryeration +5%.^000000",
+			"^0000FFSP natural recovery +5%.^000000",
 			"^FA4E09Set^000000",
 			"^FA4E09[Running Ring]^000000",
 			"^FA4E09[Racing Armor]^000000",
@@ -34551,12 +34551,12 @@ tbl = {
 		identifiedDescriptionName = {
 			"Shoes made from a branch of the Tree of Life. They are comfortable and offer the wearer the energy of life.",
 			"-------------------------",
-			"^0000ffVIT +2.",
+			"^0000FFVIT +2.",
 			"Max HP +10%.",
 			"Healing received +5%.",
-			"HP natural recoveryeration +5%.^000000",
+			"HP natural recovery +5%.^000000",
 			"Every 10 seconds:",
-			"^0000ffRecovers 30 HP.^000000",
+			"^0000FFRecovers 30 HP.^000000",
 			"-------------------------",
 			"Type: ^777777Shoes^000000",
 			"DEF: ^77777716^000000 MDEF: ^7777773^000000",
@@ -38746,7 +38746,7 @@ tbl = {
 			"^FA4E09[Rosário]^000000",
 			"^0000FF[Heal] damage +50%.^000000",
 			"^0000FF[Magnus Exorcismus] damage +30%.^000000",
-			"^0000FFSP natural recoveryeration +9%.^000000",
+			"^0000FFSP natural recovery +9%.^000000",
 			"Type: ^777777Accessory^000000",
 			"DEF: ^7777770^000000",
 			"Weight: ^77777710^000000",
@@ -38824,7 +38824,7 @@ tbl = {
 			"^0000FFAll stats +1.^000000",
 			"-------------------------",
 			"When performing physical attacks:",
-			"^0000FFChance to self-cast [Supernatural Sense] [Identify Item] [Search for Stones] and [Greed] nv.1.^000000",
+			"^0000FFChance to self-cast [Supernatural Sense] [Identify Item] [Find Stone] and [Greed] nv.1.^000000",
 			"-------------------------",
 			"When receiving physical melee damage:",
 			"^0000FFChance to self-cast [Run] nv.5, [Jump] nv.3, [First Aid] nv.1 and [Retreat] nv.1.^000000",
@@ -39610,11 +39610,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A skeletal hand that invokes mysterious feelings.",
 			"-------------------------",
-			"^0000ffHit +10.^000000",
-			"^0000ffHP natural recoveryeration +20%.^000000",
+			"^0000FFHit +10.^000000",
+			"^0000FFHP natural recovery +20%.^000000",
 			"-------------------------",
 			"When performing physical attacks:",
-			"^0000ff3% chance to self-injure [Mortal Wound] nv.1.^000000",
+			"^0000FF3% chance to self-injure [Mortal Wound] nv.1.^000000",
 			"-------------------------",
 			"Type: ^777777Accessory^000000",
 			"DEF: ^7777770^000000 MDEF: ^7777770^000000",
@@ -44171,22 +44171,22 @@ tbl = {
 		costume = false
 	},
 	[4021] = {
-		unidentifiedDisplayName = "Card",
+		unidentifiedDisplayName = "Rocker Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Rocker card. DEX + 1, ATK + 5",
-			"Combine with an item to use its property. Cannot be removed once combined.",
+			"^0000FFDEX +1, ATK +5.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Armor^000000",
+			"Equips on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Rocker Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffDEX +1, ATK +5^000000",
-			"Combine with an item to use its property.",
+			"^0000FFDEX +1, ATK +5.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Armor^000000",
+			"Equips on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -44803,7 +44803,7 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Enchants the garment with the Ghost property.",
-			"HP natural recoveryeration ^ff0000-25%.^000000",
+			"HP natural recovery ^FF0000-25%.^000000",
 			"Classes: ^777777Card^000000",
 			"Equip on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
@@ -45244,20 +45244,22 @@ tbl = {
 		costume = false
 	},
 	[4066] = {
-		unidentifiedDisplayName = "Card",
+		unidentifiedDisplayName = "Orc Warrior Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffResistance to Brute and Doram races +30%.^000000",
+			"^0000FFResistance to Brute and Doram races +30%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Orc Warrior Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffResistance to Brute and Doram races +30%.^000000",
+			"^0000FFResistance to Brute and Doram races +30%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -45531,22 +45533,22 @@ tbl = {
 		costume = false
 	},
 	[4078] = {
-		unidentifiedDisplayName = "Card",
+		unidentifiedDisplayName = "Savage Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Wild card. VIT + 3",
-			"Combine with an item to use its property. Cannot be removed once combined.",
+			"^0000FFVIT + 3.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Armor^000000",
+			"Equips on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Savage Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffVIT +3.^000000",
-			"Combine with an item to use its property.",
+			"^0000FFVIT + 3.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Armor^000000",
+			"Equips on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -45603,22 +45605,24 @@ tbl = {
 		costume = false
 	},
 	[4081] = {
-		unidentifiedDisplayName = "Card",
+		unidentifiedDisplayName = "Hode Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"^0000FFFlee +5.^000000",
-			"^0000FFEarth property resistance +30%.^000000",
+			"^0000FFResistance to Earth property +30%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Garment^000000",
+			"Equips on: ^777777Garment^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Hode Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"^0000FFFlee +5.^000000",
-			"^0000FFEarth property resistance +30%.^000000",
+			"^0000FFResistance to Earth property +30%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Garment^000000",
+			"Equips on: ^777777Garment^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -46084,22 +46088,24 @@ tbl = {
 		costume = false
 	},
 	[4101] = {
-		unidentifiedDisplayName = "Card",
+		unidentifiedDisplayName = "Sandman Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Sandy card. Enchants the garment with the Earth Property, DEF + 1",
-			"Combine with an item to use its property. Cannot be removed once combined.",
+			"^0000FFDEF + 1.^000000",
+			"^0000FFEnchants the garment with Earth Property.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Armor^000000",
+			"Equips on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Sandman Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^000000Enhances the garment with the Earth property, DEF +1.^000000",
-			"Combine with an item to use its property.",
+			"^0000FFDEF + 1.^000000",
+			"^0000FFEnchants the garment with Earth Property.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Armor^000000",
+			"Equips on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -46421,23 +46427,22 @@ tbl = {
 		costume = false
 	},
 	[4115] = {
-		unidentifiedDisplayName = "Card",
+		unidentifiedDisplayName = "Hunter Fly Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Hunter Fly card. Converts 15% of the damage dealt to an opponent into HP.",
-			"The chance of success is 3%.",
-			"Combine with an item to use its property. Cannot be removed once combined.",
+			"^0000FF3% chance of converting 15% of the physical damage caused into HP.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Hunter Fly Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ff3% chance of converting 15% of the physical damage caused into HP.^000000",
-			"Combine with an item to use its property.",
+			"^0000FF3% chance of converting 15% of the physical damage caused into HP.^000000",
+			"-------------------------",
 			"Classes: ^777777Card^000000",
-			"Equip on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -50011,7 +50016,7 @@ tbl = {
 			"^FA4E09[Carta Congelador]^000000",
 			"^0000FFSTR +10.^000000",
 			"^0000FFMax HP +20%.^000000",
-			"^0000FFHP natural recoveryeration +50%.^000000",
+			"^0000FFHP natural recovery +50%.^000000",
 			"When performing physical attacks:",
 			"^0000FF0.3% chance to self-cast [Perfect Handling] lv. 1.^000000",
 			"When defeating monsters:",
@@ -50034,7 +50039,7 @@ tbl = {
 			"^FA4E09[Carta Congelador]^000000",
 			"^0000FFSTR +10.^000000",
 			"^0000FFMax HP +20%.^000000",
-			"^0000FFHP natural recoveryeration +50%.^000000",
+			"^0000FFHP natural recovery +50%.^000000",
 			"When performing physical attacks:",
 			"^0000FF0.3% chance to self-cast [Perfect Handling] lv. 1.^000000",
 			"When defeating monsters:",
@@ -50263,22 +50268,25 @@ tbl = {
 		unidentifiedDisplayName = "Orc Lady Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Lady Orc Card.",
-			"Inflicts 30% more damage on any Orc except Orc Lord and Orc Hero.",
-			"Combine with an item to use its property.",
-			"Cannot be removed once combined.",
-			"Classes: ^777777Card^000000",
-			"Usage: ^777777Weapon^000000",
+			"^0000FFPhysical damage against Orcs +30%.^000000",
+			"-------------------------",
+			"Affected Orcs:",
+			"^0000FFOrc Warrior, Orc Lady, High Orc, Orc Zombie, Orc Archer and Orc Skeleton.^000000",
+			"-------------------------",
+			"Type: ^777777Card^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Orc Lady Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffPhysical damage against Orcs +30%.^000000",
-			"Orcs affected:",
-			"^0000ffOrc Warrior, Orc Lady, Grand Orc, Zombie Orc, Archer Orc and Skeleton Orc.^000000",
+			"^0000FFPhysical damage against Orcs +30%.^000000",
+			"-------------------------",
+			"Affected Orcs:",
+			"^0000FFOrc Warrior, Orc Lady, High Orc, Orc Zombie, Orc Archer and Orc Skeleton.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -50487,10 +50495,10 @@ tbl = {
 		identifiedDisplayName = "Samurai Specter Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffIgnores 100% of the DEF of normal characters and monsters.^000000",
-			"^0000ffHP natural recoveryeration -100%.^000000",
-			"^0000ffDrains 666 of the user's HP every 10 seconds.^000000",
-			"^0000ffDrains 999 HP when unequipped.^000000",
+			"^0000FFIgnores 100% of the DEF of normal characters and monsters.^000000",
+			"^0000FFHP natural recovery -100%.^000000",
+			"^0000FFDrains 666 of the user's HP every 10 seconds.^000000",
+			"^0000FFDrains 999 HP when unequipped.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -52571,8 +52579,8 @@ tbl = {
 		identifiedDisplayName = "Ungoliant Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffBlood tolerance +100%.^000000",
-			"^0000ffHP natural recoveryeration +10%.^000000",
+			"^0000FFBlood tolerance +100%.^000000",
+			"^0000FFHP natural recovery +10%.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
@@ -52798,21 +52806,25 @@ tbl = {
 		unidentifiedDisplayName = "Hill Wind Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffDamage from [Lightning Storm], [Jupiter's Thunder] and [Thor's Wrath] +5%.^000000",
+			"^0000FFDamage from [Thunder Storm], [Jupitel Thunder] and [Lord of Vermilion] +5%.^000000",
+			"-------------------------",
 			"When unequipping the weapon:",
-			"^0000ffDrains 50 of the user's SP.^000000",
+			"^0000FFDrains 50 of the user's SP.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Hill Wind Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffDamage from [Lightning Storm], [Jupiter's Thunder] and [Thor's Wrath] +5%.^000000",
+			"^0000FFDamage from [Thunder Storm], [Jupitel Thunder] and [Lord of Vermilion] +5%.^000000",
+			"-------------------------",
 			"When unequipping the weapon:",
-			"^0000ffDrains 50 of the user's SP.^000000",
+			"^0000FFDrains 50 of the user's SP.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -53030,10 +53042,10 @@ tbl = {
 		unidentifiedDisplayName = "Remover Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffMax HP +800.^000000",
-			"^0000ffHP natural recoveryeration +10%.^000000",
+			"^0000FFMax HP +800.^000000",
+			"^0000FFHP natural recovery +10%.^000000",
 			"With each refine:",
-			"^0000ffMax HP^000000 ^ff0000-40.^000000",
+			"^0000FFMax HP^000000 ^FF0000-40.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
@@ -53041,10 +53053,10 @@ tbl = {
 		identifiedDisplayName = "Remover Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffMax HP +800.^000000",
-			"^0000ffHP natural recoveryeration +10%.^000000",
+			"^0000FFMax HP +800.^000000",
+			"^0000FFHP natural recovery +10%.^000000",
 			"With each refine:",
-			"^0000ffMax HP^000000 ^ff0000-40.^000000",
+			"^0000FFMax HP^000000 ^FF0000-40.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
@@ -53335,11 +53347,11 @@ tbl = {
 		unidentifiedDisplayName = "High Wizard Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffSkill Delay^000000 ^ff0000+100%.^000000",
-			"^0000ffIgnores 100% of the MDEF of normal monsters and characters.^000000",
-			"^0000ffSP natural recoveryeration^000000 ^ff0000-100%.^000000",
+			"^0000FFSkill Delay^000000 ^FF0000+100%.^000000",
+			"^0000FFIgnores 100% of the MDEF of normal monsters and characters.^000000",
+			"^0000FFSP natural recovery^000000 ^FF0000-100%.^000000",
 			"When unequipping:",
-			"^0000ffDrains 2,000 SP.^000000",
+			"^0000FFDrains 2,000 SP.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
@@ -53347,11 +53359,11 @@ tbl = {
 		identifiedDisplayName = "High Wizard Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffSkill Delay^000000 ^ff0000+100%.^000000",
-			"^0000ffIgnores 100% of the MDEF of normal monsters and characters.^000000",
-			"^0000ffSP natural recoveryeration^000000 ^ff0000-100%.^000000",
+			"^0000FFSkill Delay^000000 ^FF0000+100%.^000000",
+			"^0000FFIgnores 100% of the MDEF of normal monsters and characters.^000000",
+			"^0000FFSP natural recovery^000000 ^FF0000-100%.^000000",
 			"When unequipping:",
-			"^0000ffDrains 2,000 SP.^000000",
+			"^0000FFDrains 2,000 SP.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
@@ -53406,8 +53418,8 @@ tbl = {
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"Cecil Sniper Card.",
-			"^0000ffHP natural recoveryeration -100%.^000000",
-			"^0000ff5% chance to convert 20% of physical damage dealt into HP.^000000",
+			"^0000FFHP natural recovery -100%.^000000",
+			"^0000FF5% chance to convert 20% of physical damage dealt into HP.^000000",
 			"Item Type: ^777777Card^000000",
 			"Equip on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
@@ -53503,7 +53515,7 @@ tbl = {
 			"^FA4E09[Carta Congelador]^000000",
 			"^0000FFINT +1. STR +1. DEF +2.^000000",
 			"^0000FFSkill Delay -10%.^000000",
-			"^0000FFSP natural recoveryeration +10%.^000000",
+			"^0000FFSP natural recovery +10%.^000000",
 			"^0000FFDamage from [Quick Shock] and [Martyr's Sacrifice] +10%.^000000",
 			"Crusader and evolutions:",
 			"^0000FFChanges armor to the Holy property.^000000",
@@ -53522,7 +53534,7 @@ tbl = {
 			"^FA4E09[Carta Congelador]^000000",
 			"^0000FFINT +1. STR +1. DEF +2.^000000",
 			"^0000FFSkill Delay -10%.^000000",
-			"^0000FFSP natural recoveryeration +10%.^000000",
+			"^0000FFSP natural recovery +10%.^000000",
 			"^0000FFDamage from [Quick Shock] and [Martyr's Sacrifice] +10%.^000000",
 			"Crusader and evolutions:",
 			"^0000FFChanges armor to the Holy property.^000000",
@@ -53697,25 +53709,29 @@ tbl = {
 		unidentifiedDisplayName = "Gold Acidus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffHP and SP max +8%.^000000",
-			"^0000ffNatural regeneration of HP and SP +5%.^000000",
-			"Refining +5 or more:",
-			"^0000ffHP and Max SP^000000 ^ff0000-4%.^000000",
-			"^0000ffNatural regeneration of HP and SP^000000 ^ff0000-5%.^000000",
+			"^0000FFHP and SP max +8%.^000000",
+			"^0000FFNatural regeneration of HP and SP +5%.^000000",
+			"-------------------------",
+			"Refine +5 or more:",
+			"^0000FFHP and Max SP^000000 ^FF0000-4%.^000000",
+			"^0000FFHP and SP natural recovery^000000 ^FF0000-5%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shoes^000000",
+			"Equips on: ^777777Shoes^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Gold Acidus Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffHP and SP max +8%.^000000",
-			"^0000ffNatural regeneration of HP and SP +5%.^000000",
-			"Refining +5 or more:",
-			"^0000ffHP and Max SP^000000 ^ff0000-4%.^000000",
-			"^0000ffNatural regeneration of HP and SP^000000 ^ff0000-5%.^000000",
+			"^0000FFHP and SP max +8%.^000000",
+			"^0000FFNatural regeneration of HP and SP +5%.^000000",
+			"-------------------------",
+			"Refine +5 or more:",
+			"^0000FFHP and Max SP^000000 ^FF0000-4%.^000000",
+			"^0000FFHP and SP natural recovery^000000 ^FF0000-5%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shoes^000000",
+			"Equips on: ^777777Shoes^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -53726,25 +53742,29 @@ tbl = {
 		unidentifiedDisplayName = "Blue Acidus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ff Max SP +80.^000000",
-			"^0000ffSP natural recoveryeration +5%.^000000",
-			"Refining +5 or more:",
-			"^0000ffMax SP^000000 ^ff0000-40.^000000",
-			"^0000ffSP natural recoveryeration^000000 ^ff0000-5%.^000000",
+			"^0000FF Max SP +80.^000000",
+			"^0000FFSP natural recovery +5%.^000000",
+			"-------------------------",
+			"Refine +5 or more:",
+			"^0000FFMax SP^000000 ^FF0000-40.^000000",
+			"^0000FFSP natural recovery^000000 ^FF0000-5%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shoes^000000",
+			"Equips on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Blue Acidus Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ff Max SP +80.^000000",
-			"^0000ffSP natural recoveryeration +5%.^000000",
-			"Refining +5 or more:",
-			"^0000ffMax SP^000000 ^ff0000-40.^000000",
-			"^0000ffSP natural recoveryeration^000000 ^ff0000-5%.^000000",
+			"^0000FF Max SP +80.^000000",
+			"^0000FFSP natural recovery +5%.^000000",
+			"-------------------------",
+			"Refine +5 or more:",
+			"^0000FFMax SP^000000 ^FF0000-40.^000000",
+			"^0000FFSP natural recovery^000000 ^FF0000-5%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Headgear^000000",
+			"Equips on: ^777777Headgear^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -53824,19 +53844,19 @@ tbl = {
 		unidentifiedDisplayName = "Yellow Novus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffMax HP +500.^000000",
-			"^0000ffHP natural recoveryeration +10%.^000000",
+			"^0000FFMax HP +500.^000000",
+			"^0000FFHP natural recovery +10%.^000000",
 			"^FA4E09Set^000000",
-			"^fa4e09[Harpy Card]^000000",
-			"^fa4e09[Wicked Nymph Card]^000000",
-			"^fa4e09[Miyabi Puppet Card]^000000",
-			"^fa4e09[Blood Butterfly Card]^000000",
-			"^0000ffINT +3.^000000",
-			"^0000ffDamage from [Earth Fury] and [Lightning Storm] +10%.^000000",
+			"^FA4E09[Harpy Card]^000000",
+			"^FA4E09[Wicked Nymph Card]^000000",
+			"^FA4E09[Miyabi Puppet Card]^000000",
+			"^FA4E09[Blood Butterfly Card]^000000",
+			"^0000FFINT +3.^000000",
+			"^0000FFDamage from [Earth Fury] and [Lightning Storm] +10%.^000000",
 			"Sages and evolutions:",
-			"^0000ffSkill Delay -20%.^000000",
-			"^0000ff20% chance to reflect single-target spells.^000000",
-			"^0000ffWhen defeating monsters, 10% chance to drop Red Gem or Yellow Gem.^000000",
+			"^0000FFSkill Delay -20%.^000000",
+			"^0000FF20% chance to reflect single-target spells.^000000",
+			"^0000FFWhen defeating monsters, 10% chance to drop Red Gem or Yellow Gem.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
@@ -53844,19 +53864,19 @@ tbl = {
 		identifiedDisplayName = "Yellow Novus Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffMax HP +500.^000000",
-			"^0000ffHP natural recoveryeration +10%.^000000",
+			"^0000FFMax HP +500.^000000",
+			"^0000FFHP natural recovery +10%.^000000",
 			"^FA4E09Set^000000",
-			"^fa4e09[Harpy Card]^000000",
-			"^fa4e09[Wicked Nymph Card]^000000",
-			"^fa4e09[Miyabi Puppet Card]^000000",
-			"^fa4e09[Blood Butterfly Card]^000000",
-			"^0000ffINT +3.^000000",
-			"^0000ffDamage from [Earth Fury] and [Lightning Storm] +10%.^000000",
+			"^FA4E09[Harpy Card]^000000",
+			"^FA4E09[Wicked Nymph Card]^000000",
+			"^FA4E09[Miyabi Puppet Card]^000000",
+			"^FA4E09[Blood Butterfly Card]^000000",
+			"^0000FFINT +3.^000000",
+			"^0000FFDamage from [Earth Fury] and [Lightning Storm] +10%.^000000",
 			"Sages and evolutions:",
-			"^0000ffSkill Delay -20%.^000000",
-			"^0000ff20% chance to reflect single-target spells.^000000",
-			"^0000ffWhen defeating monsters, 10% chance to drop Red Gem or Yellow Gem.^000000",
+			"^0000FFSkill Delay -20%.^000000",
+			"^0000FF20% chance to reflect single-target spells.^000000",
+			"^0000FFWhen defeating monsters, 10% chance to drop Red Gem or Yellow Gem.^000000",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Armor^000000",
 			"Weight: ^7777771^000000"
@@ -54985,17 +55005,19 @@ tbl = {
 		unidentifiedDisplayName = "Stapo Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffEnables [Find Stone] and [Stone Fling] nv.1.^000000",
+			"^0000FFEnables [Find Stone] and [Stone Fling] nv.1.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Accessory^000000",
+			"Equips on: ^777777Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Stapo Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffEnables [Find Stone] and [Stone Fling] nv.1.^000000",
+			"^0000FFEnables [Find Stone] and [Stone Fling] nv.1.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Accessory^000000",
+			"Equips on: ^777777Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -55541,10 +55563,11 @@ tbl = {
 		identifiedDisplayName = "Luciola Vespa Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffResistance to Wind opponents +20%.^000000",
-			"^0000ffPhysical damage against Wind opponents +5%.^000000",
+			"^0000FFResistance to Wind property opponents +20%.^000000",
+			"^0000FFPhysical damage against Wind property opponents +5%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -56077,18 +56100,19 @@ tbl = {
 		unidentifiedDisplayName = "Naga Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Increases magical damage on Fish type monsters by 10%.",
+			"^0000FFMagical damage against Fish race +10%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Naga Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Magical damage against Fish +10%.",
-			"Combine with an item to use its property.",
+			"^0000FFMagical damage against Fish race +10%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Usage: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -56236,18 +56260,19 @@ tbl = {
 		unidentifiedDisplayName = "Pinguicula Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"Increases magical damage on Insect type monsters by 10%.",
+			"^0000FFMagical damage against the Insect race +10%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Compound on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Pinguicula Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"Magical damage against the Insect race +10%.",
-			"Combine with an item to use its property.",
+			"^0000FFMagical damage against the Insect race +10%.^000000",
+			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Usage: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -56824,13 +56849,13 @@ tbl = {
 		unidentifiedDisplayName = "Sealed Samurai Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffIgnores 100% of the DEF of normal characters and monsters.^000000",
-			"^0000ffHP natural recoveryeration^000000 ^ff0000-100%.^000000",
-			"^0000ffDrains 999 HP when unequipping.^000000",
+			"^0000FFIgnores 100% of the DEF of normal characters and monsters.^000000",
+			"^0000FFHP natural recovery^000000 ^FF0000-100%.^000000",
+			"^0000FFDrains 999 HP when unequipping.^000000",
 			"-------------------------",
-			"^0000ffEvery 5 seconds, drains 888 HP.^000000",
+			"^0000FFEvery 5 seconds, drains 888 HP.^000000",
 			"Refine +15 or more:",
-			"^0000ffThe effect becomes: Every 8 seconds, drains 777 HP.^000000",
+			"^0000FFThe effect becomes: Every 8 seconds, drains 777 HP.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Weapon^000000",
@@ -56839,13 +56864,13 @@ tbl = {
 		identifiedDisplayName = "Sealed Samurai Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffIgnores 100% of the DEF of normal characters and monsters.^000000",
-			"^0000ffHP natural recoveryeration^000000 ^ff0000-100%.^000000",
-			"^0000ffDrains 999 HP when unequipping.^000000",
+			"^0000FFIgnores 100% of the DEF of normal characters and monsters.^000000",
+			"^0000FFHP natural recovery^000000 ^FF0000-100%.^000000",
+			"^0000FFDrains 999 HP when unequipping.^000000",
 			"-------------------------",
-			"^0000ffEvery 5 seconds, drains 888 HP.^000000",
+			"^0000FFEvery 5 seconds, drains 888 HP.^000000",
 			"Refine +15 or more:",
-			"^0000ffThe effect becomes: Every 8 seconds, drains 777 HP.^000000",
+			"^0000FFThe effect becomes: Every 8 seconds, drains 777 HP.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Weapon^000000",
@@ -60340,23 +60365,24 @@ tbl = {
 		EffectID = 1186
 	},
 	[4661] = {
-		unidentifiedDisplayName = "Charge Basilisk Card",
+		unidentifiedDisplayName = "Combat Basilisk Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000FFResistance to Medium and Large opponents +20%.^000000",
-			"^0000FFResistance to Small opponents ^FF0000-15%.^000000",
-			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shied^000000",
-			"Weight: ^7777771^000000"
-		},
-		identifiedDisplayName = "Charge Basilisk Card",
-		identifiedResourceName = "이름없는카드",
-		identifiedDescriptionName = {
-			"^0000FFResistance to Medium and Large opponents +20%.^000000",
-			"^0000FFResistance to Small opponents ^FF0000-15%.^000000",
+			"^0000FFResistance to Medium and Large size opponents +20%.^000000",
+			"^0000FFResistance to Small size opponents ^FF0000-15%.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shied^000000",
+			"Equips on: ^777777Shied^000000",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Combat Basilisk Card",
+		identifiedResourceName = "이름없는카드",
+		identifiedDescriptionName = {
+			"^0000FFResistance to Medium and Large size opponents +20%.^000000",
+			"^0000FFResistance to Small size opponents ^FF0000-15%.^000000",
+			"-------------------------",
+			"Type: ^777777Card^000000",
+			"Equips on: ^777777Shied^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -60606,7 +60632,7 @@ tbl = {
 		EffectID = 1186
 	},
 	[4670] = {
-		unidentifiedDisplayName = "Pom Spider Card",
+		unidentifiedDisplayName = "Fruit Pom Spider Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"^0000FFMagical damage against opponents with Fire property +3%.^000000",
@@ -60616,10 +60642,10 @@ tbl = {
 			"^0000FFMagical damage against opponents with Fire property +7% additional.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
-		identifiedDisplayName = "Pom Spider Card",
+		identifiedDisplayName = "Fruit Pom Spider Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
 			"^0000FFMagical damage against opponents with Fire property +3%.^000000",
@@ -60629,7 +60655,7 @@ tbl = {
 			"^0000FFMagical damage against opponents with Fire property +7% additional.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Weapon^000000",
+			"Equips on: ^777777Weapon^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -78219,6 +78245,8 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"^FF0000Account bound.^000000",
 			"Currency used in Manuka.",
+			"Obtained from:",
+			"<TIPBOX>[Episode13.2]<INFO>6016</INFO></TIPBOX>",
 			"^0000FFExchange for prizes with^000000",
 			"<NAVI>[Manuko merchant]<INFO>man_in01,286,16,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
@@ -78228,6 +78256,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"^FF0000Account bound.^000000",
 			"Currency used in Manuka.",
+			"Obtained from:",
+			"<TIPBOX>[Episode13.2]<INFO>6016</INFO></TIPBOX>",
 			"^0000FFExchange for prizes with^000000",
 			"<NAVI>[Manuko merchant]<INFO>man_in01,286,16,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
@@ -78242,11 +78272,12 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"^FF0000Account bound.^000000",
 			"Currency used by the Splendid.",
+			"Obtained from:",
 			"<TIPBOX>[Episode13.2]<INFO>6016</INFO></TIPBOX>",
 			"<TIPBOX>[Episode14.2]<INFO>6057</INFO></TIPBOX>",
 			"^0000FFExchange for prizes with^000000",
-			"<NAVI>[Splendor Merchant]<INFO> spl_in01,110,322,0,101,0</INFO></NAVI>",
-			"<NAVI>[Naphara Merchant]<INFO>ecl_in01,66,95,0,101,0</INFO></NAVI>",
+			"<NAVI>[Merchant of Splendide]<INFO>spl_in01,110,322,0,101,0</INFO></NAVI>",
+			"<NAVI>[Armor Merchant Naphara]<INFO>ecl_in01,66,95,0,101,0</INFO></NAVI>",
 			"<NAVI>[Slot Expert Nattuer]<INFO>ecl_in01,64,97,0,101,0</INFO></NAVI>",
 			"<NAVI>[Herb Merchant Plafina]<INFO>ecl_in01,33,98,0,101,0</INFO></NAVI>",
 			"<NAVI>[Replication Expert Paltu]<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>",
@@ -78257,11 +78288,12 @@ tbl = {
 		identifiedDescriptionName = {
 			"^FF0000Account bound.^000000",
 			"Currency used by the Splendid.",
+			"Obtained from:",
 			"<TIPBOX>[Episode13.2]<INFO>6016</INFO></TIPBOX>",
 			"<TIPBOX>[Episode14.2]<INFO>6057</INFO></TIPBOX>",
 			"^0000FFExchange for prizes with^000000",
-			"<NAVI>[Splendor Merchant]<INFO> spl_in01,110,322,0,101,0</INFO></NAVI>",
-			"<NAVI>[Naphara Merchant]<INFO>ecl_in01,66,95,0,101,0</INFO></NAVI>",
+			"<NAVI>[Merchant of Splendide]<INFO>spl_in01,110,322,0,101,0</INFO></NAVI>",
+			"<NAVI>[Armor Merchant Naphara]<INFO>ecl_in01,66,95,0,101,0</INFO></NAVI>",
 			"<NAVI>[Slot Expert Nattuer]<INFO>ecl_in01,64,97,0,101,0</INFO></NAVI>",
 			"<NAVI>[Herb Merchant Plafina]<INFO>ecl_in01,33,98,0,101,0</INFO></NAVI>",
 			"<NAVI>[Replication Expert Paltu]<INFO>ecl_in01,67,39,0,101,0</INFO></NAVI>",
@@ -82351,8 +82383,10 @@ tbl = {
 			"^FF0000Account bound.^000000",
 			"A small coin with a polished surface.",
 			"It has various uses in Mora.",
+			"Obtained from:",
+			"<TIPBOX>[Episode14.1]<INFO>6041</INFO></TIPBOX>",
 			"^0000FFExchange for prizes with^000000",
-			"<NAVI>[Artifact Curator]<INFO>mora,148,98,0,101,0</INFO></NAVI>",
+			"<NAVI>[Relics Manager]<INFO>mora,148,98,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Mora Coin",
@@ -82361,8 +82395,10 @@ tbl = {
 			"^FF0000Account bound.^000000",
 			"A small coin with a polished surface.",
 			"It has various uses in Mora.",
+			"Obtained from:",
+			"<TIPBOX>[Episode14.1]<INFO>6041</INFO></TIPBOX>",
 			"^0000FFExchange for prizes with^000000",
-			"<NAVI>[Artifact Curator]<INFO>mora,148,98,0,101,0</INFO></NAVI>",
+			"<NAVI>[Relics Manager]<INFO>mora,148,98,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -85788,13 +85824,25 @@ tbl = {
 		unidentifiedDisplayName = "Token Of Hero",
 		unidentifiedResourceName = "아레나코인",
 		unidentifiedDescriptionName = {
-			"Certifies its owner as an unparalleled warrior.",
+			"A token that proves its bearer is a hero.",
+			"Obtained from:",
+			"<TIPBOX>[MD Morse's Cave]<INFO>6090</INFO></TIPBOX>",
+			"<TIPBOX>[MD Bios Island]<INFO>6092</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"Complete the Demon God Subjugation quest in <TIPBOX>[Episode14.3]<INFO>6082</INFO></TIPBOX> to gain access to \"Flame Cave.\"",
+			"In the quest area Flame Cave: \"Token Of Hero Exchanger\", \"Expert Enchanter Byrnes\"",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Token Of Hero",
 		identifiedResourceName = "아레나코인",
 		identifiedDescriptionName = {
-			"Certifies its owner as an unparalleled warrior.",
+			"A token that proves its bearer is a hero.",
+			"Obtained from:",
+			"<TIPBOX>[MD Morse's Cave]<INFO>6090</INFO></TIPBOX>",
+			"<TIPBOX>[MD Bios Island]<INFO>6092</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"Complete the Demon God Subjugation quest in <TIPBOX>[Episode14.3]<INFO>6082</INFO></TIPBOX> to gain access to \"Flame Cave.\"",
+			"In the quest area Flame Cave: \"Token Of Hero Exchanger\", \"Expert Enchanter Byrnes\"",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -86749,18 +86797,30 @@ tbl = {
 		unidentifiedDisplayName = "Charleston Component",
 		unidentifiedResourceName = "타버린기계장치",
 		unidentifiedDescriptionName = {
-			"A burned piece of Charleston. Perhaps some parts can be salvaged if you deliver it to Charleston.",
+			"A burned piece of Charleston.",
+			"Take it to Ingrata, who has lost her name.",
+			"A closer look might reveal some reusable parts...",
 			"-------------------------",
-			"<NAVI>[Exchange for items]<INFO>verus04,69,108,0,101,0</INFO></NAVI>",
+			"Obtained from:",
+			"<TIPBOX>[MD At the King's Heel]<INFO>7101</INFO></TIPBOX>",
+			"-------------------------",
+			"Reward exchange:",
+			"<NAVI>[Ingrata M]<INFO>verus04,69,108,0,101,0</INFO></NAVI>",
 			"-------------------------",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Charleston Component",
 		identifiedResourceName = "타버린기계장치",
 		identifiedDescriptionName = {
-			"A burned piece of Charleston. Perhaps some parts can be salvaged if you deliver it to Charleston.",
+			"A burned piece of Charleston.",
+			"Take it to Ingrata, who has lost her name.",
+			"A closer look might reveal some reusable parts...",
 			"-------------------------",
-			"<NAVI>[Exchange for items]<INFO>verus04,69,108,0,101,0</INFO></NAVI>",
+			"Obtained from:",
+			"<TIPBOX>[MD At the King's Heel]<INFO>7101</INFO></TIPBOX>",
+			"-------------------------",
+			"Reward exchange:",
+			"<NAVI>[Ingrata M]<INFO>verus04,69,108,0,101,0</INFO></NAVI>",
 			"-------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -88985,21 +89045,21 @@ tbl = {
 		unidentifiedDisplayName = "Honor Token",
 		unidentifiedResourceName = "명예의증표",
 		unidentifiedDescriptionName = {
-			"^FF0000Account bound.^000000",
 			"Medal given to the honored guests of the Prontera Palace.",
-			"--------------------------",
-			"<NAVI>[Exchange for items]<INFO>prt_cas,165,255,0,101,0</INFO></NAVI>",
-			"--------------------------",
+			"Where to Obtain:",
+			"<TIPBOX>[Episode 16.1]<INFO>8118</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"<NAVI>[Commissary]<INFO>prt_cas,165,255,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Honor Token",
 		identifiedResourceName = "명예의증표",
 		identifiedDescriptionName = {
-			"^FF0000Account bound.^000000",
 			"Medal given to the honored guests of the Prontera Palace.",
-			"--------------------------",
-			"<NAVI>[Exchange for items]<INFO>prt_cas,165,255,0,101,0</INFO></NAVI>",
-			"--------------------------",
+			"Where to Obtain:",
+			"<TIPBOX>[Episode 16.1]<INFO>8118</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"<NAVI>[Commissary]<INFO>prt_cas,165,255,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -89755,19 +89815,29 @@ tbl = {
 		unidentifiedDisplayName = "Huge Metal Scrap",
 		unidentifiedResourceName = "커다란고철",
 		unidentifiedDescriptionName = {
-			"Look like it can be used somewhere. Can be placed in desired place.",
-			"<TIPBOX>[Episode 15]<INFO>10013</INFO></TIPBOX>",
+			"A large piece of scrap metal that looks like it could be useful somewhere. Someone is bound to need it.",
+			"-------------------------",
+			"Obtained from:",
+			"<TIPBOX>[Episode 15.2]<INFO>10013</INFO></TIPBOX>",
+			"-------------------------",
+			"Reward exchange:",
 			"<NAVI>[PLUTO 09]<INFO>verus04,163,219,0,101,0</INFO></NAVI>",
 			"<NAVI>[MARS 01]<INFO>verus04,165,217,0,101,0</INFO></NAVI>",
+			"-------------------------",
 			"Weight: ^777777100^000000"
 		},
 		identifiedDisplayName = "Huge Metal Scrap",
 		identifiedResourceName = "커다란고철",
 		identifiedDescriptionName = {
-			"Look like it can be used somewhere. Can be placed in desired place.",
-			"<TIPBOX>[Episode 15]<INFO>10013</INFO></TIPBOX>",
+			"A large piece of scrap metal that looks like it could be useful somewhere. Someone is bound to need it.",
+			"-------------------------",
+			"Obtained from:",
+			"<TIPBOX>[Episode 15.2]<INFO>10013</INFO></TIPBOX>",
+			"-------------------------",
+			"Reward exchange:",
 			"<NAVI>[PLUTO 09]<INFO>verus04,163,219,0,101,0</INFO></NAVI>",
 			"<NAVI>[MARS 01]<INFO>verus04,165,217,0,101,0</INFO></NAVI>",
+			"-------------------------",
 			"Weight: ^777777100^000000"
 		},
 		slotCount = 0,
@@ -89778,19 +89848,29 @@ tbl = {
 		unidentifiedDisplayName = "Old Tank",
 		unidentifiedResourceName = "낡은연료통",
 		unidentifiedDescriptionName = {
-			"An old fuel tank with some fuels left inside it. It'll come in handy someday.",
-			"<TIPBOX>[Episode 15]<INFO>10013</INFO></TIPBOX>",
+			"Although the tank is old, there seems to be some fuel left inside. It looks useful.",
+			"-------------------------",
+			"Obtained from:",
+			"<TIPBOX>[Episode 15.2]<INFO>10013</INFO></TIPBOX>",
+			"-------------------------",
+			"Reward exchange:",
 			"<NAVI>[PLUTO 09]<INFO>verus04,163,219,0,101,0</INFO></NAVI>",
 			"<NAVI>[MARS 01]<INFO>verus04,165,217,0,101,0</INFO></NAVI>",
+			"-------------------------",
 			"Weight: ^77777710^000000"
 		},
 		identifiedDisplayName = "Old Tank",
 		identifiedResourceName = "낡은연료통",
 		identifiedDescriptionName = {
-			"An old fuel tank with some fuels left inside it. It'll come in handy someday.",
-			"<TIPBOX>[Episode 15]<INFO>10013</INFO></TIPBOX>",
+			"Although the tank is old, there seems to be some fuel left inside. It looks useful.",
+			"-------------------------",
+			"Obtained from:",
+			"<TIPBOX>[Episode 15.2]<INFO>10013</INFO></TIPBOX>",
+			"-------------------------",
+			"Reward exchange:",
 			"<NAVI>[PLUTO 09]<INFO>verus04,163,219,0,101,0</INFO></NAVI>",
 			"<NAVI>[MARS 01]<INFO>verus04,165,217,0,101,0</INFO></NAVI>",
+			"-------------------------",
 			"Weight: ^77777710^000000"
 		},
 		slotCount = 0,
@@ -105990,10 +106070,10 @@ tbl = {
 			"Egg containing a Baby Poring. Must be hatched by an Incubator.",
 			"-------------------------",
 			"In Normal loyalty:",
-			"^0000ffHP natural recoveryeration +50%.^000000",
+			"^0000FFHP natural recovery +50%.^000000",
 			"-------------------------",
 			"At High loyalty:",
-			"^0000ffHP natural recoveryeration +75%.^000000",
+			"^0000FFHP natural recovery +75%.^000000",
 			"-------------------------",
 			"Type: ^777777Pet Egg^000000",
 			"Weight: ^7777770^000000"
@@ -106004,10 +106084,10 @@ tbl = {
 			"Egg containing a Baby Poring. Must be hatched by an Incubator.",
 			"-------------------------",
 			"In Normal loyalty:",
-			"^0000ffHP natural recoveryeration +50%.^000000",
+			"^0000FFHP natural recovery +50%.^000000",
 			"-------------------------",
 			"At High loyalty:",
-			"^0000ffHP natural recoveryeration +75%.^000000",
+			"^0000FFHP natural recovery +75%.^000000",
 			"-------------------------",
 			"Type: ^777777Pet Egg^000000",
 			"Weight: ^7777770^000000"
@@ -118314,7 +118394,7 @@ tbl = {
 			"^FF0000Account bound.^000000",
 			"A pill made from various medicinal herbs and roots.",
 			"^0000FFMax HP +5%.^000000",
-			"^0000FFHP natural recoveryeration +10%.^000000",
+			"^0000FFHP natural recovery +10%.^000000",
 			"Duration: ^7777771 hour^000000",
 			"Weight: ^7777771^000000"
 		},
@@ -118324,7 +118404,7 @@ tbl = {
 			"^FF0000Account bound.^000000",
 			"A pill made from various medicinal herbs and roots.",
 			"^0000FFMax HP +5%.^000000",
-			"^0000FFHP natural recoveryeration +10%.^000000",
+			"^0000FFHP natural recovery +10%.^000000",
 			"Duration: ^7777771 hour^000000",
 			"Weight: ^7777771^000000"
 		},
@@ -120651,8 +120731,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"Potion with essential nutrients for vital energy.",
 			"-------------------------",
-			"^0000ffRecovers 1,000 HP.^000000",
-			"^0000ffHP natural recoveryeration +20%.^000000",
+			"^0000FFRecovers 1,000 HP.^000000",
+			"^0000FFHP natural recovery +20%.^000000",
 			"-------------------------",
 			"Duration: ^777777500 seconds^000000",
 			"Weight: ^7777777^000000"
@@ -120724,12 +120804,12 @@ tbl = {
 		costume = false
 	},
 	[12432] = {
-		unidentifiedDisplayName = "Siroma Icetea",
+		unidentifiedDisplayName = "Siroma Ice Tea",
 		unidentifiedResourceName = "시로마아이스티",
 		unidentifiedDescriptionName = {
 			"Item not identified. Can be identified with a [Magnifier]."
 		},
-		identifiedDisplayName = "Siroma Icetea",
+		identifiedDisplayName = "Siroma Ice Tea",
 		identifiedResourceName = "시로마아이스티",
 		identifiedDescriptionName = {
 			"Fantastic combination of refreshing iced tea.",
@@ -120819,8 +120899,8 @@ tbl = {
 		identifiedDescriptionName = {
 			"Potion with essential nutrients to stimulate mental effort.",
 			"-------------------------",
-			"^0000ffMax SP +5%.^000000",
-			"^0000ffSP natural recoveryeration +20%.^000000",
+			"^0000FFMax SP +5%.^000000",
+			"^0000FFSP natural recovery +20%.^000000",
 			"-------------------------",
 			"Duration: ^777777500 seconds^000000",
 			"Weight: ^7777775^000000"
@@ -123334,10 +123414,10 @@ tbl = {
 			"Incapacitating toxin.",
 			"-------------------------",
 			"On opponents:",
-			"^0000ffFor 5 minutes: Cancels SP natural recoveryeration and prevents skill usage.^000000",
+			"^0000FFFor 5 minutes: Cancels SP natural recovery and prevents skill usage.^000000",
 			"-------------------------",
 			"On user:",
-			"^0000ffSilence and Curse Tolerance +100%.^000000",
+			"^0000FFSilence and Curse Tolerance +100%.^000000",
 			"-------------------------",
 			"Weight: ^7777772^000000"
 		},
@@ -145028,19 +145108,19 @@ tbl = {
 		identifiedDescriptionName = {
 			"Clothing that appears to be from the New World.",
 			"-------------------------",
-			"^0000ffLUK +3.^000000",
+			"^0000FFLUK +3.^000000",
 			"-------------------------",
 			"When performing physical attacks:",
-			"^0000ff2% chance to self-cast [Meteor Impact] nv.1 or at the level learned.^000000",
+			"^0000FF2% chance to self-cast [Meteor Impact] nv.1 or at the level learned.^000000",
 			"-------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Ring of the Manuks]^000000",
-			"^FA4E09[Manuks Boots]^000000",
-			"^FA4E09[Manuks Hood]^000000",
-			"^0000ffCritical damage +40%.^000000",
-			"^0000ffCRIT +15. Dodge +10.^000000",
-			"^0000ffSkill SP cost^000000 ^ff0000+10%.^000000",
-			"^0000ff[Shredding Blades] damage +20%.^000000",
+			"^FA4E09[Ring of Sapha]^000000",
+			"^FA4E09[Boots of Sapha]^000000",
+			"^FA4E09[Hood of Sapha]^000000",
+			"^0000FFCritical damage +40%.^000000",
+			"^0000FFCRIT +15. Dodge +10.^000000",
+			"^0000FFSkill SP cost^000000 ^FF0000+10%.^000000",
+			"^0000FF[Shredding Blades] damage +20%.^000000",
 			"-------------------------",
 			"Type: ^777777Armor^000000",
 			"DEF: ^77777745^000000 MDEF: ^7777770^000000",
@@ -164572,7 +164652,7 @@ tbl = {
 			"-------------------------",
 			"^0000FFAll stats +1.^000000",
 			"-------------------------",
-			"^0000FFSP natural recoveryeration +20%.^000000",
+			"^0000FFSP natural recovery +20%.^000000",
 			"^0000FFRecharge of [Crimson Rock] -1 second.^000000",
 			"-------------------------",
 			"With each refine:",
@@ -175944,7 +176024,8 @@ tbl = {
 			"Classes: ^777777All^000000"
 		},
 		slotCount = 0,
-		ClassNum = 713
+		ClassNum = 713,
+		costume = true
 	},
 	[19905] = {
 		unidentifiedDisplayName = "Equipment Costume",
@@ -179017,7 +179098,8 @@ tbl = {
 			"Classes: ^777777All^000000"
 		},
 		slotCount = 0,
-		ClassNum = 1265
+		ClassNum = 1265,
+		costume = true
 	},
 	[20131] = {
 		unidentifiedDisplayName = "Equipment Costume",
@@ -192725,12 +192807,38 @@ tbl = {
 		ClassNum = 0
 	},
 	[22539] = {
-		unidentifiedDisplayName = "",
+		unidentifiedDisplayName = "Special Assorted Dishes Box",
 		unidentifiedResourceName = "빨간상자",
-		unidentifiedDescriptionName = {""},
-		identifiedDisplayName = "",
+		unidentifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Lunchbox wrapped with food made by Charles Orleans.",
+			"--------------------------",
+			"[^A400CDContains^000000]",
+			"1x Savage BBQ",
+			"1x Warg Blood Cocktail",
+			"1x Minor Brisket",
+			"1x Siroma Ice Tea",
+			"1x Drosera Herb Stew",
+			"1x Petite Tail Noodles",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Advanced Cooking Box",
 		identifiedResourceName = "빨간상자",
-		identifiedDescriptionName = {""},
+		identifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"Lunchbox wrapped with food made by Charles Orleans.",
+			"--------------------------",
+			"[^A400CDContains^000000]",
+			"1x Savage BBQ",
+			"1x Warg Blood Cocktail",
+			"1x Minor Brisket",
+			"1x Siroma Ice Tea",
+			"1x Drosera Herb Stew",
+			"1x Petite Tail Noodles",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -215358,7 +215466,7 @@ tbl = {
 		costume = true
 	},
 	[24359] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "펜던트쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified item. Use a [Magnifying Glass] to identify it."
@@ -222718,7 +222826,7 @@ tbl = {
 		costume = true
 	},
 	[24601] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -222757,7 +222865,7 @@ tbl = {
 		costume = true
 	},
 	[24602] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -222783,7 +222891,7 @@ tbl = {
 		costume = true
 	},
 	[24603] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -222902,7 +223010,7 @@ tbl = {
 		costume = true
 	},
 	[24607] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -222941,7 +223049,7 @@ tbl = {
 		costume = true
 	},
 	[24608] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -222967,7 +223075,7 @@ tbl = {
 		costume = true
 	},
 	[24609] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -222993,7 +223101,7 @@ tbl = {
 		costume = true
 	},
 	[24610] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "이어링쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223032,7 +223140,7 @@ tbl = {
 		costume = true
 	},
 	[24611] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "펜던트쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223058,7 +223166,7 @@ tbl = {
 		costume = true
 	},
 	[24612] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "슈즈쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223084,7 +223192,7 @@ tbl = {
 		costume = true
 	},
 	[24613] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223124,7 +223232,7 @@ tbl = {
 		costume = true
 	},
 	[24614] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223151,7 +223259,7 @@ tbl = {
 		costume = true
 	},
 	[24615] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223364,7 +223472,7 @@ tbl = {
 		costume = true
 	},
 	[24622] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223403,7 +223511,7 @@ tbl = {
 		costume = true
 	},
 	[24623] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223429,7 +223537,7 @@ tbl = {
 		costume = true
 	},
 	[24624] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223546,7 +223654,7 @@ tbl = {
 		costume = true
 	},
 	[24628] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223587,7 +223695,7 @@ tbl = {
 		costume = true
 	},
 	[24629] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223614,7 +223722,7 @@ tbl = {
 		costume = true
 	},
 	[24630] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223641,7 +223749,7 @@ tbl = {
 		costume = true
 	},
 	[24631] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "이어링쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223681,7 +223789,7 @@ tbl = {
 		costume = true
 	},
 	[24632] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "펜던트쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223708,7 +223816,7 @@ tbl = {
 		costume = true
 	},
 	[24633] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "슈즈쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223735,7 +223843,7 @@ tbl = {
 		costume = true
 	},
 	[24634] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223775,7 +223883,7 @@ tbl = {
 		costume = true
 	},
 	[24635] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223802,7 +223910,7 @@ tbl = {
 		costume = true
 	},
 	[24636] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -223829,7 +223937,7 @@ tbl = {
 		costume = true
 	},
 	[24637] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "이어링쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223869,7 +223977,7 @@ tbl = {
 		costume = true
 	},
 	[24638] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "펜던트쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223895,7 +224003,7 @@ tbl = {
 		costume = true
 	},
 	[24639] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "슈즈쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223921,7 +224029,7 @@ tbl = {
 		costume = true
 	},
 	[24640] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223961,7 +224069,7 @@ tbl = {
 		costume = true
 	},
 	[24641] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -223987,7 +224095,7 @@ tbl = {
 		costume = true
 	},
 	[24642] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -224013,7 +224121,7 @@ tbl = {
 		costume = true
 	},
 	[24643] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "이어링쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224053,7 +224161,7 @@ tbl = {
 		costume = true
 	},
 	[24644] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "펜던트쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224080,7 +224188,7 @@ tbl = {
 		costume = true
 	},
 	[24645] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "슈즈쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224107,7 +224215,7 @@ tbl = {
 		costume = true
 	},
 	[24646] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224147,7 +224255,7 @@ tbl = {
 		costume = true
 	},
 	[24647] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224174,7 +224282,7 @@ tbl = {
 		costume = true
 	},
 	[24648] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "아머쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224201,7 +224309,7 @@ tbl = {
 		costume = true
 	},
 	[24649] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "이어링쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224241,7 +224349,7 @@ tbl = {
 		costume = true
 	},
 	[24650] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "펜던트쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -224268,7 +224376,7 @@ tbl = {
 		costume = true
 	},
 	[24651] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "슈즈쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. To identify it, use a [Magnifying Glass]."
@@ -225264,7 +225372,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified item. To identify it, use a [Magnifier]."
 		},
-		identifiedDisplayName = "Shadow EXP Shield",
+		identifiedDisplayName = "Experience Shadow Shield",
 		identifiedResourceName = "쉴드쉐도우3",
 		identifiedDescriptionName = {
 			"Gear born from the shadows.",
@@ -226610,7 +226718,7 @@ tbl = {
 		costume = true
 	},
 	[24732] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우3",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -226642,7 +226750,7 @@ tbl = {
 		costume = true
 	},
 	[24733] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우3",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -226798,7 +226906,7 @@ tbl = {
 		costume = true
 	},
 	[24738] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -226863,7 +226971,7 @@ tbl = {
 		costume = true
 	},
 	[24745] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -227055,7 +227163,7 @@ tbl = {
 		costume = true
 	},
 	[24751] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227089,7 +227197,7 @@ tbl = {
 		costume = true
 	},
 	[24752] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227119,7 +227227,7 @@ tbl = {
 		costume = true
 	},
 	[24753] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227153,7 +227261,7 @@ tbl = {
 		costume = true
 	},
 	[24754] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227183,7 +227291,7 @@ tbl = {
 		costume = true
 	},
 	[24755] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227217,7 +227325,7 @@ tbl = {
 		costume = true
 	},
 	[24756] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227248,7 +227356,7 @@ tbl = {
 		costume = true
 	},
 	[24757] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227282,7 +227390,7 @@ tbl = {
 		costume = true
 	},
 	[24758] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227312,7 +227420,7 @@ tbl = {
 		costume = true
 	},
 	[24759] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227346,7 +227454,7 @@ tbl = {
 		costume = true
 	},
 	[24760] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227376,7 +227484,7 @@ tbl = {
 		costume = true
 	},
 	[24761] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "웨폰쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227410,7 +227518,7 @@ tbl = {
 		costume = true
 	},
 	[24762] = {
-		unidentifiedDisplayName = "Shadow Equip.",
+		unidentifiedDisplayName = "Shadow Equipment",
 		unidentifiedResourceName = "쉴드쉐도우",
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
@@ -227650,7 +227758,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"Unidentified. Can be identified by using a [Magnifier]."
 		},
-		identifiedDisplayName = "EXP Shadow Gauntlet",
+		identifiedDisplayName = "Experience Shadow Weapon",
 		identifiedResourceName = "웨폰쉐도우3",
 		identifiedDescriptionName = {
 			"Gear born from the shadows.",
@@ -227741,6 +227849,133 @@ tbl = {
 			"Location: ^777777Shield^000000",
 			"Weight: ^7777770^000000 Required Level: ^777777200^000000",
 			"Classes: ^7777774th Classes^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24832] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "아머쉐도우",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Master Windhawk Armor",
+		identifiedResourceName = "BK_Armor_Shadow",
+		identifiedDescriptionName = {
+			"Equipment darker than usual.",
+			"--------------------------",
+			"^0000FFMax HP +10 per refine.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Master Windhawk Shield^000000",
+			"^0000FFAll talents +2.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Master Windhawk Shield^000000",
+			"^FA4E09Master Windhawk Shoes^000000",
+			"^0000FFP.ATK and S.MATK +1.^000000",
+			"Set's total refine level is 27 or higher:",
+			"^0000FFIgnores 50% of DEF and MDEF of all monster races.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Master Windhawk Shield^000000",
+			"^FA4E09Master Windhawk Weapon^000000",
+			"^FA4E09Master Windhawk Shoes^000000",
+			"^FA4E09Master Windhawk Earring^000000",
+			"^FA4E09Master Windhawk Pendant^000000",
+			"^0000FFIgnores 20% of TENA and MTENA of all monster races.^000000",
+			"--------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Equipped on: ^777777Armor^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777Windhawk^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24833] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "슈즈쉐도우",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Master Windhawk Shoes",
+		identifiedResourceName = "BK_Shoes_Shadow",
+		identifiedDescriptionName = {
+			"Equipment darker than usual.",
+			"--------------------------",
+			"^0000FFMax HP +10 per refine.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Master Windhawk Shield^000000",
+			"^0000FFAll talents +2.^000000",
+			"--------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Equipped on: ^777777Shoes^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777Windhawk^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24834] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "이어링쉐도우",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Master Windhawk Earring",
+		identifiedResourceName = "BK_Earring_Shadow",
+		identifiedDescriptionName = {
+			"Equipment darker than usual.",
+			"--------------------------",
+			"^0000FFMax HP +10 per refine.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Master Windhawk Weapon^000000",
+			"^0000FFAll talents +2.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Master Windhawk Weapon^000000",
+			"^FA4E09Master Windhawk Earring^000000",
+			"^FA4E09Master Windhawk Pendant^000000",
+			"^0000FFP.ATK and S.MATK +1.^000000",
+			"Set's total refine level is 27 or higher:",
+			"^0000FFIgnores 50% of DEF and MDEF of all monster races.^000000",
+			"--------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Equipped on: ^777777Right Accessory^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777Windhawk^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = true
+	},
+	[24835] = {
+		unidentifiedDisplayName = "Shadow Equipment",
+		unidentifiedResourceName = "펜던트쉐도우",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Master Windhawk Pendant",
+		identifiedResourceName = "BK_Pendant_Shadow",
+		identifiedDescriptionName = {
+			"Equipment darker than usual.",
+			"--------------------------",
+			"^0000FFMax HP +10 per refine.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Master Windhawk Weapon^000000",
+			"^0000FFAll talents +2.^000000",
+			"--------------------------",
+			"Type: ^777777Shadow Equipment^000000",
+			"Equipped on: ^777777Left Accessory^000000",
+			"Weight: ^7777770^000000 Min. Level: ^777777200^000000",
+			"Classes: ^777777Windhawk^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -230663,16 +230898,21 @@ tbl = {
 		unidentifiedDisplayName = "Schwartz's Honor Token",
 		unidentifiedResourceName = "슈발츠명예의증표",
 		unidentifiedDescriptionName = {
-			"Emblem issued by the Schwartzwald Republic.",
+			"A special token issued by the Schwartz Republic.",
+			"Where to Obtain:",
+			"<TIPBOX>[Episode 16.2]<INFO>8143</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"<NAVI>[Strasse]<INFO>rebel_in,74,67,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Schwartz's Honor Token",
 		identifiedResourceName = "슈발츠명예의증표",
 		identifiedDescriptionName = {
-			"Emblem issued by the Schwartzwald Republic.",
-			"--------------------------",
-			"<NAVI>[Exchange for items]<INFO>einbech,215,81,0,100,0,0</INFO></NAVI>",
-			"--------------------------",
+			"A special token issued by the Schwartz Republic.",
+			"Where to Obtain:",
+			"<TIPBOX>[Episode 16.2]<INFO>8143</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"<NAVI>[Strasse]<INFO>rebel_in,74,67,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -237311,18 +237551,25 @@ tbl = {
 		unidentifiedDisplayName = "Cor Core",
 		unidentifiedResourceName = "Cor_Core",
 		unidentifiedDescriptionName = {
-			"A core component crafted with quite sophisticated technology, used as the essential part in all devices.",
+			"It is said to be a component crafted with quite sophisticated technology, and is used as a core part in all kinds of devices.",
+			"Where to Obtain:",
+			"<TIPBOX>[Episode 17.1]<INFO>7055</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"<NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Cor Core",
 		identifiedResourceName = "Cor_Core",
 		identifiedDescriptionName = {
 			"It is said to be a component crafted with quite sophisticated technology, and is used as a core part in all kinds of devices.",
+			"Where to Obtain:",
+			"<TIPBOX>[Episode 17.1]<INFO>7055</INFO></TIPBOX>",
+			"Reward Exchange:",
+			"<NAVI>[Rebellion]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
-		EffectID = 1870,
 		costume = false
 	},
 	[25728] = {
@@ -244417,10 +244664,10 @@ tbl = {
 		unidentifiedDisplayName = "Pa Monk Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffSP natural recoveryeration +10%.^000000",
+			"^0000FFSP natural recovery +10%.^000000",
 			"-------------------------",
 			"When taking physical damage:",
-			"^0000ff1% chance to self-cast [Zen] nv.1.^000000",
+			"^0000FF1% chance to self-cast [Zen] nv.1.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Shoes^000000",
@@ -244429,10 +244676,10 @@ tbl = {
 		identifiedDisplayName = "Pa Monk Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffSP natural recoveryeration +10%.^000000",
+			"^0000FFSP natural recovery +10%.^000000",
 			"-------------------------",
 			"When taking physical damage:",
-			"^0000ff1% chance to self-cast [Zen] nv.1.^000000",
+			"^0000FF1% chance to self-cast [Zen] nv.1.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
 			"Equip on: ^777777Shoes^000000",
@@ -246199,21 +246446,21 @@ tbl = {
 		unidentifiedDisplayName = "Chaotic Hunter Fly Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffInsect resistance +15%.^000000",
-			"^0000ffResistance to Wind opponents +15%.^000000",
+			"^0000FFResistance to Insect race +15%.^000000",
+			"^0000FFResistance to Wind property opponents +15%.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Chaotic Hunter Fly Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffInsect resistance +15%.^000000",
-			"^0000ffResistance to Wind opponents +15%.^000000",
+			"^0000FFResistance to Insect race +15%.^000000",
+			"^0000FFResistance to Wind property opponents +15%.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -246351,23 +246598,23 @@ tbl = {
 		unidentifiedDisplayName = "Chaotic Stem Worm Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000ffHit +10.^000000",
-			"^0000ffEarth property resistance +20%.^000000",
-			"^0000ffNeutral property resistance +10%.^000000",
+			"^0000FFHit +10.^000000",
+			"^0000FFResistance to Earth property +20%.^000000",
+			"^0000FFResistance to Neutral property +10%.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Garment^000000",
+			"Equips on: ^777777Garment^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Chaotic Stem Worm Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000ffHit +10.^000000",
-			"^0000ffEarth property resistance +20%.^000000",
-			"^0000ffNeutral property resistance +10%.^000000",
+			"^0000FFHit +10.^000000",
+			"^0000FFResistance to Earth property +20%.^000000",
+			"^0000FFResistance to Neutral property +10%.^000000",
 			"-------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Garment^000000",
+			"Equips on: ^777777Garment^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -246836,7 +247083,7 @@ tbl = {
 			"^0000FFMagical damage against Fire property opponents +15%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Fruits Pom Spider Card]^000000",
+			"^FA4E09[Fruit Pom Spider Card]^000000",
 			"^0000FFAdditional magical damage against Fire property opponents +8%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
@@ -246849,7 +247096,7 @@ tbl = {
 			"^0000FFMagical damage against Fire property opponents +15%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Fruits Pom Spider Card]^000000",
+			"^FA4E09[Fruit Pom Spider Card]^000000",
 			"^0000FFAdditional magical damage against Fire property opponents +8%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
@@ -287455,8 +287702,8 @@ tbl = {
 			"Please note that the existing random options will disappear.",
 			"",
 			"[Applicable Item]",
-			"Experience Shield Shadow",
-			"Experience Weapon Shadow"
+			"Experience Shadow Shield",
+			"Experience Shadow Weapon"
 		},
 		identifiedDisplayName = "Experience Shadow Spellbook",
 		identifiedResourceName = "오래된마법서",
@@ -287466,8 +287713,8 @@ tbl = {
 			"Please note that the existing random options will disappear.",
 			"",
 			"[Applicable Item]",
-			"Experience Shield Shadow",
-			"Experience Weapon Shadow",
+			"Experience Shadow Shield",
+			"Experience Shadow Weapon",
 			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
@@ -288918,7 +289165,7 @@ tbl = {
 		costume = false
 	},
 	[101665] = {
-		unidentifiedDisplayName = "EXP Combiner II",
+		unidentifiedDisplayName = "Experience Combiner II",
 		unidentifiedResourceName = "라피네뚝딱상자",
 		unidentifiedDescriptionName = {
 			"Device that combines 5 refined +7 Materials to generate 1 unrefined Result.",
@@ -288934,11 +289181,11 @@ tbl = {
 			"+7 Advanced Shadow Shield",
 			"-------------------------",
 			"[^CD3278Result^000000]",
-			"+0 EXP Shadow Gauntlet",
+			"+0 Experience Shadow Weapon",
 			"-------------------------",
 			"Weight: ^7777771^000000"
 		},
-		identifiedDisplayName = "EXP Combiner II",
+		identifiedDisplayName = "Experience Combiner II",
 		identifiedResourceName = "라피네뚝딱상자",
 		identifiedDescriptionName = {
 			"Device that combines 5 refined +7 Materials to generate 1 unrefined Result.",
@@ -288954,7 +289201,7 @@ tbl = {
 			"+7 Advanced Shadow Shield",
 			"-------------------------",
 			"[^CD3278Result^000000]",
-			"+0 EXP Shadow Gauntlet",
+			"+0 Experience Shadow Weapon",
 			"-------------------------",
 			"Weight: ^7777771^000000"
 		},
@@ -289668,6 +289915,152 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[101809] = {
+		unidentifiedDisplayName = "Cooldown Shield Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Shadow Cooldown Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Cooldown Shield Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Shadow Cooldown Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101856] = {
+		unidentifiedDisplayName = "Major Auto Spell Selectable",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with a random refinement between +7 and +10.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"^0000FFMajor Auto Spell Earring Box^000000",
+			"^0000FFMajor Auto Spell Pendant Box^000000",
+			"^0000FFMajor Auto Spell Shoes Box^000000",
+			"^0000FFMajor Auto Spell Armor Box^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Major Auto Spell Selectable",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with a random refinement between +7 and +10.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"^0000FFMajor Auto Spell Earring Box^000000",
+			"^0000FFMajor Auto Spell Pendant Box^000000",
+			"^0000FFMajor Auto Spell Shoes Box^000000",
+			"^0000FFMajor Auto Spell Armor Box^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101858] = {
+		unidentifiedDisplayName = "Major Auto Spell Earring Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Earring with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Major Auto Spell Earring Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Earring with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101859] = {
+		unidentifiedDisplayName = "Major Auto Spell Pendant Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Pendant with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Major Auto Spell Pendant Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Pendant with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101860] = {
+		unidentifiedDisplayName = "Major Auto Spell Armor Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Armor with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Major Auto Spell Armor Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Armor with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101861] = {
+		unidentifiedDisplayName = "Major Auto Spell Shoes Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Shoes with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Major Auto Spell Shoes Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Major Auto Spell Shadow Shoes with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[101862] = {
 		unidentifiedDisplayName = "Infinity Shadow Selectable",
 		unidentifiedResourceName = "잠긴실버갑옷상자",
@@ -289734,6 +290127,152 @@ tbl = {
 			"A box with dark inscriptions.",
 			"-------------------------",
 			"^0000FFProvides 1x Infinity Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101919] = {
+		unidentifiedDisplayName = "EXP Shadow Selectable",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with a random refinement between +7 and +10.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"^0000FFEXP Gauntlet Box^000000",
+			"^0000FFEXP Shield Box^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "EXP Shadow Selectable",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with a random refinement between +7 and +10.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"^0000FFEXP Gauntlet Box^000000",
+			"^0000FFEXP Shield Box^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101920] = {
+		unidentifiedDisplayName = "Experience Weapon Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Experience Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Experience Weapon Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Experience Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101921] = {
+		unidentifiedDisplayName = "Experience Shield Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Experience Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Experience Shield Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Experience Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101922] = {
+		unidentifiedDisplayName = "Mega Blitz Selectable",
+		unidentifiedResourceName = "잠긴실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with a random refinement between +7 and +10.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"^0000FFMega Blitz Weapon Box^000000",
+			"^0000FFMega Blitz Shield Box^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mega Blitz Selectable",
+		identifiedResourceName = "잠긴실버갑옷상자",
+		identifiedDescriptionName = {
+			"This item provides a Shadow Equipment box with a random refinement between +7 and +10.",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"^0000FFMega Blitz Weapon Box^000000",
+			"^0000FFMega Blitz Shield Box^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101923] = {
+		unidentifiedDisplayName = "Mega Blitz Weapon Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Mega Blitz Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mega Blitz Weapon Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Mega Blitz Shadow Weapon with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[101924] = {
+		unidentifiedDisplayName = "Mega Blitz Shield Box",
+		unidentifiedResourceName = "열린실버갑옷상자",
+		unidentifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Mega Blitz Shadow Shield with random refinement (between +7 and +10).^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mega Blitz Shield Box",
+		identifiedResourceName = "열린실버갑옷상자",
+		identifiedDescriptionName = {
+			"Box with dark inscriptions.",
+			"-------------------------",
+			"^0000FFProvides 1x Mega Blitz Shadow Shield with random refinement (between +7 and +10).^000000",
 			"-------------------------",
 			"Weight: ^7777771^000000"
 		},
@@ -290842,6 +291381,35 @@ tbl = {
 			"3x Holy Water of Purification",
 			"3x Oil of Purification",
 			"20x Amethyst Fragment",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[102745] = {
+		unidentifiedDisplayName = "Episode 19 Box",
+		unidentifiedResourceName = "포장된상자",
+		unidentifiedDescriptionName = {
+			"A box specially wrapped for you!",
+			"--------------------------",
+			"[^CD3278Contains^000000]",
+			"1x [Event] Battle Tome",
+			"10x Winter Flower Petal",
+			"10x Winter Flower Globe",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "Episode 19 Box",
+		identifiedResourceName = "포장된상자",
+		identifiedDescriptionName = {
+			"A box specially wrapped for you!",
+			"--------------------------",
+			"[^CD3278Contains^000000]",
+			"1x [Event] Battle Tome",
+			"10x Winter Flower Petal",
+			"10x Winter Flower Globe",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -297057,19 +297625,19 @@ tbl = {
 		costume = false
 	},
 	[105355] = {
-		unidentifiedDisplayName = "Box of EXP Shadow Gear",
+		unidentifiedDisplayName = "Box of Experience Shadow Gear",
 		unidentifiedResourceName = "우울한상자",
 		unidentifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
-			"Special box that guarantees 1 random EXP Shadow Equipment.",
+			"^FF0000Account bound.^000000",
+			"Special box that guarantees 1 random Experience Shadow Equipment.",
 			"--------------------------",
 			"Weight: ^7777771^000000"
 		},
-		identifiedDisplayName = "Box of EXP Shadow Gear",
+		identifiedDisplayName = "Box of Experience Shadow Gear",
 		identifiedResourceName = "우울한상자",
 		identifiedDescriptionName = {
-			"^ff0000Account bound.^000000",
-			"Special box that guarantees 1 random EXP Shadow Equipment.",
+			"^FF0000Account bound.^000000",
+			"Special box that guarantees 1 random Experience Shadow Equipment.",
 			"--------------------------",
 			"Weight: ^7777771^000000"
 		},
@@ -303233,17 +303801,17 @@ tbl = {
 		costume = false
 	},
 	[106600] = {
-		unidentifiedDisplayName = "Oval Artifact Pouch 20",
+		unidentifiedDisplayName = "Oval Artifact Bag 20",
 		unidentifiedResourceName = "평범한주머니",
 		unidentifiedDescriptionName = {
-			"^ff0000Untradable.^000000",
-			"A pouch containing 1x Oval Artifact from the current shop."
+			"^FF0000Untradable.^000000",
+			"A bag containing 1x Oval Artifact from the current shop."
 		},
-		identifiedDisplayName = "Oval Artifact Pouch 20",
+		identifiedDisplayName = "Oval Artifact Bag 20",
 		identifiedResourceName = "평범한주머니",
 		identifiedDescriptionName = {
-			"^ff0000Untradable.^000000",
-			"A pouch containing 1x Oval Artifact from the current shop.",
+			"^FF0000Untradable.^000000",
+			"A bag containing 1x Oval Artifact from the current shop.",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -306604,19 +307172,19 @@ tbl = {
 		costume = false
 	},
 	[107372] = {
-		unidentifiedDisplayName = "Oval Artifact Pouch 25",
+		unidentifiedDisplayName = "Oval Artifact Bag 25",
 		unidentifiedResourceName = "평범한주머니",
 		unidentifiedDescriptionName = {
 			"^FF0000Untradable.^000000",
-			"A pouch containing 1 Oval Artifact from the current store.",
+			"A bag containing 1x Oval Artifact from the current store.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
-		identifiedDisplayName = "Oval Artifact Pouch 25",
+		identifiedDisplayName = "Oval Artifact Bag 25",
 		identifiedResourceName = "평범한주머니",
 		identifiedDescriptionName = {
 			"^FF0000Untradable.^000000",
-			"A pouch containing 1 Oval Artifact from the current store.",
+			"A bag containing 1x Oval Artifact from the current store.",
 			"--------------------------",
 			"Weight: ^7777770^000000"
 		},
@@ -309797,7 +310365,8 @@ tbl = {
 		identifiedResourceName = "2024ROS_Box",
 		identifiedDescriptionName = {
 			"A Special Package for ROS Festa 2026.",
-			"^ff0000This item cannot be traded with other accounts.^000000",
+			"^FF0000This item cannot be traded with other accounts.^000000",
+			"-------------------------",
 			"Weight : ^7777771^000000"
 		},
 		slotCount = 0,
@@ -309883,6 +310452,48 @@ tbl = {
 		identifiedDescriptionName = {
 			"Box given in the Jcoin Rush event to those who reached participation level 5.",
 			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108356] = {
+		unidentifiedDisplayName = "Oridecon Box",
+		unidentifiedResourceName = "벼락의상자",
+		unidentifiedDescriptionName = {
+			"A box containing 5 Oridecons. Firmly sealed.",
+			"^ff0000Once opened, this item cannot be refunded.^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Oridecon Box",
+		identifiedResourceName = "벼락의상자",
+		identifiedDescriptionName = {
+			"A box containing 5 Oridecons. Firmly sealed.",
+			"^ff0000Once opened, this item cannot be refunded.^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108358] = {
+		unidentifiedDisplayName = "Elunium Box",
+		unidentifiedResourceName = "벼락의상자",
+		unidentifiedDescriptionName = {
+			"A box containing 5 Eluniums. Firmly sealed.",
+			"^ff0000Once opened, this item cannot be refunded.^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Elunium Box",
+		identifiedResourceName = "벼락의상자",
+		identifiedDescriptionName = {
+			"A box containing 5 Eluniums. Firmly sealed.",
+			"^ff0000Once opened, this item cannot be refunded.^000000",
+			"-------------------------",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -310520,6 +311131,428 @@ tbl = {
 			"^ff0000Account Bound.^000000",
 			"Box containing 1x Character Slot Card",
 			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108539] = {
+		unidentifiedDisplayName = "ROStars Oval Artifact",
+		unidentifiedResourceName = "ZG_Guild_Event_PMvp",
+		unidentifiedDescriptionName = {
+			"Special egg to celebrate ROStars 2026.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "ROStars Oval Artifact",
+		identifiedResourceName = "ZG_Guild_Event_PMvp",
+		identifiedDescriptionName = {
+			"Special egg to celebrate ROStars 2026.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108540] = {
+		unidentifiedDisplayName = "[Event] ROStars Oval Artifact",
+		unidentifiedResourceName = "ZG_Guild_Event_PMvp",
+		unidentifiedDescriptionName = {
+			"Special egg to celebrate ROStars 2026.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Event] ROStars Oval Artifact",
+		identifiedResourceName = "ZG_Guild_Event_PMvp",
+		identifiedDescriptionName = {
+			"Special egg to celebrate ROStars 2026.",
+			"--------------------------",
+			"<URL>[Grants 1 random item]<INFO>https://ro.gnjoylatam.com/news/probability</INFO></URL>",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108541] = {
+		unidentifiedDisplayName = "ROStars Oval Artifact Bag",
+		unidentifiedResourceName = "평범한주머니",
+		unidentifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"A bag containing 1x Oval Artifact.",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		identifiedDisplayName = "ROStars Oval Artifact Bag",
+		identifiedResourceName = "평범한주머니",
+		identifiedDescriptionName = {
+			"^FF0000Account bound.^000000",
+			"A bag containing 1x Oval Artifact.",
+			"--------------------------",
+			"Weight: ^7777770^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108542] = {
+		unidentifiedDisplayName = "250% Box VIII",
+		unidentifiedResourceName = "Re_Costama_Box_2023_4",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"The boss went crazy! Enjoy a 250% bonus with this package!!!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "250% Box VIII",
+		identifiedResourceName = "Re_Costama_Box_2023_4",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"The boss went crazy! Enjoy a 250% bonus with this package!!!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108543] = {
+		unidentifiedDisplayName = "500% Box VIII",
+		unidentifiedResourceName = "Re_Costama_Box_2023_3",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"The boss went crazy! Enjoy a 500% bonus with this package!!!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "500% Box VIII",
+		identifiedResourceName = "Re_Costama_Box_2023_3",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"The boss went crazy! Enjoy a 500% bonus with this package!!!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108544] = {
+		unidentifiedDisplayName = "1,000% Box VIII",
+		unidentifiedResourceName = "Re_Costama_Box_2023_1",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"The boss went crazy! Enjoy a 1,000% bonus with this package!!!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "1,000% Box VIII",
+		identifiedResourceName = "Re_Costama_Box_2023_1",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"The boss went crazy! Enjoy a 1,000% bonus with this package!!!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108545] = {
+		unidentifiedDisplayName = "[Nov] Manual Box",
+		unidentifiedResourceName = "최하급직업박스",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box packed with Manuals and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Nov] Manual Box",
+		identifiedResourceName = "최하급직업박스",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box packed with Manuals and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108546] = {
+		unidentifiedDisplayName = "[Nov] Consumables Box",
+		unidentifiedResourceName = "2024ROS_Box",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box full of consumables and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "[Nov] Consumables Box",
+		identifiedResourceName = "2024ROS_Box",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"Try this box full of consumables and some Oval Artifacts!",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108547] = {
+		unidentifiedDisplayName = "EP 19 Selectables",
+		unidentifiedResourceName = "ZTW_Dystopia_Pack",
+		unidentifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"A gift box to celebrate episode 19!",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"[Costume] Juncea's Hair",
+			"[Costume] Leon's Hair",
+			"[Costume] Aurelie's Hair",
+			"[Costume] Friederike's Veil",
+			"[Costume] Juncea's Wings",
+			"-------------------------",
+			"^0000ffUpon choosing, you also receive 1x Episode 19 Box!^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "EP 19 Selectables",
+		identifiedResourceName = "ZTW_Dystopia_Pack",
+		identifiedDescriptionName = {
+			"^ff0000Account Bound.^000000",
+			"A gift box to celebrate episode 19!",
+			"-------------------------",
+			"[^CD3278Choose One^000000]",
+			"[Costume] Juncea's Hair",
+			"[Costume] Leon's Hair",
+			"[Costume] Aurelie's Hair",
+			"[Costume] Friederike's Veil",
+			"[Costume] Juncea's Wings",
+			"-------------------------",
+			"^0000ffUpon choosing, you also receive 1x Episode 19 Box!^000000",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108548] = {
+		unidentifiedDisplayName = "Costume Stone Package 19",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special package containing Nyangvine, Costume Stone Chest and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Costume Stone Package 19",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special package containing Nyangvine, Costume Stone Chest and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108549] = {
+		unidentifiedDisplayName = "Large Costume Stone Package 20",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special package containing Nyangvine, Costume Stone Chest and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Large Costume Stone Package 20",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special package containing Nyangvine, Costume Stone Chest and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108550] = {
+		unidentifiedDisplayName = "Mega Costume Stone Package 21",
+		unidentifiedResourceName = "NewServer_Package",
+		unidentifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special package containing Nyangvine, Costume Stone Chest and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mega Costume Stone Package 21",
+		identifiedResourceName = "NewServer_Package",
+		identifiedDescriptionName = {
+			"^FF0000Account Bound.^000000",
+			"Special package containing Nyangvine, Costume Stone Chest and Oval Artifact.",
+			"-------------------------",
+			"<NAVI>[Fashion Shop]<INFO>mal_in01,23,113,0,101,0</INFO></NAVI>",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108557] = {
+		unidentifiedDisplayName = "Biscuit Stick 1 Box",
+		unidentifiedResourceName = "포장된상자",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Biscuit Stick 1 Box",
+		identifiedResourceName = "포장된상자",
+		identifiedDescriptionName = {
+			"^ff0000Untradeable.^000000",
+			"Special box of delicious pocky.",
+			"--------------------------",
+			"[^CD3278Contains^000000]",
+			"1x STR Biscuit Stick",
+			"1x AGI Biscuit Stick",
+			"1x VIT Biscuit Stick",
+			"1x INT Biscuit Stick",
+			"1x DEX Biscuit Stick",
+			"1x LUK Biscuit Stick",
+			"--------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108562] = {
+		unidentifiedDisplayName = "Job Manual (10)",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 10x Job Manual.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Job EXP +25% for 30 minutes.",
+			"Can be used together with the Battle Manual.",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Job Manual (10)",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 10x Job Manual.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Job EXP +25% for 30 minutes.",
+			"Can be used together with the Battle Manual.",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108564] = {
+		unidentifiedDisplayName = "Shadow Armor Scroll (30)",
+		unidentifiedResourceName = "우울한상자",
+		unidentifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 30x Shadow Armor Scroll.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Grants Shadow property to armor for 30 minutes.",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Shadow Armor Scroll (30)",
+		identifiedResourceName = "우울한상자",
+		identifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 30x Shadow Armor Scroll.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Grants Shadow property to armor for 30 minutes.",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108565] = {
+		unidentifiedDisplayName = "Holy Armor Scroll (30)",
+		unidentifiedResourceName = "햇빛의상자",
+		unidentifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 30x Holy Armor Scroll.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Grants Holy property to armor for 30 minutes.",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Holy Armor Scroll (30)",
+		identifiedResourceName = "햇빛의상자",
+		identifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 30x Holy Armor Scroll.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Grants Holy property to armor for 30 minutes.",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[108566] = {
+		unidentifiedDisplayName = "Mystical Amplification Scroll (50)",
+		unidentifiedResourceName = "오래된보라상자",
+		unidentifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 50x Mystical Amplification Scroll.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Cast lv.10 Mystical Amplification when used.",
+			"-------------------------",
+			"Weight: ^7777771^000000"
+		},
+		identifiedDisplayName = "Mystical Amplification Scroll (50)",
+		identifiedResourceName = "오래된보라상자",
+		identifiedDescriptionName = {
+			"^ff0000Once this box is open, it won't be refunded.^000000",
+			"A box containing 50x Mystical Amplification Scroll.",
+			"-------------------------",
+			"[^CD3278Description^000000]",
+			"Cast lv.10 Mystical Amplification when used.",
+			"-------------------------",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -313488,9 +314521,9 @@ tbl = {
 			"Special August pack.",
 			"--------------------------",
 			"[^CD3278Contains^000000]",
-			"2x Shadow Armor Scroll (30) (30)",
+			"2x Shadow Armor Scroll (30)",
 			"2x Holy Armor Scroll (30)",
-			"2x Mystical Amplification Scroll (50) (50)",
+			"2x Mystical Amplification Scroll (50)",
 			"10x Battle Manual",
 			"25x Job Manual",
 			"6x [Event] Oval Artifact",
@@ -314763,17 +315796,17 @@ tbl = {
 		costume = false
 	},
 	[300019] = {
-		unidentifiedDisplayName = "Skeleton Ferus Card",
+		unidentifiedDisplayName = "Bone Ferus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"^0000FFPhysical damage against Dragon race +5%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Skeleton Acidus Card]^000000",
+			"^FA4E09[Bone Acidus Card]^000000",
 			"^0000FFAdditional physical damage against Dragon race +5%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Accessory (Left)^000000",
+			"Equips on: ^777777Left Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Bone Ferus Card",
@@ -314786,7 +315819,7 @@ tbl = {
 			"^0000FFAdditional physical damage against Dragon race +5%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Accessory (Left)^000000",
+			"Equips on: ^777777Left Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -314795,17 +315828,17 @@ tbl = {
 		costume = false
 	},
 	[300020] = {
-		unidentifiedDisplayName = "Skeleton Acidus Card",
+		unidentifiedDisplayName = "Bone Acidus Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
 			"^0000FFPhysical damage against Brute and Doram races +5%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09[Skeleton Ferus Card]^000000",
+			"^FA4E09[Bone Ferus Card]^000000",
 			"^0000FFAdditional physical damage against Brute and Doram races +5%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Accessory (Right)^000000",
+			"Equips on: ^777777Right Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Bone Acidus Card",
@@ -314818,7 +315851,7 @@ tbl = {
 			"^0000FFAdditional physical damage against Brute and Doram races +5%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip on: ^777777Accessory (Right)^000000",
+			"Equips on: ^777777Right Accessory^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -318243,9 +319276,9 @@ tbl = {
 		unidentifiedDisplayName = "Diligent Andre Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000FFInsect resistance +20%.^000000",
+			"^0000FFResistance to Insect race +20%.^000000",
 			"--------------------------",
-			"Per refinement:",
+			"Per refine:",
 			"^0000FFMax HP +1%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
@@ -318253,15 +319286,15 @@ tbl = {
 			"^0000FFPhysical damage against the Insect race +20%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Diligent Andre Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000FFInsect resistance +20%.^000000",
+			"^0000FFResistance to Insect race +20%.^000000",
 			"--------------------------",
-			"Per refinement:",
+			"Per refine:",
 			"^0000FFMax HP +1%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
@@ -318269,7 +319302,7 @@ tbl = {
 			"^0000FFPhysical damage against the Insect race +20%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -318335,9 +319368,9 @@ tbl = {
 		unidentifiedDisplayName = "Diligent Deniro Card",
 		unidentifiedResourceName = "이름없는카드",
 		unidentifiedDescriptionName = {
-			"^0000FFInsect resistance +20%.^000000",
+			"^0000FFResistance to Insect race +20%.^000000",
 			"--------------------------",
-			"Per refinement:",
+			"Per refine:",
 			"^0000FFMax HP +1%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
@@ -318345,15 +319378,15 @@ tbl = {
 			"^0000FFMagical damage against Insect race +20%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		identifiedDisplayName = "Diligent Deniro Card",
 		identifiedResourceName = "이름없는카드",
 		identifiedDescriptionName = {
-			"^0000FFInsect resistance +20%.^000000",
+			"^0000FFResistance to Insect race +20%.^000000",
 			"--------------------------",
-			"Per refinement:",
+			"Per refine:",
 			"^0000FFMax HP +1%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
@@ -318361,7 +319394,7 @@ tbl = {
 			"^0000FFMagical damage against Insect race +20%.^000000",
 			"--------------------------",
 			"Type: ^777777Card^000000",
-			"Equip: ^777777Shield^000000",
+			"Equips on: ^777777Shield^000000",
 			"Weight: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -344985,6 +346018,88 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[312014] = {
+		unidentifiedDisplayName = "Good Spell",
+		unidentifiedResourceName = "신성한스크롤",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Divine Buster^000000",
+			"^0000FF[Mighty Smash] damage +15%.^000000",
+			"^0000FF[Axe Stomp] damage +20%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Celestial Staff^000000",
+			"^0000FF[Frozen Slash] damage +15%.^000000",
+			"^0000FF[Crystal Rain] damage +20%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Celestial Spear^000000",
+			"^0000FF[Overslash] damage +15%.^000000",
+			"^0000FFMelee physical damage +20%.^000000"
+		},
+		identifiedDisplayName = "Good Spell",
+		identifiedResourceName = "신성한스크롤",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Divine Buster^000000",
+			"^0000FF[Mighty Smash] damage +15%.^000000",
+			"^0000FF[Axe Stomp] damage +20%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Celestial Staff^000000",
+			"^0000FF[Frozen Slash] damage +15%.^000000",
+			"^0000FF[Crystal Rain] damage +20%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Celestial Spear^000000",
+			"^0000FF[Overslash] damage +15%.^000000",
+			"^0000FFMelee physical damage +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312021] = {
+		unidentifiedDisplayName = "Evil Spell",
+		unidentifiedResourceName = "악마힘스크롤",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Infernal Destroyer^000000",
+			"^0000FFCritical damage +25%.^000000",
+			"^0000FF[Triple Laser] damage +15%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Devil Wing Staff^000000",
+			"^0000FF[Mystery Illusion] damage +20%.^000000",
+			"^0000FF[Soul Vulcan Strike] damage +15%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Infernal Sword^000000",
+			"^0000FF[Cross Rain] damage +15%.^000000",
+			"^0000FFHoly property magical damage +20%.^000000"
+		},
+		identifiedDisplayName = "Evil Spell",
+		identifiedResourceName = "악마힘스크롤",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Infernal Destroyer^000000",
+			"^0000FFCritical damage +25%.^000000",
+			"^0000FF[Triple Laser] damage +15%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Devil Wing Staff^000000",
+			"^0000FF[Mystery Illusion] damage +20%.^000000",
+			"^0000FF[Soul Vulcan Strike] damage +15%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Infernal Sword^000000",
+			"^0000FF[Cross Rain] damage +15%.^000000",
+			"^0000FFHoly property magical damage +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[312189] = {
 		unidentifiedDisplayName = "POW+3",
 		unidentifiedResourceName = "Wolf_Orb_Str_1",
@@ -345047,6 +346162,224 @@ tbl = {
 		identifiedDisplayName = "CRT+3",
 		identifiedResourceName = "Wolf_Orb_luk_1",
 		identifiedDescriptionName = {"CRT + 3."},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312195] = {
+		unidentifiedDisplayName = "Nimble Soul",
+		unidentifiedResourceName = "Wolf_Orb_A_Delay_1",
+		unidentifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000FFAttack speed +1%.^000000"
+		},
+		identifiedDisplayName = "Nimble Soul",
+		identifiedResourceName = "Wolf_Orb_A_Delay_1",
+		identifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000FFAttack speed +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312196] = {
+		unidentifiedDisplayName = "Casting Soul\n",
+		unidentifiedResourceName = "Wolf_Orb_E_Archer_1",
+		unidentifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000FFVariable cast time -1%.^000000"
+		},
+		identifiedDisplayName = "Casting Soul\n",
+		identifiedResourceName = "Wolf_Orb_E_Archer_1",
+		identifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000FFVariable cast time -1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312197] = {
+		unidentifiedDisplayName = "Critical Soul",
+		unidentifiedResourceName = "Wolf_Orb_F_Spirit_1",
+		unidentifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000ffCRIT +1.^000000"
+		},
+		identifiedDisplayName = "Critical Soul",
+		identifiedResourceName = "Wolf_Orb_F_Spirit_1",
+		identifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000ffCRIT +1.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312198] = {
+		unidentifiedDisplayName = "Expert Soul",
+		unidentifiedResourceName = "Wolf_Orb_Fatal_1",
+		unidentifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000FFAfter-skill delay -1%.^000000"
+		},
+		identifiedDisplayName = "Expert Soul",
+		identifiedResourceName = "Wolf_Orb_Fatal_1",
+		identifiedDescriptionName = {
+			"Every 2 refines:",
+			"^0000FFAfter-skill delay -1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312199] = {
+		unidentifiedDisplayName = "Robust Soul",
+		unidentifiedResourceName = "Wolf_Orb_Spell_1",
+		unidentifiedDescriptionName = {
+			"Every 3 refines:",
+			"^0000ffMax HP and SP +1%.^000000"
+		},
+		identifiedDisplayName = "Robust Soul",
+		identifiedResourceName = "Wolf_Orb_Spell_1",
+		identifiedDescriptionName = {
+			"Every 3 refines:",
+			"^0000ffMax HP and SP +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312231] = {
+		unidentifiedDisplayName = "WH Soul (Gale Storm)",
+		unidentifiedResourceName = "Wolf_Orb_Critical_1",
+		unidentifiedDescriptionName = {
+			"^0000FF[Gale Storm] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Gale Storm] damage +1%.^000000"
+		},
+		identifiedDisplayName = "WH Soul (Gale Storm)",
+		identifiedResourceName = "Wolf_Orb_Critical_1",
+		identifiedDescriptionName = {
+			"^0000FF[Gale Storm] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Gale Storm] damage +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312232] = {
+		unidentifiedDisplayName = "WH Soul (Crescive Bolt)",
+		unidentifiedResourceName = "Wolf_Orb_Critical_1",
+		unidentifiedDescriptionName = {
+			"^0000ff[Crescive Bolt] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000ff[Crescive Bolt] damage +1%.^000000"
+		},
+		identifiedDisplayName = "WH Soul (Crescive Bolt)",
+		identifiedResourceName = "Wolf_Orb_Critical_1",
+		identifiedDescriptionName = {
+			"^0000ff[Crescive Bolt] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000ff[Crescive Bolt] damage +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312233] = {
+		unidentifiedDisplayName = "WH Soul (Hawk Rush)",
+		unidentifiedResourceName = "Wolf_Orb_Critical_1",
+		unidentifiedDescriptionName = {
+			"^0000FF[Hawk Rush] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Hawk Rush] damage +1%.^000000"
+		},
+		identifiedDisplayName = "WH Soul (Hawk Rush)",
+		identifiedResourceName = "Wolf_Orb_Critical_1",
+		identifiedDescriptionName = {
+			"^0000FF[Hawk Rush] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Hawk Rush] damage +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312234] = {
+		unidentifiedDisplayName = "WH Soul (Solid Trap)",
+		unidentifiedResourceName = "Wolf_Orb_Critical_1",
+		unidentifiedDescriptionName = {
+			"^0000FF[Solid Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Solid Trap] damage +1%.^000000"
+		},
+		identifiedDisplayName = "WH Soul (Solid Trap)",
+		identifiedResourceName = "Wolf_Orb_Critical_1",
+		identifiedDescriptionName = {
+			"^0000FF[Solid Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Solid Trap] damage +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312235] = {
+		unidentifiedDisplayName = "WH Soul (Deep Blind Trap)",
+		unidentifiedResourceName = "Wolf_Orb_Critical_1",
+		unidentifiedDescriptionName = {
+			"^0000FF[Deep Blind Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Deep Blind Trap] damage +1%.^000000"
+		},
+		identifiedDisplayName = "WH Soul (Deep Blind Trap)",
+		identifiedResourceName = "Wolf_Orb_Critical_1",
+		identifiedDescriptionName = {
+			"^0000FF[Deep Blind Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Deep Blind Trap] damage +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312236] = {
+		unidentifiedDisplayName = "WH Soul (Flame Trap)",
+		unidentifiedResourceName = "Wolf_Orb_Critical_1",
+		unidentifiedDescriptionName = {
+			"^0000FF[Flame Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Flame Trap] damage +1%.^000000"
+		},
+		identifiedDisplayName = "WH Soul (Flame Trap)",
+		identifiedResourceName = "Wolf_Orb_Critical_1",
+		identifiedDescriptionName = {
+			"^0000FF[Flame Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Flame Trap] damage +1%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312237] = {
+		unidentifiedDisplayName = "WH Soul (Swift Trap)",
+		unidentifiedResourceName = "Wolf_Orb_Critical_1",
+		unidentifiedDescriptionName = {
+			"^0000FF[Swift Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Swift Trap] damage +1%.^000000"
+		},
+		identifiedDisplayName = "WH Soul (Swift Trap)",
+		identifiedResourceName = "Wolf_Orb_Critical_1",
+		identifiedDescriptionName = {
+			"^0000FF[Swift Trap] damage +2%.^000000",
+			"Every 2 refines:",
+			"^0000FF[Swift Trap] damage +1%.^000000"
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -345776,6 +347109,156 @@ tbl = {
 			"[D grade] additionally increases the experience gained from dragon-type monsters by 1%.",
 			"[C grade] additionally increases the experience gained from dragon-type monsters by 3%.",
 			"[B grade] additionally increases the experience gained from dragon-type monsters by 5%."
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312649] = {
+		unidentifiedDisplayName = "Good Vigor (Meister)",
+		unidentifiedResourceName = "C_160LV_Mechanic_Gold",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Good Spell^000000",
+			"^0000FFAttack speed +5%.^000000",
+			"^0000FF[Mighty Smash] damage +20%.^000000",
+			"^0000FF[Axe Stomp] damage +40%.^000000",
+			"[^0000FFPhysical damage against opponents of all properties +20%.^000000"
+		},
+		identifiedDisplayName = "Good Vigor (Meister)",
+		identifiedResourceName = "C_160LV_Mechanic_Gold",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Good Spell^000000",
+			"^0000FFAttack speed +5%.^000000",
+			"^0000FF[Mighty Smash] damage +20%.^000000",
+			"^0000FF[Axe Stomp] damage +40%.^000000",
+			"[^0000FFPhysical damage against opponents of all properties +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312652] = {
+		unidentifiedDisplayName = "Evil Vigor (Meister)",
+		unidentifiedResourceName = "C_160LV_Warlock_Violet",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Evil Spell^000000",
+			"^0000FFCRIT +5.^000000",
+			"^0000FFCritical damage +20%.^000000",
+			"^0000FF[Triple Laser] damage +30%.^000000",
+			"^0000FFPhysical damage against opponents of all properties +20%.^000000"
+		},
+		identifiedDisplayName = "Evil Vigor (Meister)",
+		identifiedResourceName = "C_160LV_Warlock_Violet",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Evil Spell^000000",
+			"^0000FFCRIT +5.^000000",
+			"^0000FFCritical damage +20%.^000000",
+			"^0000FF[Triple Laser] damage +30%.^000000",
+			"^0000FFPhysical damage against opponents of all properties +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312801] = {
+		unidentifiedDisplayName = "Good Vigor (Imperial Guard)",
+		unidentifiedResourceName = "C_160LV_Mechanic_Gold",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Good Spell^000000",
+			"^0000FFAttack speed +5%.^000000",
+			"^0000FFMelee physical damage +20%.^000000",
+			"^0000FF[Overslash] damage +30%.^000000",
+			"^0000FFPhysical damage against opponents of all properties +20%.^000000"
+		},
+		identifiedDisplayName = "Good Vigor (Imperial Guard)",
+		identifiedResourceName = "C_160LV_Mechanic_Gold",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Good Spell^000000",
+			"^0000FFAttack speed +5%.^000000",
+			"^0000FFMelee physical damage +20%.^000000",
+			"^0000FF[Overslash] damage +30%.^000000",
+			"^0000FFPhysical damage against opponents of all properties +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312802] = {
+		unidentifiedDisplayName = "Evil Vigor (Imperial Guard)",
+		unidentifiedResourceName = "C_160LV_Warlock_Violet",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Evil Spell^000000",
+			"^0000FFVariable cast time -5%.^000000",
+			"^0000FF[Cross Rain] damage +30%.^000000",
+			"^0000FFHoly property magical damage +20%.^000000",
+			"^0000FFMagical damage against opponents of all properties +20%.^000000"
+		},
+		identifiedDisplayName = "Evil Vigor (Imperial Guard)",
+		identifiedResourceName = "C_160LV_Warlock_Violet",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Evil Spell^000000",
+			"^0000FFVariable cast time -5%.^000000",
+			"^0000FF[Cross Rain] damage +30%.^000000",
+			"^0000FFHoly property magical damage +20%.^000000",
+			"^0000FFMagical damage against opponents of all properties +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312803] = {
+		unidentifiedDisplayName = "Good Vigor (Arch Mage)",
+		unidentifiedResourceName = "C_160LV_Mechanic_Gold",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Good Spell^000000",
+			"^0000FFAfter-skill delay -5%.^000000",
+			"^0000FF[Frozen Slash] damage +20%.^000000",
+			"^0000FF[Crystal Rain] damage +40%.^000000",
+			"^0000FFMagical damage against opponents of all properties +20%.^000000"
+		},
+		identifiedDisplayName = "Good Vigor (Arch Mage)",
+		identifiedResourceName = "C_160LV_Mechanic_Gold",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Good Spell^000000",
+			"^0000FFAfter-skill delay -5%.^000000",
+			"^0000FF[Frozen Slash] damage +20%.^000000",
+			"^0000FF[Crystal Rain] damage +40%.^000000",
+			"^0000FFMagical damage against opponents of all properties +20%.^000000"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
+	[312804] = {
+		unidentifiedDisplayName = "Evil Vigor (Arch Mage)",
+		unidentifiedResourceName = "C_160LV_Warlock_Violet",
+		unidentifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Evil Spell^000000",
+			"^0000FFVariable cast time -5%.^000000",
+			"^0000FF[Mystery Illusion] damage +40%.^000000",
+			"^0000FF[Soul Vulcan Strike] damage +20%.^000000",
+			"^0000FFMagical damage against opponents of all properties +20%.^000000"
+		},
+		identifiedDisplayName = "Evil Vigor (Arch Mage)",
+		identifiedResourceName = "C_160LV_Warlock_Violet",
+		identifiedDescriptionName = {
+			"^FA4E09Set^000000",
+			"^FA4E09Evil Spell^000000",
+			"^0000FFVariable cast time -5%.^000000",
+			"^0000FF[Mystery Illusion] damage +40%.^000000",
+			"^0000FF[Soul Vulcan Strike] damage +20%.^000000",
+			"^0000FFMagical damage against opponents of all properties +20%.^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -347802,6 +349285,27 @@ tbl = {
 		ClassNum = 535,
 		costume = false
 	},
+	[400100] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "[Costume] Leon's Hair",
+		identifiedResourceName = "VIP_Hair_2024",
+		identifiedDescriptionName = {
+			"Wig that features a style similar to that of Leon, a guardian of Issgard.",
+			"--------------------------",
+			"Type: ^777777Costume^000000",
+			"Equip on: ^777777Lower^000000",
+			"Weight: ^7777770^000000",
+			"Required level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2373,
+		costume = true
+	},
 	[400101] = {
 		unidentifiedDisplayName = "",
 		unidentifiedResourceName = "캡",
@@ -347970,7 +349474,7 @@ tbl = {
 		costume = false
 	},
 	[400109] = {
-		unidentifiedDisplayName = "Head Equip.",
+		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "캡",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -352831,6 +354335,25 @@ tbl = {
 		ClassNum = 2132,
 		costume = true
 	},
+	[400325] = {
+		unidentifiedDisplayName = "Equipment Costume",
+		unidentifiedResourceName = "떠돌이늑대왕투구",
+		unidentifiedDescriptionName = {
+			"Item not identified. Can be identified with a [Magnifier]."
+		},
+		identifiedDisplayName = "[Costume]Wondering Wolf Helm",
+		identifiedResourceName = "떠돌이늑대왕투구",
+		identifiedDescriptionName = {
+			"A hat worn by the nobles of the Tonistark family, who came from the north to escape the cold as winter was approaching.",
+			"Type: ^777777Costume^000000",
+			"Equip on: ^777777Upper and Mid^000000",
+			"Weight: ^7777770^000000",
+			"Level required: ^7777771^000000",
+			"Classes: ^777777All ^000000"
+		},
+		slotCount = 0,
+		ClassNum = 490
+	},
 	[400327] = {
 		unidentifiedDisplayName = "Equipment Costume",
 		unidentifiedResourceName = "리본",
@@ -352976,6 +354499,202 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 2314,
 		costume = true
+	},
+	[400375] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Crown of Good and Evil (Imperial Guard)",
+		identifiedResourceName = "GoodnEvil_Circlet",
+		identifiedDescriptionName = {
+			"Crown used by Angels and Demons to spread goodness and evil.",
+			"--------------------------",
+			"Every 3 refines:",
+			"^0000FFPhysical and magical damage against all races +5%.^000000",
+			"Every 4 refines:",
+			"^0000FFMelee physical damage +7%.^000000",
+			"^0000FFHoly property magical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or more:",
+			"^0000FFTENA +50.^000000",
+			"Refine +9 or more:",
+			"^0000FFVariable cast time -5%.^000000",
+			"^0000FFAttack speed +5%.^000000",
+			"Refine +11 or more:",
+			"^0000FFPhysical and magical damage +5%.^000000",
+			"^0000FFFixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"^CC3D3DGrade D or higher:^000000",
+			"^0000FFMax HP +5%.^000000",
+			"^CC3D3DGrade C or higher:^000000",
+			"^0000FFP.ATK and S.MATK +3.^000000",
+			"^CC3D3DGrade B or higher:^000000",
+			"^0000FFPOW and WIS +2.^000000",
+			"^0000FFAdditional P.ATK and S.MATK +2.^000000",
+			"^CC3D3DGrade A or higher:^000000",
+			"^0000FFTENA and MTENA +50.^000000",
+			"Refine +12 or more:",
+			"^0000FFAdditional fixed cast time -0.2 seconds.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Infernal Sword^000000",
+			"Every 3 refines of the weapon:",
+			"^0000FF[Cross Rain] damage +4%.^000000",
+			"^0000FFHoly property magical damage +5%.^000000",
+			"Weapon Grade B or higher:",
+			"^0000FF[Cross Rain] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Celestial Spear^000000",
+			"Every 3 refines of the weapon:",
+			"^0000FF[Overslash] damage +4%.^000000",
+			"^0000FFMelee physical damage +5%.^000000",
+			"Weapon Grade B or higher:",
+			"^0000FF[Overslash] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equipped on: ^777777Upper^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Equip Level: ^7777772^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Imperial Guard and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2332,
+		costume = false
+	},
+	[400376] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Crown of Good and Evil (Arch Mage)",
+		identifiedResourceName = "GoodnEvil_Circlet",
+		identifiedDescriptionName = {
+			"Crown used by Angels and Demons to spread goodness and evil.",
+			"--------------------------",
+			"Every 3 refines:",
+			"^0000FFMagical damage against all races +5%.^000000",
+			"Every 4 refines:",
+			"^0000FFGhost, Shadow and Water property magical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or more:",
+			"^0000FFTENA +50.^000000",
+			"Refine +9 or more:",
+			"^0000FFVariable cast time -10%.^000000",
+			"Refine +11 or more:",
+			"^0000FFMagical damage +5%.^000000",
+			"^0000FFFixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"^CC3D3DGrade D or higher:^000000",
+			"^0000FFMax HP +5%.^000000",
+			"^CC3D3DGrade C or higher:^000000",
+			"^0000FFP.ATK and S.MATK +3.^000000",
+			"^CC3D3DGrade B or higher:^000000",
+			"^0000FFPOW and WIS +2.^000000",
+			"^0000FFP.ATK and S.MATK +2 additional.^000000",
+			"^CC3D3DGrade A or higher:^000000",
+			"^0000FFTENA and MTENA +50.^000000",
+			"Refine +12 or more:",
+			"^0000FFFixed cast time -0.2 seconds additional.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Devil Wing Staff^000000",
+			"Every 3 refines of the weapon:",
+			"^0000FF[Mystery Illusion] damage +5%.^000000",
+			"^0000FF[Soul Vulcan Strike] damage +4%.^000000",
+			"Weapon Grade B or higher:",
+			"^0000FF[Soul Vulcan Strike] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Celestial Staff^000000",
+			"Every 3 refines of the weapon:",
+			"^0000FF[Frozen Slash] damage +4%.^000000",
+			"^0000FF[Crystal Rain] damage +5%.^000000",
+			"Weapon Grade B or higher:",
+			"^0000FF[Frozen Slash] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equipped on: ^777777Upper^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Equip Level: ^7777772^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Arch Mage and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2332,
+		costume = false
+	},
+	[400380] = {
+		unidentifiedDisplayName = "Headgear",
+		unidentifiedResourceName = "헬름",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Crown of Good and Evil (Meister)",
+		identifiedResourceName = "GoodnEvil_Circlet",
+		identifiedDescriptionName = {
+			"Crown used by Angels and Demons to spread goodness and evil.",
+			"--------------------------",
+			"Every 3 refines:",
+			"^0000FFPhysical damage against all races +5%.^000000",
+			"Every 4 refines:",
+			"^0000FFRanged physical damage +7%.^000000",
+			"^0000FFMelee physical damage +7%.^000000",
+			"--------------------------",
+			"Refine +7 or more:",
+			"^0000FFTENA +50.^000000",
+			"Refine +9 or more:",
+			"^0000FFCRIT +5.^000000",
+			"^0000FFAttack speed +5%.^000000",
+			"Refine +11 or more:",
+			"^0000FFPhysical damage +5%.^000000",
+			"^0000FFFixed cast time -0.3 seconds.^000000",
+			"--------------------------",
+			"^CC3D3DGrade D or higher:^000000",
+			"^0000FFMax HP +5%.^000000",
+			"^CC3D3DGrade C or higher:^000000",
+			"^0000FFP.ATK and S.MATK +3.^000000",
+			"^CC3D3DGrade B or higher:^000000",
+			"^0000FFPOW and WIS +2.^000000",
+			"^0000FFAdditional P.ATK and S.MATK +2.^000000",
+			"^CC3D3DGrade A or higher:^000000",
+			"^0000FFTENA and MTENA +50.^000000",
+			"Refine +12 or more:",
+			"^0000FFAdditional fixed cast time -0.2 seconds .^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Infernal Destroyer^000000",
+			"Every 3 refines of the weapon:",
+			"^0000FFCritical damage +10%.^000000",
+			"^0000FF[Triple Laser] damage +4%.^000000",
+			"Weapon Grade B or higher:",
+			"^0000FF[Triple Laser] damage +10%.^000000",
+			"--------------------------",
+			"^FA4E09Set^000000",
+			"^FA4E09Divine Buster^000000",
+			"Every 3 refines of the weapon:",
+			"^0000FF[Mighty Smash] damage +4%.^000000",
+			"^0000FF[Axe Stomp] damage +5%.^000000",
+			"Weapon Grade B or higher:",
+			"^0000FF[Mighty Smash] damage +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Headgear^000000",
+			"Equipped on: ^777777Upper^000000",
+			"DEF: ^77777710^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777710^000000",
+			"Equip Level: ^7777772^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Meister and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 2332,
+		costume = false
 	},
 	[400396] = {
 		unidentifiedDisplayName = "",
@@ -353368,7 +355087,7 @@ tbl = {
 		costume = true
 	},
 	[400511] = {
-		unidentifiedDisplayName = "Head Equip.",
+		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "헬름",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -354220,6 +355939,27 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 2720,
+		costume = true
+	},
+	[400965] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "캡",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "[Costume] Friederike's Veil",
+		identifiedResourceName = "C_Divine_Veil",
+		identifiedDescriptionName = {
+			"A sacred veil, very similar to the one worn by Saint Friederike. Wearing it seems to purify the soul.",
+			"--------------------------",
+			"Type: ^777777Costume^000000",
+			"Equip on: ^777777Top^000000",
+			"Weight: ^7777770^000000",
+			"Required level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2729,
 		costume = true
 	},
 	[401147] = {
@@ -357967,7 +359707,7 @@ tbl = {
 		costume = false
 	},
 	[420005] = {
-		unidentifiedDisplayName = "Head Equip.",
+		unidentifiedDisplayName = "Headgear",
 		unidentifiedResourceName = "리본",
 		unidentifiedDescriptionName = {
 			"Unknown item. Can be identified with a [Magnifying Glass]."
@@ -359328,6 +361068,27 @@ tbl = {
 		identifiedDescriptionName = {""},
 		slotCount = 0,
 		ClassNum = 2346,
+		costume = true
+	},
+	[420204] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "햇",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "[Costume] Juncea's Hair",
+		identifiedResourceName = "VIP_Hair_2023",
+		identifiedDescriptionName = {
+			"Wig that features a special two-tone look. Very reminiscent of Juncea's style.",
+			"--------------------------",
+			"Type: ^777777Costume^000000",
+			"Equip on: ^777777Lower^000000",
+			"Weight: ^7777770^000000",
+			"Required level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2361,
 		costume = true
 	},
 	[420207] = {
@@ -360817,6 +362578,27 @@ tbl = {
 		slotCount = 0,
 		ClassNum = 2732,
 		costume = false
+	},
+	[420703] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "리본",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "[Costume] Aurelie's Hair",
+		identifiedResourceName = "C_Aurelie_Hair",
+		identifiedDescriptionName = {
+			"Wig with a hairstyle very similar to Aurelie's, a guardian of Issgard.",
+			"--------------------------",
+			"Type: ^777777Costume^000000",
+			"Equip on: ^777777Lower^000000",
+			"Weight: ^7777770^000000",
+			"Required level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 2789,
+		costume = true
 	},
 	[420729] = {
 		unidentifiedDisplayName = "Costume",
@@ -370749,6 +372531,140 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[470221] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Boots of Good and Evil (Meister)",
+		identifiedResourceName = "FateSin_Boots_MT",
+		identifiedDescriptionName = {
+			"Boots used in the battle of Angels against Demons.",
+			"--------------------------",
+			"^0000FFMax HP +500.^000000",
+			"^0000FFMax SP +100.^000000",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000FFMax HP and SP +1%.^000000",
+			"--------------------------",
+			"Refine +7 or more:",
+			"^0000FFPhysical damage +7%.^000000",
+			"Refine +9 or more:",
+			"^0000FFRanged physical damage +10%.^000000",
+			"^0000FFMelee physical damage +10%.^000000",
+			"Refine +11 or more:",
+			"^0000FFFixed cast time -0.5 seconds.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFTENA and MTENA +50.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFP.ATK and S.MATK +7.^000000",
+			"Grade A or higher:",
+			"^0000FFAdditional fixed cast time -0.5 seconds .^000000",
+			"--------------------------",
+			"Type: ^777777Shoes^000000",
+			"DEF: ^77777720^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777760^000000",
+			"Equip Level: ^7777772^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777Meister and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470236] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Boots of Good and Evil (Imperial Guard)",
+		identifiedResourceName = "FateSin_Boots_IG",
+		identifiedDescriptionName = {
+			"Boots used in the battle of Angels against Demons.",
+			"--------------------------",
+			"^0000FFMax HP +500.^000000",
+			"^0000FFMax SP +100.^000000",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000FFMax HP and SP +1%.^000000",
+			"--------------------------",
+			"Refine +7 or more:",
+			"^0000FFPhysical and magical damage +7%.^000000",
+			"Refine +9 or more:",
+			"^0000FFMelee physical damage +10%.^000000",
+			"^0000FFHoly property magical damage +10%.^000000",
+			"Refine +11 or more:",
+			"^0000FFFixed cast time -0.5 seconds.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFTENA and MTENA +50.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical and magical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFP.ATK and S.MATK +7.^000000",
+			"Grade A or higher:",
+			"^0000FFFixed cast time -0.5 seconds additional.^000000",
+			"--------------------------",
+			"Type: ^777777Shoes^000000",
+			"DEF: ^77777720^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777760^000000",
+			"Equip Level: ^7777772^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777Imperial Guard and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
+	[470237] = {
+		unidentifiedDisplayName = "Footwear",
+		unidentifiedResourceName = "슈즈",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Boots of Good and Evil (Arch Mage)",
+		identifiedResourceName = "FateSin_Boots_AG",
+		identifiedDescriptionName = {
+			"Boots used in the battle of Angels against Demons.",
+			"--------------------------",
+			"^0000FFMax HP +500.^000000",
+			"^0000FFMax SP +100.^000000",
+			"--------------------------",
+			"Every 2 refines:",
+			"^0000FFMax HP and SP +1%.^000000",
+			"--------------------------",
+			"Refine +7 or more:",
+			"^0000FFMagical damage +7%.^000000",
+			"Refine +9 or more:",
+			"^0000FFGhost, Shadow and Water property magical damage +10%.^000000",
+			"Refine +11 or more:",
+			"^0000FFFixed cast time -0.5 seconds.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFTENA and MTENA +50.^000000",
+			"Grade C or higher:",
+			"^0000FFMagical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFP.ATK and S.MATK +7.^000000",
+			"Grade A or higher:",
+			"^0000FFAdditional fixed cast time -0.5 seconds.^000000",
+			"--------------------------",
+			"Type: ^777777Shoes^000000",
+			"DEF: ^77777720^000000 MDEF: ^7777770^000000",
+			"Weight: ^77777760^000000",
+			"Equip Level: ^7777772^000000",
+			"Required Level: ^777777210^000000",
+			"Classes: ^777777Arch Mage and evolutions^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[470346] = {
 		unidentifiedDisplayName = "Shoes",
 		unidentifiedResourceName = "슈즈",
@@ -375315,6 +377231,29 @@ tbl = {
 		},
 		slotCount = 0,
 		ClassNum = 235,
+		costume = true
+	},
+	[480488] = {
+		unidentifiedDisplayName = "Costume",
+		unidentifiedResourceName = "후드",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "[Costume] Juncea's Wings",
+		identifiedResourceName = "C_Juncea_Wing",
+		identifiedDescriptionName = {
+			"Wings composed of many long, sharp structures, similar to bones. They appear to have been used in a Simulation Battle.",
+			"--------------------------",
+			"^008080Displays the look on the character's back.^000000",
+			"--------------------------",
+			"Type: ^777777Costume^000000",
+			"Equip on: ^777777Garment^000000",
+			"Weight: ^7777770^000000",
+			"Required level: ^7777771^000000",
+			"Classes: ^777777All^000000"
+		},
+		slotCount = 0,
+		ClassNum = 241,
 		costume = true
 	},
 	[480493] = {
@@ -382101,7 +384040,7 @@ tbl = {
 			"^0000FFAdditional [Hyunrok Breeze] damage +10%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Vivatus Fides Cross Shuriken^000000",
+			"^FA4E09Vivatus Fides Huuma Shuriken^000000",
 			"^0000FF3% chance to convert 7% of physical damage dealt into HP.^000000",
 			"Weapon refined to +10 or higher:",
 			"^0000FFWhen using [Swirling Petal], 50% chance to autocast [Huuma Shuriken - Grasp] Lv.8.^000000",
@@ -382111,7 +384050,7 @@ tbl = {
 			"^0000FFAdditional [Huuma Shuriken - Grasp] damage +10%.^000000",
 			"--------------------------",
 			"^FA4E09Set^000000",
-			"^FA4E09Vivatus Fides Huuma Shuriken^000000",
+			"^FA4E09Vivatus Fides Cross Shuriken^000000",
 			"^0000FFPhysical damage +10%.^000000",
 			"Weapon refined to +10 or higher:",
 			"^0000FFWhen using [Infiltrate], 50% chance to autocast [Kunai - Rotation] Lv.4.^000000",
@@ -383658,6 +385597,53 @@ tbl = {
 			"Weapon Level: ^7777775^000000",
 			"Required Level: ^777777215^000000",
 			"Classes: ^777777Super Novices and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 42,
+		costume = false
+	},
+	[500065] = {
+		unidentifiedDisplayName = "Sword",
+		unidentifiedResourceName = "바스타드소드",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Blood Rapier",
+		identifiedResourceName = "Sins_Rapier",
+		identifiedDescriptionName = {
+			"Weapon created by a fallen angel. It seems to induce the user to commit a sin.",
+			"--------------------------",
+			"^0000FFPOW +2.^000000",
+			"^0000FFPhysical damage +5%.^000000",
+			"^0000FF[Mayhemic Thorns] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or more:",
+			"^0000FFAdditional [Mayhemic Thorns] damage +10%.^000000",
+			"Refine +7 or more:",
+			"^0000FFRanged physical damage +5%.^000000",
+			"Refine +9 or more:",
+			"^0000FFAdditional [Mayhemic Thorns] damage +10%.^000000",
+			"Refine +10 or more:",
+			"^0000FFCRIT +10.^000000",
+			"Refine +11 or more:",
+			"^0000FFCritical damage +20%.^000000",
+			"^0000FFAdditional [Mayhemic Thorns] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFAdditional ranged physical damage +10%.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFPhysical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFPhysical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Sword^000000",
+			"ATK: ^777777210^000000 MATK: ^7777770^000000",
+			"Weight: ^777777150^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Biolo and evolutions^000000"
 		},
 		slotCount = 2,
 		ClassNum = 42,
@@ -385354,6 +387340,53 @@ tbl = {
 			"Weapon Level: ^7777775^000000",
 			"Required Level: ^777777215^000000",
 			"Classes: ^777777Windhawk and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 31,
+		costume = false
+	},
+	[510092] = {
+		unidentifiedDisplayName = "Dagger",
+		unidentifiedResourceName = "나이프",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Holy Light Dagger",
+		identifiedResourceName = "Fate_Dagger",
+		identifiedDescriptionName = {
+			"Weapon created by an angel of light. It seems to induce the user to do a good deed.",
+			"--------------------------",
+			"^0000FFPOW +2.^000000",
+			"^0000FFPhysical damage +5%.^000000",
+			"^0000FF[Abyss Dagger] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or more:",
+			"^0000FFAdditional [Abyss Dagger] damage +10%.^000000",
+			"Refine +7 or more:",
+			"^0000FFMelee physical damage +5%.^000000",
+			"Refine +9 or more:",
+			"^0000FFAdditional [Abyss Dagger] damage +10%.^000000",
+			"Refine +10 or more:",
+			"^0000FFAttack speed +10%.^000000",
+			"Refine +11 or more:",
+			"^0000FF[Deft Stab] damage +15%.^000000",
+			"^0000FFAdditional [Abyss Dagger] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFAdditional melee physical damage +10%.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFPhysical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFPhysical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Dagger^000000",
+			"ATK: ^777777205^000000 MATK: ^7777770^000000",
+			"Weight: ^77777780^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Abyss Chaser and evolutions^000000"
 		},
 		slotCount = 2,
 		ClassNum = 31,
@@ -390402,6 +392435,54 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 102,
 		EffectID = 1869,
+		costume = false
+	},
+	[550093] = {
+		unidentifiedDisplayName = "Staff",
+		unidentifiedResourceName = "롯드",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Soul Harvest",
+		identifiedResourceName = "Sins_Wand",
+		identifiedDescriptionName = {
+			"Weapon created by a fallen angel. It seems to induce the user to commit a sin.",
+			"--------------------------",
+			"^0000FFSPL +2.^000000",
+			"^0000FFMagical damage +5%.^000000",
+			"^0000FF[Exorcism of Malicious Soul] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or more:",
+			"^0000FFAdditional [Exorcism of Malicious Soul] damage +10%.^000000",
+			"Refine +7 or more:",
+			"^0000FFMagical damage of all properties +5%.^000000",
+			"Refine +9 or more:",
+			"^0000FFAdditional [Exorcism of Malicious Soul] damage +10%.^000000",
+			"Refine +10 or more:",
+			"^0000FFVariable cast time -10%.^000000",
+			"Refine +11 or more:",
+			"^0000FF[Talisman of Soul Stealing] damage +15%.^000000",
+			"^0000FFAdditional [Exorcism of Malicious Soul] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFMagical damage of all properties +10% additional.^000000",
+			"Grade C or higher:",
+			"^0000FFMagical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFMagical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFMagical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Staff^000000",
+			"ATK: ^777777100^000000 MATK: ^777777220^000000",
+			"Note: ^777777Indestructible in battle^000000",
+			"Weight: ^77777790^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Soul Ascetic and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 69,
 		costume = false
 	},
 	[550115] = {
@@ -396762,6 +398843,54 @@ tbl = {
 		slotCount = 1,
 		ClassNum = 7,
 		EffectID = 1869,
+		costume = false
+	},
+	[620022] = {
+		unidentifiedDisplayName = "Axe",
+		unidentifiedResourceName = "액스",
+		unidentifiedDescriptionName = {
+			"Unknown item. To identify it, use a [Magnifier]."
+		},
+		identifiedDisplayName = "Divine Buster",
+		identifiedResourceName = "Fate_Hammer",
+		identifiedDescriptionName = {
+			"Weapon created by a fallen angel. It seems to induce the user to do a good deed.",
+			"--------------------------",
+			"^0000FFSTR +2.^000000",
+			"^0000FFPhysical damage +5%.^000000",
+			"^0000FF[Mighty Smash] damage +5%.^000000",
+			"--------------------------",
+			"Refine +5 or more:",
+			"^0000FFAdditional [Mighty Smash] damage +10%.^000000",
+			"Refine +7 or more:",
+			"^0000FFMelee physical damage +5%.^000000",
+			"Refine +9 or more:",
+			"^0000FFAdditional [Mighty Smash] damage +10%.^000000",
+			"Refine +10 or more:",
+			"^0000FFAttack Speed +10%.^000000",
+			"Refine +11 or more:",
+			"^0000FF[Axe Stomp] damage +15%.^000000",
+			"^0000FFAdditional [Mighty Smash] damage +5%.^000000",
+			"--------------------------",
+			"Grade D or higher:",
+			"^0000FFAdditional melee physical damage +10%.^000000",
+			"Grade C or higher:",
+			"^0000FFPhysical damage against all sizes +10%.^000000",
+			"Grade B or higher:",
+			"^0000FFPhysical damage against all races +10%.^000000",
+			"Grade A or higher:",
+			"^0000FFPhysical damage against all properties +10%.^000000",
+			"--------------------------",
+			"Type: ^777777Axe^000000",
+			"ATK: ^777777330^000000 MATK: ^7777770^000000",
+			"Note: ^777777Indestructible in battle^000000",
+			"Weight: ^777777660^000000",
+			"Weapon Level: ^7777775^000000",
+			"Required Level: ^777777215^000000",
+			"Classes: ^777777Meister and evolutions^000000"
+		},
+		slotCount = 2,
+		ClassNum = 7,
 		costume = false
 	},
 	[620046] = {
@@ -410536,27 +412665,25 @@ tbl = {
 		unidentifiedDisplayName = "Amethyst Fragment",
 		unidentifiedResourceName = "Ep18_Amethyst_Fragment",
 		unidentifiedDescriptionName = {
-			"Amethyst fragment often found near Oz Canyon and the Grey Wolf Forest.",
-			"Locals often use it to make accessories and the like, or give it as a gift in appreciation.",
-			"It seems there are collectors who gather amethyst fragments.",
-			"--------------------------",
+			"Amethyst fragments are often found near Oz Canyon and the Gray Wolf Forest.",
+			"Locals often use them to make accessories and other items, or give them as gifts to express their gratitude.",
+			"It seems there is a collector who gathers Amethyst Fragments.",
+			"Where to Obtain:",
 			"<TIPBOX>[Episode 18]<INFO>4216</INFO></TIPBOX>",
-			"--------------------------",
-			"<NAVI>[Rewards]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>",
-			"--------------------------",
+			"Reward Exchange:",
+			"<NAVI>[Emmet]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Amethyst Fragment",
 		identifiedResourceName = "Ep18_Amethyst_Fragment",
 		identifiedDescriptionName = {
-			"Amethyst fragment often found near Oz Canyon and the Gray Wolf Forest.",
-			"Natives often use it to make accessories and similar items, or give it as a gift in a sign of gratitude.",
-			"It seems there are people interested in it.",
-			"--------------------------",
+			"Amethyst fragments are often found near Oz Canyon and the Gray Wolf Forest.",
+			"Locals often use them to make accessories and other items, or give them as gifts to express their gratitude.",
+			"It seems there is a collector who gathers Amethyst Fragments.",
+			"Where to Obtain:",
 			"<TIPBOX>[Episode 18]<INFO>4216</INFO></TIPBOX>",
-			"--------------------------",
-			"<NAVI>[Rewards]<INFO>wolfvill,164,137,0,101,0</NAVI></INFO>",
-			"--------------------------",
+			"Reward Exchange:",
+			"<NAVI>[Emmet]<INFO>wolfvill,164,137,0,101,0</INFO></NAVI>",
 			"Weight: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -412944,7 +415071,7 @@ tbl = {
 		costume = false
 	},
 	[1000604] = {
-		unidentifiedDisplayName = "Juncea's Test Tube",
+		unidentifiedDisplayName = "Juncea Test Tube",
 		unidentifiedResourceName = "빈시험관",
 		unidentifiedDescriptionName = {
 			"A test tube that was in Juncea's laboratory.",
@@ -412952,7 +415079,7 @@ tbl = {
 			"-------------------------",
 			"Weight: ^7777770^000000"
 		},
-		identifiedDisplayName = "Juncea's Test Tube",
+		identifiedDisplayName = "Juncea Test Tube",
 		identifiedResourceName = "빈시험관",
 		identifiedDescriptionName = {
 			"A test tube that was in Juncea's laboratory.",
@@ -412987,7 +415114,6 @@ tbl = {
 		unidentifiedDisplayName = "Superior Rgan Eggshell",
 		unidentifiedResourceName = "작은알껍질",
 		unidentifiedDescriptionName = {
-			"Superior Rgan Eggshell.",
 			"It is broken in a different pattern from one that hatched naturally.",
 			"-------------------------",
 			"Weight: ^7777770^000000"
@@ -412995,7 +415121,6 @@ tbl = {
 		identifiedDisplayName = "Superior Rgan Eggshell",
 		identifiedResourceName = "작은알껍질",
 		identifiedDescriptionName = {
-			"Superior Rgan Eggshell.",
 			"It is broken in a different pattern from one that hatched naturally.",
 			"-------------------------",
 			"Weight: ^7777770^000000"
@@ -413005,7 +415130,7 @@ tbl = {
 		costume = false
 	},
 	[1000607] = {
-		unidentifiedDisplayName = "Guardian's Invitation",
+		unidentifiedDisplayName = "Guardian Invitation",
 		unidentifiedResourceName = "안부편지",
 		unidentifiedDescriptionName = {
 			"An invitation sent from the icy land of Issgard.",
@@ -413013,7 +415138,7 @@ tbl = {
 			"-------------------------",
 			"Weight: ^7777770^000000"
 		},
-		identifiedDisplayName = "Guardian's Invitation",
+		identifiedDisplayName = "Guardian Invitation",
 		identifiedResourceName = "안부편지",
 		identifiedDescriptionName = {
 			"An invitation sent from the icy land of Issgard.",
@@ -414518,7 +416643,9 @@ tbl = {
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Pendant (4th Slot)",
-			"Snow Flower Necklace (4th Slot)"
+			"Snow Flower Necklace (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (STR)",
 		identifiedResourceName = "Ice_F_Stone_Str",
@@ -414569,7 +416696,9 @@ tbl = {
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Pendant (4th Slot)",
-			"Snow Flower Necklace (4th Slot)"
+			"Snow Flower Necklace (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (DEX)",
 		identifiedResourceName = "Ice_F_Stone_Dex",
@@ -414614,13 +416743,15 @@ tbl = {
 			"^0000FFAdditionally increases AGI by 1.^000000",
 			"At Refine Level 11:",
 			"^0000FFWIS + 1^000000",
-			"^0000FFIncreases guided attack chance by 3%.^000000",
+			"^0000FFIncreases perfect hit 3%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Ring (4th Slot)",
-			"Snow Flower Earring (4th Slot)"
+			"Snow Flower Earring (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (AGI)",
 		identifiedResourceName = "Ice_F_Stone_Agi",
@@ -414636,7 +416767,7 @@ tbl = {
 			"^0000FFAdditionally increases AGI by 1.^000000",
 			"At Refine Level 11:",
 			"^0000FFWIS + 1^000000",
-			"^0000FFIncreases guided attack chance by 3%.^000000",
+			"^0000FFIncreases perfect hit 3%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (4th Slot)",
@@ -414671,7 +416802,9 @@ tbl = {
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Pendant (4th Slot)",
-			"Snow Flower Necklace (4th Slot)"
+			"Snow Flower Necklace (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (INT)",
 		identifiedResourceName = "Ice_F_Stone_Int",
@@ -414716,13 +416849,15 @@ tbl = {
 			"^0000FFAdditionally increases VIT by 1.^000000",
 			"At Refine Level 11:",
 			"^0000FFSTA + 1^000000",
-			"^0000FFReduces skill delay by 3%.^000000",
+			"^0000FFReduces after-skill delay by 3%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Ring (4th Slot)",
-			"Snow Flower Earring (4th Slot)"
+			"Snow Flower Earring (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (VIT)",
 		identifiedResourceName = "Ice_F_Stone_Vit",
@@ -414738,7 +416873,7 @@ tbl = {
 			"^0000FFAdditionally increases VIT by 1.^000000",
 			"At Refine Level 11:",
 			"^0000FFSTA + 1^000000",
-			"^0000FFReduces skill delay by 3%.^000000",
+			"^0000FFReduces after-skill delay by 3%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (4th Slot)",
@@ -414773,7 +416908,9 @@ tbl = {
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Ring (4th Slot)",
-			"Snow Flower Earring (4th Slot)"
+			"Snow Flower Earring (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (LUK)",
 		identifiedResourceName = "Ice_F_Stone_luk",
@@ -414811,16 +416948,16 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFDEF + 250. RES + 50.^000000",
+			"^0000FFDEF + 250. TENA + 50.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases DEF by 75.^000000",
-			"^0000FFAdditionally increases RES by 10.^000000",
+			"^0000FFAdditionally increases TENA by 10.^000000",
 			"At Refine Level 9:",
 			"^0000FFAdditionally increases DEF by 100.^000000",
-			"^0000FFAdditionally increases RES by 10.^000000",
+			"^0000FFAdditionally increases TENA by 10.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases DEF by 100.^000000",
-			"^0000FFAdditionally increases RES by 10.^000000",
+			"^0000FFAdditionally increases TENA by 10.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (4th Slot)",
@@ -414828,7 +416965,9 @@ tbl = {
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Boots (4th Slot)",
-			"Snow Flower Shoes (4th Slot)"
+			"Snow Flower Shoes (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Physical Defense)",
 		identifiedResourceName = "Ice_F_Stone_Def",
@@ -414837,16 +416976,16 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFDEF + 250. RES + 50.^000000",
+			"^0000FFDEF + 250. TENA + 50.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases DEF by 75.^000000",
-			"^0000FFAdditionally increases RES by 10.^000000",
+			"^0000FFAdditionally increases TENA by 10.^000000",
 			"At Refine Level 9:",
 			"^0000FFAdditionally increases DEF by 100.^000000",
-			"^0000FFAdditionally increases RES by 10.^000000",
+			"^0000FFAdditionally increases TENA by 10.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases DEF by 100.^000000",
-			"^0000FFAdditionally increases RES by 10.^000000",
+			"^0000FFAdditionally increases TENA by 10.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (4th Slot)",
@@ -414870,16 +417009,16 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMDEF + 25. MRES + 25.^000000",
+			"^0000FFMDEF + 25. MTENA + 25.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases MDEF by 7.^000000",
-			"^0000FFAdditionally increases MRES by 5.^000000",
+			"^0000FFAdditionally increases MTENA by 5.^000000",
 			"At Refine Level 9:",
 			"^0000FFAdditionally increases MDEF by 10.^000000",
-			"^0000FFAdditionally increases MRES by 5.^000000",
+			"^0000FFAdditionally increases MTENA by 5.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases MDEF by 10.^000000",
-			"^0000FFAdditionally increases MRES by 5.^000000",
+			"^0000FFAdditionally increases MTENA by 5.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (4th Slot)",
@@ -414887,7 +417026,9 @@ tbl = {
 			"Snow Flower Manteau (4th Slot)",
 			"Snow Flower Muffler (4th Slot)",
 			"Snow Flower Boots (4th Slot)",
-			"Snow Flower Shoes (4th Slot)"
+			"Snow Flower Shoes (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Magical Defense)",
 		identifiedResourceName = "Ice_F_Stone_Mdef",
@@ -414896,16 +417037,16 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMDEF + 25. MRES + 25.^000000",
+			"^0000FFMDEF + 25. MTENA + 25.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases MDEF by 7.^000000",
-			"^0000FFAdditionally increases MRES by 5.^000000",
+			"^0000FFAdditionally increases MTENA by 5.^000000",
 			"At Refine Level 9:",
 			"^0000FFAdditionally increases MDEF by 10.^000000",
-			"^0000FFAdditionally increases MRES by 5.^000000",
+			"^0000FFAdditionally increases MTENA by 5.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases MDEF by 10.^000000",
-			"^0000FFAdditionally increases MRES by 5.^000000",
+			"^0000FFAdditionally increases MTENA by 5.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (4th Slot)",
@@ -414930,7 +417071,7 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFATK + 100.^000000",
-			"^0000FFATK + 6%.^000000",
+			"^0000FFPhysical damage + 6%.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases ranged physical damage by 5%.^000000",
 			"At Refine Level 9:",
@@ -414940,7 +417081,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
-			"Snow Flower Robe (3rd Slot)"
+			"Snow Flower Robe (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Shooter)",
 		identifiedResourceName = "Ice_F_Stone_Ran",
@@ -414950,7 +417093,7 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFATK + 100.^000000",
-			"^0000FFATK + 6%.^000000",
+			"^0000FFPhysical damage + 6%.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases ranged physical damage by 5%.^000000",
 			"At Refine Level 9:",
@@ -414977,7 +417120,7 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFATK + 100.^000000",
-			"^0000FFATK + 6%.^000000",
+			"^0000FFPhysical damage + 6%.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases melee physical damage by 5%.^000000",
 			"At Refine Level 9:",
@@ -414987,7 +417130,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
-			"Snow Flower Robe (3rd Slot)"
+			"Snow Flower Robe (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Warrior)",
 		identifiedResourceName = "Ice_F_Stone_War",
@@ -414997,7 +417142,7 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFATK + 100.^000000",
-			"^0000FFATK + 6%.^000000",
+			"^0000FFPhysical damage + 6%.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases melee physical damage by 5%.^000000",
 			"At Refine Level 9:",
@@ -415024,7 +417169,7 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFMATK + 100.^000000",
-			"^0000FFMATK + 6%.^000000",
+			"^0000FFMagical damage + 6%.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases magical damage of all properties by 5%.^000000",
 			"At Refine Level 9:",
@@ -415034,7 +417179,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
-			"Snow Flower Robe (3rd Slot)"
+			"Snow Flower Robe (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Magician)",
 		identifiedResourceName = "Ice_F_Stone_Mag",
@@ -415044,7 +417191,7 @@ tbl = {
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFMATK + 100.^000000",
-			"^0000FFMATK + 6%.^000000",
+			"^0000FFMagical damage + 6%.^000000",
 			"At Refine Level 7:",
 			"^0000FFAdditionally increases magical damage of all properties by 5%.^000000",
 			"At Refine Level 9:",
@@ -415080,7 +417227,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
-			"Snow Flower Robe (3rd Slot)"
+			"Snow Flower Robe (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Reflection Reject)",
 		identifiedResourceName = "Ice_F_Stone_R_Reject",
@@ -415115,18 +417264,20 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFATK + 2%.^000000",
-			"^0000FFMATK + 2%.^000000",
+			"^0000FFPhysical damage + 2%.^000000",
+			"^0000FFMagical damage + 2%.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases ATK and MATK by 2%.^000000",
+			"^0000FFAdditionally increases Physical and Magical damage by 2%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases ATK and MATK by 2%.^000000",
+			"^0000FFAdditionally increases Physical and Magical damage by 2%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases ATK and MATK by 4%.^000000",
+			"^0000FFAdditionally increases Physical and Magical damage by 4%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
-			"Snow Flower Robe (3rd Slot)"
+			"Snow Flower Robe (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Power Force)",
 		identifiedResourceName = "Ice_F_Stone_Force",
@@ -415135,14 +417286,14 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFATK + 2%.^000000",
-			"^0000FFMATK + 2%.^000000",
+			"^0000FFPhysical damage + 2%.^000000",
+			"^0000FFMagical damage + 2%.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases ATK and MATK by 2%.^000000",
+			"^0000FFAdditionally increases Physical and Magical damage by 2%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases ATK and MATK by 2%.^000000",
+			"^0000FFAdditionally increases Physical and Magical damage by 2%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases ATK and MATK by 4%.^000000",
+			"^0000FFAdditionally increases Physical and Magical damage by 4%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
@@ -415162,17 +417313,19 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFReduces skill delay by 4%.^000000",
+			"^0000FFReduces after-skill delay by 4%.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally reduces skill delay by 4%.^000000",
+			"^0000FFAdditionally reduces after-skill delay by 4%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally reduces skill delay by 4%.^000000",
+			"^0000FFAdditionally reduces after-skill delay by 4%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally reduces skill delay by 4%.^000000",
+			"^0000FFAdditionally reduces after-skill delay by 4%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
-			"Snow Flower Robe (3rd Slot)"
+			"Snow Flower Robe (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Global Cooldown)",
 		identifiedResourceName = "Ice_F_Stone_S_Delay",
@@ -415181,13 +417334,13 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFReduces skill delay by 4%.^000000",
+			"^0000FFReduces after-skill delay by 4%.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally reduces skill delay by 4%.^000000",
+			"^0000FFAdditionally reduces after-skill delay by 4%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally reduces skill delay by 4%.^000000",
+			"^0000FFAdditionally reduces after-skill delay by 4%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally reduces skill delay by 4%.^000000",
+			"^0000FFAdditionally reduces after-skill delay by 4%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (3rd Slot)",
@@ -415217,7 +417370,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (3rd Slot)",
-			"Snow Flower Muffler (3rd Slot)"
+			"Snow Flower Muffler (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Speed)",
 		identifiedResourceName = "Ice_F_Stone_Speed",
@@ -415263,7 +417418,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (3rd Slot)",
-			"Snow Flower Muffler (3rd Slot)"
+			"Snow Flower Muffler (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Caster)",
 		identifiedResourceName = "Ice_F_Stone_Caster",
@@ -415299,7 +417456,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFCRI + 15.^000000",
+			"^0000FFCRIT + 15.^000000",
 			"At Refine Level 7:",
 			"^0000FFIncreases critical damage by 8%.^000000",
 			"At Refine Level 9:",
@@ -415309,7 +417466,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (3rd Slot)",
-			"Snow Flower Muffler (3rd Slot)"
+			"Snow Flower Muffler (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Critical)",
 		identifiedResourceName = "Ice_F_Stone_Critical",
@@ -415318,7 +417477,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFCRI + 15.^000000",
+			"^0000FFCRIT + 15.^000000",
 			"At Refine Level 7:",
 			"^0000FFIncreases critical damage by 8%.^000000",
 			"At Refine Level 9:",
@@ -415346,15 +417505,17 @@ tbl = {
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFHIT + 30.^000000",
 			"At Refine Level 7:",
-			"^0000FFIncreases guided attack chance by 8%.^000000",
+			"^0000FFIncreases Perfect hit by 8%.^000000",
 			"At Refine Level 9:",
-			"^0000FFIncreases guided attack chance by 8%.^000000",
+			"^0000FFIncreases Perfect hit by 8%.^000000",
 			"At Refine Level 11:",
-			"^0000FFIncreases guided attack chance by 8%.^000000",
+			"^0000FFIncreases Perfect hit by 8%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (3rd Slot)",
-			"Snow Flower Muffler (3rd Slot)"
+			"Snow Flower Muffler (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Guide Attack)",
 		identifiedResourceName = "Ice_F_Stone_Guide",
@@ -415365,11 +417526,11 @@ tbl = {
 			"[^CD3278Enchant Effect^000000]",
 			"^0000FFHIT + 30.^000000",
 			"At Refine Level 7:",
-			"^0000FFIncreases guided attack chance by 8%.^000000",
+			"^0000FFIncreases Perfect hit by 8%.^000000",
 			"At Refine Level 9:",
-			"^0000FFIncreases guided attack chance by 8%.^000000",
+			"^0000FFIncreases Perfect hit by 8%.^000000",
 			"At Refine Level 11:",
-			"^0000FFIncreases guided attack chance by 8%.^000000",
+			"^0000FFIncreases Perfect hit by 8%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (3rd Slot)",
@@ -415399,7 +417560,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (2nd Slot)",
-			"Snow Flower Muffler (2nd Slot)"
+			"Snow Flower Muffler (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Above All)",
 		identifiedResourceName = "Ice_F_Stone_Above",
@@ -415448,7 +417611,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (2nd Slot)",
-			"Snow Flower Muffler (2nd Slot)"
+			"Snow Flower Muffler (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Powerful)",
 		identifiedResourceName = "Ice_F_Stone_P_Full",
@@ -415497,7 +417662,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Manteau (2nd Slot)",
-			"Snow Flower Muffler (2nd Slot)"
+			"Snow Flower Muffler (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Mirror Counter)",
 		identifiedResourceName = "Ice_F_Stone_M_Counter",
@@ -415532,18 +417699,20 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMHP + 5%.^000000",
-			"^0000FFMHP + 2500.^000000",
+			"^0000FFMax HP + 5%.^000000",
+			"^0000FFMax HP + 2500.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases MHP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP by 5%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases MHP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP by 5%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases MHP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP by 5%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (4th Slot)",
-			"Snow Flower Shoes (4th Slot)"
+			"Snow Flower Shoes (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Vital)",
 		identifiedResourceName = "Ice_F_Stone_Hp",
@@ -415552,14 +417721,14 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMHP + 5%.^000000",
-			"^0000FFMHP + 2500.^000000",
+			"^0000FFMax HP + 5%.^000000",
+			"^0000FFMax HP + 2500.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases MHP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP by 5%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases MHP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP by 5%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases MHP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP by 5%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (4th Slot)",
@@ -415579,18 +417748,20 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMSP + 5%.^000000",
-			"^0000FFMSP + 450.^000000",
+			"^0000FFMax SP + 5%.^000000",
+			"^0000FFMax SP + 450.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max SP by 5%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max SP by 5%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max SP by 5%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (4th Slot)",
-			"Snow Flower Shoes (4th Slot)"
+			"Snow Flower Shoes (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Mental)",
 		identifiedResourceName = "Ice_F_Stone_Sp",
@@ -415599,14 +417770,14 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMSP + 5%.^000000",
-			"^0000FFMSP + 450.^000000",
+			"^0000FFMax SP + 5%.^000000",
+			"^0000FFMax SP + 450.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max SP by 5%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max SP by 5%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max SP by 5%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (4th Slot)",
@@ -415636,7 +417807,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (4th Slot)",
-			"Snow Flower Shoes (4th Slot)"
+			"Snow Flower Shoes (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Heal)",
 		identifiedResourceName = "Ice_F_Stone_Heal",
@@ -415671,20 +417844,22 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMHP + 5%.^000000",
-			"^0000FFMSP + 5%.^000000",
-			"^0000FFMHP + 2000.^000000",
-			"^0000FFMSP + 350.^000000",
+			"^0000FFMax HP + 5%.^000000",
+			"^0000FFMax SP + 5%.^000000",
+			"^0000FFMax HP + 2000.^000000",
+			"^0000FFMax SP + 350.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases MHP and MSP by 3%.^000000",
+			"^0000FFAdditionally increases Max HP and Max SP by 3%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases MHP and MSP by 4%.^000000",
+			"^0000FFAdditionally increases Max HP and Max SP by 4%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases MHP and MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP and Max SP by 5%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (4th Slot)",
-			"Snow Flower Shoes (4th Slot)"
+			"Snow Flower Shoes (4th Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Robust)",
 		identifiedResourceName = "Ice_F_Stone_Robust",
@@ -415693,16 +417868,16 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFMHP + 5%.^000000",
-			"^0000FFMSP + 5%.^000000",
-			"^0000FFMHP + 2000.^000000",
-			"^0000FFMSP + 350.^000000",
+			"^0000FFMax HP + 5%.^000000",
+			"^0000FFMax SP + 5%.^000000",
+			"^0000FFMax HP + 2000.^000000",
+			"^0000FFMax SP + 350.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases MHP and MSP by 3%.^000000",
+			"^0000FFAdditionally increases Max HP and Max SP by 3%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases MHP and MSP by 4%.^000000",
+			"^0000FFAdditionally increases Max HP and Max SP by 4%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases MHP and MSP by 5%.^000000",
+			"^0000FFAdditionally increases Max HP and Max SP by 5%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (4th Slot)",
@@ -415726,7 +417901,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (3rd Slot)",
-			"Snow Flower Shoes (3rd Slot)"
+			"Snow Flower Shoes (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Fixed Casting)",
 		identifiedResourceName = "Ice_F_Stone_F_Cast",
@@ -415765,7 +417942,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (3rd Slot)",
-			"Snow Flower Shoes (3rd Slot)"
+			"Snow Flower Shoes (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Magical Force)",
 		identifiedResourceName = "Ice_F_Stone_M_F",
@@ -415810,7 +417989,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (3rd Slot)",
-			"Snow Flower Shoes (3rd Slot)"
+			"Snow Flower Shoes (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Physical Force)",
 		identifiedResourceName = "Ice_F_Stone_P_F",
@@ -415845,11 +418026,13 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen performing physical attacks, has a 3% chance to grant VIT + 50 and ATK + 25% for 10 seconds.^000000",
+			"^0000FFWhen performing physical attacks, has a 3% chance to grant VIT + 50 and Physical damage + 25% for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
-			"Snow Flower Shoes (2nd Slot)"
+			"Snow Flower Shoes (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Unlimited Vital)",
 		identifiedResourceName = "Ice_F_Stone_Un_Vit",
@@ -415858,7 +418041,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen performing physical attacks, has a 3% chance to grant VIT + 50 and ATK + 25% for 10 seconds.^000000",
+			"^0000FFWhen performing physical attacks, has a 3% chance to grant VIT + 50 and Physical damage + 25% for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
@@ -415878,11 +418061,13 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen performing magical attacks, has a 3% chance to grant INT + 50 and MATK + 25% for 10 seconds.^000000",
+			"^0000FFWhen performing magical attacks, has a 3% chance to grant INT + 50 and Magical damage + 25% for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
-			"Snow Flower Shoes (2nd Slot)"
+			"Snow Flower Shoes (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Spell Buster)",
 		identifiedResourceName = "Ice_F_Stone_Sp_Int",
@@ -415891,7 +418076,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen performing magical attacks, has a 3% chance to grant INT + 50 and MATK + 25% for 10 seconds.^000000",
+			"^0000FFWhen performing magical attacks, has a 3% chance to grant INT + 50 and Magical damage + 25% for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
@@ -415915,7 +418100,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
-			"Snow Flower Shoes (2nd Slot)"
+			"Snow Flower Shoes (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Firing Shot)",
 		identifiedResourceName = "Ice_F_Stone_Fi_Dex",
@@ -415948,7 +418135,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
-			"Snow Flower Shoes (2nd Slot)"
+			"Snow Flower Shoes (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Overpower)",
 		identifiedResourceName = "Ice_F_Stone_Ov_Str",
@@ -415981,7 +418170,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
-			"Snow Flower Shoes (2nd Slot)"
+			"Snow Flower Shoes (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Fatal Flash)",
 		identifiedResourceName = "Ice_F_Stone_Fa_Agi",
@@ -416014,7 +418205,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Boots (2nd Slot)",
-			"Snow Flower Shoes (2nd Slot)"
+			"Snow Flower Shoes (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Lucky Strike)",
 		identifiedResourceName = "Ice_F_Stone_Lu_Luk",
@@ -416050,7 +418243,9 @@ tbl = {
 			"Snow Flower Pendant (2nd Slot)",
 			"Snow Flower Necklace (2nd Slot)",
 			"Snow Flower Ring (2nd Slot)",
-			"Snow Flower Earring (2nd Slot)"
+			"Snow Flower Earring (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Delay)",
 		identifiedResourceName = "Ice_F_Stone_A_Delay",
@@ -416089,7 +418284,9 @@ tbl = {
 			"Snow Flower Pendant (2nd Slot)",
 			"Snow Flower Necklace (2nd Slot)",
 			"Snow Flower Ring (2nd Slot)",
-			"Snow Flower Earring (2nd Slot)"
+			"Snow Flower Earring (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Expert Archer)",
 		identifiedResourceName = "Ice_F_Stone_E_Archer",
@@ -416121,14 +418318,16 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFCRI + 15.^000000",
+			"^0000FFCRIT + 15.^000000",
 			"^0000FFIncreases critical damage by 12%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Pendant (2nd Slot)",
 			"Snow Flower Necklace (2nd Slot)",
 			"Snow Flower Ring (2nd Slot)",
-			"Snow Flower Earring (2nd Slot)"
+			"Snow Flower Earring (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Fatal)",
 		identifiedResourceName = "Ice_F_Stone_Fatal",
@@ -416137,7 +418336,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFCRI + 15.^000000",
+			"^0000FFCRIT + 15.^000000",
 			"^0000FFIncreases critical damage by 12%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
@@ -416160,14 +418359,16 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFIncreases guided attack chance by 5%.^000000",
+			"^0000FFIncreases Perfect hit by 5%.^000000",
 			"^0000FFIncreases melee physical damage by 10%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Pendant (2nd Slot)",
 			"Snow Flower Necklace (2nd Slot)",
 			"Snow Flower Ring (2nd Slot)",
-			"Snow Flower Earring (2nd Slot)"
+			"Snow Flower Earring (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Fighting Spirit)",
 		identifiedResourceName = "Ice_F_Stone_F_Spirit",
@@ -416176,7 +418377,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFIncreases guided attack chance by 5%.^000000",
+			"^0000FFIncreases Perfect hit by 5%.^000000",
 			"^0000FFIncreases melee physical damage by 10%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
@@ -416206,7 +418407,9 @@ tbl = {
 			"Snow Flower Pendant (2nd Slot)",
 			"Snow Flower Necklace (2nd Slot)",
 			"Snow Flower Ring (2nd Slot)",
-			"Snow Flower Earring (2nd Slot)"
+			"Snow Flower Earring (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Spell)",
 		identifiedResourceName = "Ice_F_Stone_Spell",
@@ -416242,7 +418445,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Pendant (3rd Slot)",
-			"Snow Flower Necklace (3rd Slot)"
+			"Snow Flower Necklace (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (HP Recovery)",
 		identifiedResourceName = "Ice_F_Stone_HealHP",
@@ -416275,7 +418480,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Ring (3rd Slot)",
-			"Snow Flower Earring (3rd Slot)"
+			"Snow Flower Earring (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (SP Recovery)",
 		identifiedResourceName = "Ice_F_Stone_HealSP",
@@ -416308,7 +418515,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Pendant (3rd Slot)",
-			"Snow Flower Necklace (3rd Slot)"
+			"Snow Flower Necklace (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Drain Life)",
 		identifiedResourceName = "Ice_F_Stone_Life",
@@ -416341,7 +418550,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Ring (3rd Slot)",
-			"Snow Flower Earring (3rd Slot)"
+			"Snow Flower Earring (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Drain Soul)",
 		identifiedResourceName = "Ice_F_Stone_Soul",
@@ -416370,11 +418581,13 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, 19 times.^000000",
+			"^0000FFWhen dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Pendant (3rd Slot)",
-			"Snow Flower Necklace (3rd Slot)"
+			"Snow Flower Necklace (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Magic Healing)",
 		identifiedResourceName = "Ice_F_Stone_M_Heal",
@@ -416383,7 +418596,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, 19 times.^000000",
+			"^0000FFWhen dealing magical damage, has a 4% chance to recover 700 HP every 0.5 seconds, for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Pendant (3rd Slot)",
@@ -416403,11 +418616,13 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, 19 times.^000000",
+			"^0000FFWhen dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Ring (3rd Slot)",
-			"Snow Flower Earring (3rd Slot)"
+			"Snow Flower Earring (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Magic Soul)",
 		identifiedResourceName = "Ice_F_Stone_M_Soul",
@@ -416416,7 +418631,7 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFWhen dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, 19 times.^000000",
+			"^0000FFWhen dealing magical damage, has a 2% chance to recover 100 SP every 0.5 seconds, for 10 seconds.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Ring (3rd Slot)",
@@ -416444,7 +418659,9 @@ tbl = {
 			"Snow Flower Pendant (3rd Slot)",
 			"Snow Flower Necklace (3rd Slot)",
 			"Snow Flower Ring (3rd Slot)",
-			"Snow Flower Earring (3rd Slot)"
+			"Snow Flower Earring (3rd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (All Force)",
 		identifiedResourceName = "Ice_F_Stone_A_Force",
@@ -416488,7 +418705,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Dragonic Breath)",
 		identifiedResourceName = "Ice_F_Stone_Skill_1",
@@ -416536,7 +418755,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Cutter Break)",
 		identifiedResourceName = "Ice_F_Stone_Skill_2",
@@ -416585,7 +418806,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Hundred Wave)",
 		identifiedResourceName = "Ice_F_Stone_Skill_3",
@@ -416633,7 +418856,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Brand Lit)",
 		identifiedResourceName = "Ice_F_Stone_Skill_4",
@@ -416680,7 +418905,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Vanishing Cannon)",
 		identifiedResourceName = "Ice_F_Stone_Skill_5",
@@ -416727,7 +418954,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Genesis Pressure)",
 		identifiedResourceName = "Ice_F_Stone_Skill_6",
@@ -416774,7 +419003,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Boost Cannon)",
 		identifiedResourceName = "Ice_F_Stone_Skill_7",
@@ -416822,7 +419053,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Vulcan Boomerang)",
 		identifiedResourceName = "Ice_F_Stone_Skill_8",
@@ -416870,7 +419103,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Tornado Swing)",
 		identifiedResourceName = "Ice_F_Stone_Skill_9",
@@ -416917,7 +419152,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Hell Tornado)",
 		identifiedResourceName = "Ice_F_Stone_Skill_10",
@@ -416964,7 +419201,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Crazy Cannon)",
 		identifiedResourceName = "Ice_F_Stone_Skill_11",
@@ -417011,7 +419250,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Acid Explosion)",
 		identifiedResourceName = "Ice_F_Stone_Skill_12",
@@ -417058,7 +419299,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Sonic Impact)",
 		identifiedResourceName = "Ice_F_Stone_Skill_13",
@@ -417105,7 +419348,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Cutter Slasher)",
 		identifiedResourceName = "Ice_F_Stone_Skill_14",
@@ -417152,7 +419397,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Berserk Slash)",
 		identifiedResourceName = "Ice_F_Stone_Skill_15",
@@ -417199,7 +419446,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Fatal Attack)",
 		identifiedResourceName = "Ice_F_Stone_Skill_16",
@@ -417242,11 +419491,13 @@ tbl = {
 			"^0000FFAdditionally increases magical damage of all properties by 15%.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases magical damage of all properties by 15%.^000000",
-			"^0000FFIncreases [Abyss Rift] damage by 15%.^000000",
+			"^0000FFIncreases [Abyss Square] damage by 15%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Shadow Spell)",
 		identifiedResourceName = "Ice_F_Stone_Skill_17",
@@ -417262,7 +419513,7 @@ tbl = {
 			"^0000FFAdditionally increases magical damage of all properties by 15%.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases magical damage of all properties by 15%.^000000",
-			"^0000FFIncreases [Abyss Rift] damage by 15%.^000000",
+			"^0000FFIncreases [Abyss Square] damage by 15%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
@@ -417297,7 +419548,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Angle Shot)",
 		identifiedResourceName = "Ice_F_Stone_Skill_18",
@@ -417348,7 +419601,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Crimson Strain)",
 		identifiedResourceName = "Ice_F_Stone_Skill_19",
@@ -417395,7 +419650,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Jack Lightning)",
 		identifiedResourceName = "Ice_F_Stone_Skill_20",
@@ -417443,7 +419700,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Comet Expansion)",
 		identifiedResourceName = "Ice_F_Stone_Skill_21",
@@ -417492,7 +419751,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Cloud Buster)",
 		identifiedResourceName = "Ice_F_Stone_Skill_22",
@@ -417540,7 +419801,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Varetyr Wave)",
 		identifiedResourceName = "Ice_F_Stone_Skill_23",
@@ -417587,7 +419850,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Diamond Grave)",
 		identifiedResourceName = "Ice_F_Stone_Skill_24",
@@ -417634,7 +419899,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Magnusmus)",
 		identifiedResourceName = "Ice_F_Stone_Skill_25",
@@ -417670,14 +419937,18 @@ tbl = {
 			"Can be enchanted onto Snow Flower equipment.",
 			"--------------------------",
 			"[^CD3278Enchant Effect^000000]",
-			"^0000FFIncreases [Magnus Exorcismus] and [Adoramus] damage by 15%.^000000",
+			"^0000FFIncreases [Judex] damage by 15%.^000000",
+			"^0000FFIncreases Holy magical damage by 5%.^000000",
 			"At Refine Level 7:",
-			"^0000FFAdditionally increases [Magnus Exorcismus] and [Adoramus] damage by 15%.^000000",
+			"^0000FFAdditionally increases [Judex] damage by 15%.^000000",
+			"^0000FFAdditionally increases Holy magical damage by 10%.^000000",
 			"At Refine Level 9:",
-			"^0000FFAdditionally increases [Magnus Exorcismus] and [Adoramus] damage by 15%.^000000",
+			"^0000FFAdditionally increases [Judex] damage by 15%.^000000",
+			"^0000FFAdditionally increases Holy magical damage by 10%.^000000",
 			"At Refine Level 11:",
-			"^0000FFAdditionally increases [Magnus Exorcismus] and [Adoramus] damage by 15%.^000000",
-			"^0000FFIncreases [Arbitrium] damage by 15%.^000000",
+			"^0000FFAdditionally increases [Judex] damage by 15%.^000000",
+			"^0000FFAdditionally increases Holy magical damage by 15%.^000000",
+			"^0000FFIncreases [Flamen] damage by 15%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
@@ -417742,7 +420013,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Melee Duple)",
 		identifiedResourceName = "Ice_F_Stone_Skill_27",
@@ -417797,7 +420070,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Tiger Empire)",
 		identifiedResourceName = "Ice_F_Stone_Skill_28",
@@ -417845,7 +420120,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Rampage Lightning)",
 		identifiedResourceName = "Ice_F_Stone_Skill_29",
@@ -417893,7 +420170,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Hell Arrow)",
 		identifiedResourceName = "Ice_F_Stone_Skill_30",
@@ -417940,7 +420219,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Aimed Rush)",
 		identifiedResourceName = "Ice_F_Stone_Skill_31",
@@ -417991,7 +420272,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Breeze Shooting)",
 		identifiedResourceName = "Ice_F_Stone_Skill_32",
@@ -418042,7 +420325,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Storm Gale)",
 		identifiedResourceName = "Ice_F_Stone_Skill_33",
@@ -418089,7 +420374,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Sound Metal)",
 		identifiedResourceName = "Ice_F_Stone_Skill_34",
@@ -418136,7 +420423,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Rainstorm)",
 		identifiedResourceName = "Ice_F_Stone_Skill_35",
@@ -418183,7 +420472,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Vulcan Shooting)",
 		identifiedResourceName = "Ice_F_Stone_Skill_36",
@@ -418230,7 +420521,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Blaze Explosion)",
 		identifiedResourceName = "Ice_F_Stone_Skill_37",
@@ -418277,7 +420570,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Moon Kick)",
 		identifiedResourceName = "Ice_F_Stone_Skill_38",
@@ -418324,7 +420619,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Flash Falling)",
 		identifiedResourceName = "Ice_F_Stone_Skill_39",
@@ -418371,7 +420668,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Eswhoo)",
 		identifiedResourceName = "Ice_F_Stone_Skill_40",
@@ -418418,7 +420717,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Espa)",
 		identifiedResourceName = "Ice_F_Stone_Skill_41",
@@ -418469,7 +420770,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Curse Explosion)",
 		identifiedResourceName = "Ice_F_Stone_Skill_42",
@@ -418520,7 +420823,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Des Hammer Dance)",
 		identifiedResourceName = "Ice_F_Stone_Skill_43",
@@ -418567,7 +420872,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Fire Howling Tail)",
 		identifiedResourceName = "Ice_F_Stone_Skill_44",
@@ -418614,7 +420921,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Storm Buster Trip)",
 		identifiedResourceName = "Ice_F_Stone_Skill_45",
@@ -418661,7 +420970,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Flame Ice Wind)",
 		identifiedResourceName = "Ice_F_Stone_Skill_46",
@@ -418708,7 +421019,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Cross Petal)",
 		identifiedResourceName = "Ice_F_Stone_Skill_47",
@@ -418755,7 +421068,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Exploding Flake Wind)",
 		identifiedResourceName = "Ice_F_Stone_Skill_48",
@@ -418798,11 +421113,13 @@ tbl = {
 			"^0000FFAdditionally increases [Picky Peck] and [Lunatic Carrot Beat] damage by 15%.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases [Picky Peck] and [Lunatic Carrot Beat] damage by 15%.^000000",
-			"^0000FFIncreases [Chulho Sonic Claw] damage by 15%.^000000",
+			"^0000FFIncreases [Cheol-ho Sonic Claw] damage by 15%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Power of Life)",
 		identifiedResourceName = "Ice_F_Stone_Skill_49",
@@ -418818,7 +421135,7 @@ tbl = {
 			"^0000FFAdditionally increases [Picky Peck] and [Lunatic Carrot Beat] damage by 15%.^000000",
 			"At Refine Level 11:",
 			"^0000FFAdditionally increases [Picky Peck] and [Lunatic Carrot Beat] damage by 15%.^000000",
-			"^0000FFIncreases [Chulho Sonic Claw] damage by 15%.^000000",
+			"^0000FFIncreases [Cheol-ho Sonic Claw] damage by 15%.^000000",
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
@@ -418849,7 +421166,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Power of Land)",
 		identifiedResourceName = "Ice_F_Stone_Skill_50",
@@ -418896,7 +421215,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Power of Savage)",
 		identifiedResourceName = "Ice_F_Stone_Skill_51",
@@ -418943,7 +421264,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Hyper Melee)",
 		identifiedResourceName = "Ice_F_Stone_Skill_52",
@@ -418990,7 +421313,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Hyper Range)",
 		identifiedResourceName = "Ice_F_Stone_Skill_53",
@@ -419037,7 +421362,9 @@ tbl = {
 			"--------------------------",
 			"^000088[Enchantable Equipment]^000000",
 			"Snow Flower Armor (2nd Slot)",
-			"Snow Flower Robe (2nd Slot)"
+			"Snow Flower Robe (2nd Slot)",
+			"--------------------------",
+			"Weight: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ice Flower Magic Stone (Hyper Magic)",
 		identifiedResourceName = "Ice_F_Stone_Skill_54",
@@ -419069,12 +421396,15 @@ tbl = {
 		unidentifiedDisplayName = "Snow Flower Magic Ore",
 		unidentifiedResourceName = "Snow_F_Ore",
 		unidentifiedDescriptionName = {
-			"A fragment of ore containing magically imbued snow flowers."
+			"A fragment of ore containing magically imbued snow flowers.",
+			"--------------------------",
+			"Weight: ^7777770.1^000000"
 		},
 		identifiedDisplayName = "Snow Flower Magic Ore",
 		identifiedResourceName = "Snow_F_Ore",
 		identifiedDescriptionName = {
 			"A fragment of ore containing magically imbued snow flowers.",
+			"--------------------------",
 			"Weight: ^7777770.1^000000"
 		},
 		slotCount = 0,
@@ -419762,7 +422092,7 @@ tbl = {
 			"Its magical taint may be neutralized.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419774,7 +422104,7 @@ tbl = {
 			"Its magical taint may be neutralized.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419791,7 +422121,7 @@ tbl = {
 			"A faint trace of the taint remains.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419802,7 +422132,7 @@ tbl = {
 			"A faint trace of the taint remains.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419819,7 +422149,7 @@ tbl = {
 			"Sealed with Snow Flower magic to keep the taint from leaking out.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777775^000000"
 		},
@@ -419830,7 +422160,7 @@ tbl = {
 			"Sealed with Snow Flower magic to keep the taint from leaking out.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777775^000000"
 		},
@@ -419847,7 +422177,7 @@ tbl = {
 			"Sealed with Snow Flower magic to keep the remaining taint from leaking out.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777775^000000"
 		},
@@ -419858,7 +422188,7 @@ tbl = {
 			"Sealed with Snow Flower magic to keep the remaining taint from leaking out.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777775^000000"
 		},
@@ -419874,7 +422204,7 @@ tbl = {
 			"A mass of tainted magic of unknown origin.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777775^000000"
 		},
@@ -419884,7 +422214,7 @@ tbl = {
 			"A mass of tainted magic of unknown origin.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777775^000000"
 		},
@@ -419900,7 +422230,7 @@ tbl = {
 			"A bottle containing magic extracted from a Glacier Flower magic stone.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419910,7 +422240,7 @@ tbl = {
 			"A bottle containing magic extracted from a Glacier Flower magic stone.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419926,7 +422256,7 @@ tbl = {
 			"A bottle containing magic extracted from a glowing Glacier Flower magic stone.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419936,7 +422266,7 @@ tbl = {
 			"A bottle containing magic extracted from a glowing Glacier Flower magic stone.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419952,7 +422282,7 @@ tbl = {
 			"A bottle containing magic extracted from a brilliant Glowing Glacier magic stone.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419962,7 +422292,7 @@ tbl = {
 			"A bottle containing magic extracted from a brilliant Glowing Glacier magic stone.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419978,7 +422308,7 @@ tbl = {
 			"A bottle containing magic extracted from an Issgard glacier.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},
@@ -419988,7 +422318,7 @@ tbl = {
 			"A bottle containing magic extracted from an Issgard glacier.",
 			"-------------------------",
 			"Used at:",
-			"^FFFFFF<NAVI>^4D4DFF[Belgund's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
+			"^FFFFFF<NAVI>^4D4DFF[Vellgunde's Laboratory]^000000<INFO>icas_in,181,64,0,100,0,0</INFO></NAVI>^000000",
 			"-------------------------",
 			"Weight: ^7777773^000000"
 		},

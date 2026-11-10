@@ -25,8 +25,8 @@
         "es-ES": "[Lana]\nSi quieres participar en la ceremonia de la hoguera, aligera tu carga primero."
     },
     "BUsOBg": {
-        "en-US": "[Lana]\nWelcome~ Thank you all for visiting Alberta for the Harvest Festival!",
-        "pt-BR": "[Lana]\nBoas-vindas~ Obrigada por visitarem Alberta para o Festival da Colheita!",
+        "en-US": "[Lana]\nWelcome! Thank you all for visiting Alberta for the Harvest Festival!",
+        "pt-BR": "[Lana]\nBoas-vindas! Obrigada por visitarem Alberta para o Festival da Colheita!",
         "es-ES": "[Lana]\n¡Bienvenidos! ¡Gracias por visitar Alberta para el Festival de la Cosecha!"
     },
     "BksOBg": {
@@ -55,9 +55,9 @@
         "es-ES": "[Lana]\nCada año se celebran festivales de la cosecha en muchas regiones, pero ^0000CDel de Alberta es especialmente famoso por su ceremonia de la hoguera^000000."
     },
     "C0sOBg": {
-        "en-US": "[Lana]\nWe build a huge bonfire in the center of Alberta and use it to cook throughout the festival. Everyone sings and dances all night long.",
-        "pt-BR": "[Lana]\nAcendemos uma grande fogueira no centro de Alberta e a usamos para cozinhar durante todo o festival. Todos cantam e dançam pela noite adentro.",
-        "es-ES": "[Lana]\nEncendemos una gran hoguera en el centro de Alberta y cocinamos con ella durante todo el festival. Todos cantan y bailan hasta el amanecer."
+        "en-US": "[Lana]\nWe build a huge bonfire in the center of the city and use it to cook throughout the festival. Everyone sings and dances all night long.",
+        "pt-BR": "[Lana]\nAcendemos uma grande fogueira no centro da cidade e a usamos para cozinhar durante todo o festival. Todos cantam e dançam pela noite adentro.",
+        "es-ES": "[Lana]\nEncendemos una gran hoguera en el centro de la ciudad y cocinamos con ella durante todo el festival. Todos cantan y bailan hasta el amanecer."
     },
     "DEsOBg": {
         "en-US": "[Lana]\nSo every year, people come to Alberta and ^0000CDadd firewood to the bonfire^000000, giving thanks for this year's harvest and wishing for another plentiful year.",
@@ -91,7 +91,7 @@
     },
     "EksOBg": {
         "en-US": "[Lana]\nBring ^0000CD5 Quality Branches^000000, ^0000CD10 Tree Roots^000000 to help the fire catch, and ^0000CD1 Fire Arrow^000000 to light it.",
-        "pt-BR": "[Lana]\nVocê precisará de ^0000CD5 Lenhas de Qualidade^000000, ^0000CD10 Raiz de Árvore^000000 e ^0000CD1 Flecha de Fogo^000000 para acender a fogueira.",
+        "pt-BR": "[Lana]\nVocê precisará de ^0000CD5 Lenhas de Qualidade^000000, ^0000CD10 Raizes de Árvore^000000 e ^0000CD1 Flecha de Fogo^000000 para acender a fogueira.",
         "es-ES": "[Lana]\nTrae ^0000CD5 Ramas de Calidad^000000, ^0000CD10 Raíces de Árbol^000000 para avivar el fuego y ^0000CD1 Flecha de Fuego^000000 para encenderlo."
     },
     "E0sOBg": {
@@ -101,7 +101,7 @@
     },
     "FEsOBg": {
         "en-US": "[Lana]\nOnce you have those items, you can take part. You can get Quality Branches from ^4D4DFFRevived Branches^000000.",
-        "pt-BR": "[Lana]\nQuando tiver esses itens, poderá participar. Você pode obter Lenhas de Qualidade das ^4D4DFFLenhas Vivas^000000.",
+        "pt-BR": "[Lana]\nQuando tiver esses itens, poderá participar. Você pode obter Lenhas de Qualidade de ^4D4DFFLenhas Vivas^000000.",
         "es-ES": "[Lana]\nCuando tengas esos objetos, podrás participar. Puedes conseguir Ramas de Calidad de las ^4D4DFFRamas Revividas^000000."
     },
     "FUsOBg": {
@@ -120,18 +120,18 @@
         "es-ES": "[Lana]\n¡Muy bien! ¡Las llamas crecen! Por favor, den un paso atrás."
     },
     "GEsOBg": {
-        "en-US": "Wow~ It's catching fire!",
-        "pt-BR": "Uau~ Pegou fogo!",
+        "en-US": "Wow! It's catching fire!",
+        "pt-BR": "Uau! Pegou fogo!",
         "es-ES": "¡Guau! ¡Está prendiendo!"
     },
     "GUsOBg": {
         "en-US": "Let the fire blaze!!!",
-        "pt-BR": "Uau~ olha essas chamas!!!",
+        "pt-BR": "Uau! olha essas chamas!!!",
         "es-ES": "¡¡¡Que arda la hoguera!!!"
     },
     "GksOBg": {
-        "en-US": "It's getting bigger~~~",
-        "pt-BR": "Está crescendo~~~",
+        "en-US": "It's getting bigger!",
+        "pt-BR": "Está crescendo!",
         "es-ES": "¡Cada vez es más grande!"
     },
     "G0sOBg": {
@@ -140,8 +140,8 @@
         "es-ES": "Cuidado con las chispas."
     },
     "HEsOBg": {
-        "en-US": "Let's burn all our bad memories in that fire~",
-        "pt-BR": "Vamos queimar todas as lembranças ruins nesse fogo~",
+        "en-US": "Let's burn all our bad memories in that fire!",
+        "pt-BR": "Vamos queimar todas as lembranças ruins nesse fogo!",
         "es-ES": "¡Quememos todos los malos recuerdos en ese fuego!"
     },
     "HUsOBg": {
@@ -175,13 +175,13 @@
         "es-ES": "[Lana]\nMuchas gracias a todos. ¡Aprovechen para agradecer también a quienes los rodean!"
     },
     "I0sOBg": {
-        "en-US": "Thank you for another year~",
-        "pt-BR": "Obrigado por mais um ano~",
+        "en-US": "Thank you for another year!",
+        "pt-BR": "Obrigado por mais um ano!",
         "es-ES": "¡Gracias por otro año!"
     },
     "JEsOBg": {
         "en-US": "We worked hard this year!",
-        "pt-BR": "Nós nos esforçamos muito este ano!",
+        "pt-BR": "Nós nos esforçamos muito esse ano!",
         "es-ES": "¡Nos esforzamos mucho este año!"
     },
     "JUsOBg": {
@@ -196,7 +196,7 @@
     },
     "J0sOBg": {
         "en-US": "Thank you for the good weather.",
-        "pt-BR": "Obrigado pelo bom tempo.",
+        "pt-BR": "Obrigado pelo clima favorável.",
         "es-ES": "Gracias por el buen tiempo."
     },
     "KEsOBg": {
@@ -205,8 +205,8 @@
         "es-ES": "¡Que el próximo año también tengamos una cosecha abundante!"
     },
     "KUsOBg": {
-        "en-US": "Thank you, everyone~~~~~",
-        "pt-BR": "Obrigado a todos~~~~~",
+        "en-US": "Thank you, everyone!",
+        "pt-BR": "Obrigado a todos!",
         "es-ES": "¡Gracias a todos!"
     },
     "KksOBg": {
@@ -221,13 +221,13 @@
     },
     "LEsOBg": {
         "en-US": "[Lana]\nOne is an ^4D4DFFAnywhere Ticket^000000. Give it to the <NAVI>[Speedboat Captain]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> to travel to the local region of your choice for free.",
-        "pt-BR": "[Lana]\nUm deles é um ^4D4DFFVale-Viagem^000000. Entregue-o ao <NAVI>[Barqueiro]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar de graça à região local que desejar.",
-        "es-ES": "[Lana]\nUno es un ^4D4DFFBoleto a Cualquier Destino^000000. Entrégaselo al <NAVI>[Capitán de Lancha]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar gratis a la región local que quieras."
+        "pt-BR": "[Lana]\nUm deles é um ^4D4DFFVale-Viagem^000000. Entregue-o ao <NAVI>[Barqueiro]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar de graça à região que desejar.",
+        "es-ES": "[Lana]\nUno es un ^4D4DFFVale de Viaje^000000. Entrégaselo al <NAVI>[Capitán de Lancha]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar gratis a la región que quieras."
     },
     "LUsOBg": {
         "en-US": "[Lana]\nThe other is a ^4D4DFFHarvest Festival Raffle Ticket^000000. Give it to <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> for a festival gift.",
         "pt-BR": "[Lana]\nO outro é um ^4D4DFFBilhete Outonal^000000. Entregue-o a <NAVI>[Rafael]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> para receber um presente do festival.",
-        "es-ES": "[Lana]\nEl otro es un ^4D4DFFBoleto del Sorteo de la Cosecha^000000. Entrégaselo a <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> para recibir un regalo del festival."
+        "es-ES": "[Lana]\nEl otro es un ^4D4DFFBoleto Otoñal^000000. Entrégaselo a <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> para recibir un regalo del festival."
     },
     "LksOBg": {
         "en-US": "[Lana]\nYou'll receive one randomly chosen gift from our selection, so why not try your luck? Enjoy the festival!",
@@ -241,8 +241,8 @@
     },
     "MEsOBg": {
         "en-US": "[Lana]\nAdventurer, are you enjoying the Harvest Festival?",
-        "pt-BR": "[Lana]\nTá gostando do nosso festival?",
-        "es-ES": "[Lana]\nAventurero, ¿estás disfrutando del Festival de la Cosecha?"
+        "pt-BR": "[Lana]\nTá gostando do nosso festival, Viajante?",
+        "es-ES": "[Lana]\nTrotamundos, ¿estás disfrutando del Festival de la Cosecha?"
     },
     "MUsOBg": {
         "en-US": "Tourist",
@@ -251,17 +251,17 @@
     },
     "MksOBg": {
         "en-US": "I couldn't go home this year, so I'm here to feel a little less lonely.",
-        "pt-BR": "Não pude ir para minha cidade natal este ano. Então estou aqui para aliviar minha solidão.",
+        "pt-BR": "Não pude ir para a minha cidade esse ano. Então estou aqui para aliviar minha solidão.",
         "es-ES": "Este año no pude volver a casa, así que vine para sentirme un poco menos solo."
     },
     "M0sOBg": {
         "en-US": "Did you see the huge flames rise from this bonfire? I came all this way just to see the ceremony!",
-        "pt-BR": "Viu as enormes chamas desta fogueira? Vim só para assistir à cerimônia!",
+        "pt-BR": "Viu o tamanho das chamas dessa fogueira? Vim só para assistir à cerimônia!",
         "es-ES": "¿Viste las enormes llamas de esta hoguera? ¡Vine expresamente para ver la ceremonia!"
     },
     "NEsOBg": {
-        "en-US": "I love the Harvest Festival and all its delicious food~",
-        "pt-BR": "Eu adoro o Festival da Colheita e toda essa comida deliciosa~",
+        "en-US": "I love the Harvest Festival and all its delicious food!",
+        "pt-BR": "Eu adoro o Festival da Colheita e toda essa comida deliciosa!",
         "es-ES": "¡Me encanta el Festival de la Cosecha y toda su deliciosa comida!"
     },
     "NUsOBg": {
@@ -271,7 +271,7 @@
     },
     "NksOBg": {
         "en-US": "May next year bring only good things...",
-        "pt-BR": "Que o ano que vem traga apenas coisas boas...",
+        "pt-BR": "Que o próximo ano traga apenas coisas boas...",
         "es-ES": "Ojalá el próximo año solo traiga cosas buenas..."
     },
     "N0sOBg": {
@@ -281,12 +281,12 @@
     },
     "OEsOBg": {
         "en-US": "From a ship out on the sea at night, this bonfire looks like a blazing sun.",
-        "pt-BR": "Vista de um barco no mar à noite, esta fogueira parece um sol ardente.",
+        "pt-BR": "Vista de um barco no mar à noite, essa fogueira parece um sol ardente.",
         "es-ES": "Desde un barco en el mar nocturno, esta hoguera parece un sol ardiente."
     },
     "OUsOBg": {
         "en-US": "I want to roast sweet potatoes in the bonfire...",
-        "pt-BR": "Quero comer batata-doce assada na fogueira...",
+        "pt-BR": "Queria comer batata-doce assada na fogueira...",
         "es-ES": "Quiero asar batatas en la hoguera..."
     },
     "OksOBg": {
@@ -300,18 +300,18 @@
         "es-ES": "Capitán de Lancha"
     },
     "PEsOBg": {
-        "en-US": "Got an Anywhere Ticket? I'll take you to any local region~",
-        "pt-BR": "Tem um Vale-Viagem? Levo você para qualquer região local~",
-        "es-ES": "¿Tienes un Boleto a Cualquier Destino? ¡Te llevaré a cualquier región local!"
+        "en-US": "Got an Anywhere Ticket? I'll take you to any region.",
+        "pt-BR": "Tem um Vale-Viagem? Levo você para qualquer região.",
+        "es-ES": "¿Tienes un Vale de Viaje? ¡Te llevaré a cualquier región!"
     },
     "PUsOBg": {
         "en-US": "[Speedboat Captain]\nHeading home? Or going on a trip? With just ^0000CD1 Anywhere Ticket^000000, I'll take you to ^0000CDany local region^000000.",
         "pt-BR": "[Barqueiro]\nVai para casa ou fazer uma viagem? Com apenas ^0000CD1 Vale-Viagem^000000, levo você para ^0000CDqualquer região local^000000.",
-        "es-ES": "[Capitán de Lancha]\n¿Vuelves a casa o sales de viaje? Con solo ^0000CD1 Boleto a Cualquier Destino^000000, te llevaré a ^0000CDcualquier región local^000000."
+        "es-ES": "[Capitán de Lancha]\n¿Vuelves a casa o sales de viaje? Con solo ^0000CD1 Vale de Viaje^000000, te llevaré a ^0000CDcualquier región local^000000."
     },
     "PksOBg": {
         "en-US": "[Speedboat Captain]\nBut you don't have a ticket. How can you travel without one? Bring a ticket first.",
-        "pt-BR": "[Barqueiro]\nOnde está o Vale-Viagem? Precisa disso para viajar.",
+        "pt-BR": "[Barqueiro]\nOnde está o Vale-Viagem? Você precisa dele para viajar.",
         "es-ES": "[Capitán de Lancha]\nPero no tienes boleto. ¿Cómo piensas viajar sin uno? Trae un boleto primero."
     },
     "P0sOBg": {
@@ -365,7 +365,7 @@
         "es-ES": "Rock Ridge"
     },
     "SUsOBg": {
-        "en-US": "I'll go another time.",
+        "en-US": "I'll go some other time.",
         "pt-BR": "Viajarei outro dia.",
         "es-ES": "Viajaré en otro momento."
     },
@@ -421,8 +421,8 @@
     },
     "VEsOBg": {
         "en-US": "[Speedboat Captain]\nHow do you get an Anywhere Ticket? Go see Lana, the Harvest Festival Director, first.",
-        "pt-BR": "[Barqueiro]\nQuer saber como obter um Vale-Viagem? Fale primeiro com Lana, a diretora do Festival da Colheita.",
-        "es-ES": "[Capitán de Lancha]\n¿Cómo se consigue un Boleto a Cualquier Destino? Primero habla con Lana, la directora del Festival de la Cosecha."
+        "pt-BR": "[Barqueiro]\nQuer saber como obter um Vale-Viagem? Fale primeiro com Lana, a Diretora do Festival da Colheita.",
+        "es-ES": "[Capitán de Lancha]\n¿Cómo se consigue un Vale-Viaje? Primero habla con Lana, la Directora del Festival de la Cosecha."
     },
     "VUsOBg": {
         "en-US": "Luna",
@@ -436,8 +436,8 @@
     },
     "V0sOBg": {
         "en-US": "Adventurer, could you help me? Something terrible has happened...",
-        "pt-BR": "Aventureiro, pode me ajudar? Aconteceu algo muito grave...",
-        "es-ES": "Aventurero, ¿podrías ayudarme? Ha pasado algo terrible..."
+        "pt-BR": "Viajante, pode me ajudar? Aconteceu algo muito grave...",
+        "es-ES": "Trotamundos, ¿podrías ayudarme? Ha pasado algo terrible..."
     },
     "WEsOBg": {
         "en-US": "[Luna]\nPlease lighten your load before joining the bonfire ceremony.",
@@ -445,9 +445,9 @@
         "es-ES": "[Luna]\nAligera tu carga antes de participar en la ceremonia de la hoguera."
     },
     "WUsOBg": {
-        "en-US": "[Luna]\nOh, hello, kind adventurer!!!!!!!",
-        "pt-BR": "[Kadu]\nAh, olá, bondoso aventureiro!!!!!!!",
-        "es-ES": "[Luna]\n¡¡¡¡¡¡¡Ah, hola, amable aventurero!!!!!!!"
+        "en-US": "[Luna]\nOh, hello, kind adventurer!!!",
+        "pt-BR": "[Kadu]\nAh, olá, gentil viajante!!!",
+        "es-ES": "[Luna]\n¡¡¡Ah, hola, amable trotamundos!!!"
     },
     "WksOBg": {
         "en-US": "What's wrong?",
@@ -456,22 +456,22 @@
     },
     "W0sOBg": {
         "en-US": "[Luna]\nAre you on your way home, by any chance?",
-        "pt-BR": "[Kadu]\nPor acaso está voltando para sua cidade natal?",
+        "pt-BR": "[Kadu]\nPor acaso está voltando para a sua cidade?",
         "es-ES": "[Luna]\n¿Por casualidad vas de camino a casa?"
     },
     "XEsOBg": {
         "en-US": "I'm here to enjoy the Harvest Festival.",
-        "pt-BR": "Estou aproveitando o Festival.",
+        "pt-BR": "Estou aproveitando o Festival da Collheita.",
         "es-ES": "Vine a disfrutar del Festival de la Cosecha."
     },
     "XUsOBg": {
-        "en-US": "[Luna]\nOh, thank goodness. Um, if you have a moment... could you help me? Please, I'm begging you... don't just walk past me.",
-        "pt-BR": "[Kadu]\nAh, sei... bom... se tiver um tempo livre, pode me ajudar? Por favor... não me ignore.",
+        "en-US": "[Luna]\nOh, thank goodness. Hm, if you have a moment... Could you help me? Please, I'm begging you... Don't just walk past me.",
+        "pt-BR": "[Kadu]\nAh, entendi... Bom, se tiver um tempo livre, pode me ajudar? Por favor, eu te imploro... Não me ignore!",
         "es-ES": "[Luna]\nAh, menos mal. Si tienes un momento... ¿podrías ayudarme? Por favor, te lo suplico... no me ignores."
     },
     "XksOBg": {
         "en-US": "[Luna]\nI'll be in real trouble if you leave. Really. Believe me.",
-        "pt-BR": "[Kadu]\nSe você for embora, vou ficar em sérios apuros. De verdade. Acredite em mim.",
+        "pt-BR": "[Kadu]\nSe você for embora, vou ter problemas. De verdade. Acredite em mim.",
         "es-ES": "[Luna]\nSi te marchas, estaré en serios problemas. De verdad. Créeme."
     },
     "X0sOBg": {
@@ -501,7 +501,7 @@
     },
     "ZEsOBg": {
         "en-US": "[Luna]\nOh, right! You joined the bonfire ceremony, didn't you? I was watching, and those branches you brought... well... um...",
-        "pt-BR": "[Kadu]\nAh, é mesmo! Você participou da cerimônia da fogueira, não foi? Eu estava olhando, e aquelas lenhas que trouxe... bem... hum...",
+        "pt-BR": "[Kadu]\nAh, é mesmo! Você participou da cerimônia da fogueira, não foi? Eu estava assistindo. E aquelas lenhas que você trouxe... Bem... Hm...",
         "es-ES": "[Luna]\n¡Ah, sí! Participaste en la ceremonia de la hoguera, ¿verdad? Estaba mirando, y esas ramas que trajiste... bueno... eh..."
     },
     "ZUsOBg": {
@@ -511,7 +511,7 @@
     },
     "ZksOBg": {
         "en-US": "[Luna]\nI think they're the branches involved in my little accident.",
-        "pt-BR": "[Kadu]\nAcho que são as lenhas envolvidas no acidente que causei.",
+        "pt-BR": "[Kadu]\nAcho que são as lenhas do pequeno acidente que causei.",
         "es-ES": "[Luna]\nCreo que son las ramas con las que causé un pequeño accidente."
     },
     "Z0sOBg": {
@@ -521,13 +521,13 @@
     },
     "aEsOBg": {
         "en-US": "[Luna]\nWell, not exactly an accident. More like an unavoidable incident caused by mysterious forces... a natural disaster beyond human control...",
-        "pt-BR": "[Kadu]\nBem, não exatamente um acidente. Foi mais um incidente inevitável causado por forças misteriosas... um desastre natural fora do controle humano...",
+        "pt-BR": "[Kadu]\nBom, não foi exatamente um acidente. Foi mais um incidente inevitável causado por forças misteriosas... um desastre natural fora do controle humano...",
         "es-ES": "[Luna]\nBueno, no exactamente un accidente. Más bien un suceso inevitable causado por fuerzas misteriosas... un desastre natural fuera del control humano..."
     },
     "aUsOBg": {
-        "en-US": "[Luna]\nOh, I'm Luna, a ^0000CDmage dispatched from Geffen Tower to control the fire^000000 for the bonfire ceremony.",
-        "pt-BR": "[Kadu]\nAh, sou Kadu, um ^0000CDmago enviado da Torre de Geffen para controlar o fogo^000000 da cerimônia da fogueira.",
-        "es-ES": "[Luna]\nAh, soy Luna, un ^0000CDmago enviado desde la Torre de Geffen para controlar el fuego^000000 de la ceremonia de la hoguera."
+        "en-US": "[Luna]\nOh, I'm Luna, a ^0000CDmage dispatched from Geffen Tower to control the bonfire^000000 for the ceremony.",
+        "pt-BR": "[Kadu]\nAh, sou Kadu, um ^0000CDmago enviado da Torre de Geffen para controlar a fogueira^000000 da cerimônia.",
+        "es-ES": "[Luna]\nAh, soy Luna, un ^0000CDmago enviado desde la Torre de Geffen para controlar la hoguera^000000 de la ceremonia."
     },
     "aksOBg": {
         "en-US": "[Luna]\nAs you can see, I keep the stacked firewood burning and stop sparks from flying elsewhere...",
@@ -546,7 +546,7 @@
     },
     "bUsOBg": {
         "en-US": "[Luna]\nI couldn't stand the boredom. There's nothing I hate more. Really!",
-        "pt-BR": "[Kadu]\nEu não aguentava tanto tédio. É o que mais odeio no mundo. Sério!",
+        "pt-BR": "[Kadu]\nEu não aguentava de tanto tédio. É o que mais odeio no mundo. Sério!",
         "es-ES": "[Luna]\nNo soportaba el aburrimiento. ¡Es lo que más odio en el mundo! ¡De verdad!"
     },
     "bksOBg": {
@@ -555,9 +555,9 @@
         "es-ES": "¿Y entonces?"
     },
     "b0sOBg": {
-        "en-US": "[Luna]\nSo... out of boredom, I started playing with the stacked branches... I mean, conducting magical experiments... researching a spell to make dried firewood fresh again...",
-        "pt-BR": "[Kadu]\nEntão... de tanto tédio, comecei a brincar com a lenha empilhada... quer dizer, fazer experiências mágicas... pesquisar um feitiço para deixar a lenha ressecada fresca de novo...",
-        "es-ES": "[Luna]\nAsí que... por aburrimiento, empecé a jugar con las ramas apiladas... digo, a hacer experimentos mágicos... investigaba un hechizo para devolverle la frescura a la leña seca..."
+        "en-US": "[Luna]\nSo... out of boredom, I started playing with the stacked branches... I mean, conducting magical experiments... researching spells to make dried firewood fresh again...",
+        "pt-BR": "[Kadu]\nEntão... De tanto tédio, comecei a brincar com a lenha empilhada... Quero dizer, fazer experiências mágicas... Pesquisar feitiços para deixar a lenha ressecada fresca de novo...",
+        "es-ES": "[Luna]\nAsí que... por aburrimiento, empecé a jugar con las ramas apiladas... digo, a hacer experimentos mágicos... investigaba hechizos para devolverle la frescura a la leña seca..."
     },
     "cEsOBg": {
         "en-US": "And then?",
@@ -566,17 +566,17 @@
     },
     "cUsOBg": {
         "en-US": "[Luna]\nThe firewood became... a little too fresh...",
-        "pt-BR": "[Kadu]\nA lenha ficou... fresca demais...",
+        "pt-BR": "[Kadu]\nA lenha ficou... meio que fresca demais...",
         "es-ES": "[Luna]\nLa leña se volvió... demasiado fresca..."
     },
     "cksOBg": {
         "en-US": "And...?",
-        "pt-BR": "Você...?",
+        "pt-BR": "E...?",
         "es-ES": "¿Y...?"
     },
     "c0sOBg": {
         "en-US": "[Luna]\nIt came back to life. Hehe...",
-        "pt-BR": "[Kadu]\nRessuscitei a lenha....",
+        "pt-BR": "[Kadu]\nA lenha ganhou vida. Hehe...",
         "es-ES": "[Luna]\nVolvió a la vida. Je, je..."
     },
     "dEsOBg": {
@@ -585,28 +585,28 @@
         "es-ES": "[Luna]\n......"
     },
     "dUsOBg": {
-        "en-US": "[Luna]\nYou've seen the ^0000CDRevived Branches^000000 outside town, haven't you? Something went wrong, and more keep coming to life. At this rate, they'll cover all of Midgard!",
+        "en-US": "[Luna]\nYou've seen the ^0000CDRevived Branches^000000 outside town, haven't you? Something went wrong, and more keep coming back to life. At this rate, they'll cover all of Midgard!",
         "pt-BR": "[Kadu]\nVocê viu as ^0000CDLenhas Vivas^000000 fora da cidade, não viu? Algo deu errado e mais lenhas continuam ressuscitando. Nesse ritmo, vão cobrir toda Midgard!",
-        "es-ES": "[Luna]\nHas visto las ^0000CDRamas Revividas^000000 fuera de la ciudad, ¿verdad? Algo salió mal y siguen reviviendo más. ¡A este paso cubrirán todo Midgard!"
+        "es-ES": "[Luna]\nHas visto las ^0000CDRamas Revividas^000000 fuera de la ciudad, ¿verdad? Algo salió mal y siguen reviviendo más. ¡A este paso cubrirán todo en Midgard!"
     },
     "dksOBg": {
-        "en-US": "[Luna]\nOh...? Then again, if they keep multiplying, perhaps people will learn to live alongside Revived Branches.",
-        "pt-BR": "[Kadu]\nAh...? Pensando bem, se continuarem se multiplicando, talvez as pessoas aprendam a conviver com as Lenhas Vivas.",
-        "es-ES": "[Luna]\n¿Ah...? Aunque, si siguen multiplicándose, quizá la gente aprenda a convivir con las Ramas Revividas."
+        "en-US": "[Luna]\nOh! Then again, if they keep multiplying, perhaps people will learn to live alongside Revived Branches.",
+        "pt-BR": "[Kadu]\nAh! Pensando bem, se continuarem se multiplicando, talvez as pessoas aprendam a conviver com as Lenhas Vivas.",
+        "es-ES": "[Luna]\n¡Ah...! Aunque, si siguen multiplicándose, quizá la gente aprenda a convivir con las Ramas Revividas."
     },
     "d0sOBg": {
-        "en-US": "[Luna]\nWe'd welcome them as new members of society, and Geffen Tower would accept branches eager to study. I'd have new classmates! Wow, that actually sounds nice.",
-        "pt-BR": "[Kadu]\nNós as aceitaríamos como novos membros da sociedade, e a Torre de Geffen admitiria lenhas interessadas em estudar. Eu teria novos colegas! Uau, isso até parece legal.",
-        "es-ES": "[Luna]\nLas aceptaríamos como nuevos miembros de la sociedad, y la Torre de Geffen admitiría ramas con ganas de aprender. ¡Tendría nuevos compañeros! Vaya, eso suena bien."
+        "en-US": "[Luna]\nWe'd welcome them as new members of society, and Geffen Tower would accept branches eager to study. I'd have new classmates! Wow, that actually sounds nice!",
+        "pt-BR": "[Kadu]\nNós as aceitaríamos como novos membros da sociedade, e a Torre de Geffen admitiria lenhas interessadas em estudar. Eu teria novos colegas! Uau, até que não é uma má ideia!",
+        "es-ES": "[Luna]\nLas aceptaríamos como nuevos miembros de la sociedad, y la Torre de Geffen admitiría ramas con ganas de aprender. ¡Tendría nuevos compañeros! ¡Vaya, eso suena bien!"
     },
     "eEsOBg": {
-        "en-US": "[Luna]\nWait... what if the branches conquer Midgard and rule over us...? Ugh... no, that won't do. We should defeat them, right? Right?",
-        "pt-BR": "[Kadu]\nEspera... e se as lenhas conquistarem Midgard e dominarem todos nós...? Urgh... não, isso não pode acontecer. Devemos derrotá-las, certo? Certo?",
+        "en-US": "[Luna]\nBut wait... What if the branches conquer Midgard and rule over us? Ugh! No, that won't do. We should defeat them, right? Right?",
+        "pt-BR": "[Kadu]\nMas espera... E se as lenhas conquistarem Midgard e dominarem todos nós? Argh! Não, isso não pode acontecer. Devemos derrotá-las, certo? Certo?",
         "es-ES": "[Luna]\nUn momento... ¿y si las ramas conquistan Midgard y nos gobiernan...? Uf... no, eso no puede ser. Hay que derrotarlas, ¿verdad? ¿Verdad?"
     },
     "eUsOBg": {
         "en-US": "[Luna]\nBesides, with the firewood constantly coming to life, we'll run out of branches. We can't just leave things like this, can we?",
-        "pt-BR": "[Kadu]\nAlém disso, com a lenha ressuscitando sem parar, vamos ficar sem lenha para queimar. Não podemos deixar isso continuar, podemos?",
+        "pt-BR": "[Kadu]\nAlém disso, com a lenha ressuscitando sem parar, vamos ficar sem lenha para queimar. Não podemos continuar assim, podemos?",
         "es-ES": "[Luna]\nAdemás, si la leña sigue reviviendo, nos quedaremos sin ramas. No podemos dejar las cosas así, ¿verdad?"
     },
     "eksOBg": {
@@ -621,12 +621,12 @@
     },
     "fEsOBg": {
         "en-US": "[Luna]\nLana hasn't noticed the missing branches yet. And of course, she doesn't know they've come to life, either.",
-        "pt-BR": "[Kadu]\nLana ainda não percebeu que a lenha está diminuindo. E, claro, também não sabe que ela ressuscitou.",
+        "pt-BR": "[Kadu]\nLana ainda não percebeu que a lenha está diminuindo. E, claro, também não sabe que elas ganham vida.",
         "es-ES": "[Luna]\nLana todavía no ha notado que faltan ramas. Y, por supuesto, tampoco sabe que han vuelto a la vida."
     },
     "fUsOBg": {
         "en-US": "[Luna]\nSo could you defeat the Revived Branches and bring back some branches? Please? I'll reward you, of course. I do have some decency.",
-        "pt-BR": "[Kadu]\nEntão, poderia derrotar as Lenhas Vivas e trazer um pouco de lenha? Pode ser? Claro que vou recompensar você. Ainda tenho um pouco de decência.",
+        "pt-BR": "[Kadu]\nEntão, poderia derrotar as Lenhas Vivas e trazer um pouco de lenha? Hein? Claro que vou recompensar você. Ainda tenho um pouco de bom senso.",
         "es-ES": "[Luna]\n¿Podrías derrotar a las Ramas Revividas y traer algunas ramas? ¿Sí? Por supuesto, te recompensaré. Algo de decencia me queda."
     },
     "fksOBg": {
@@ -640,19 +640,19 @@
         "es-ES": "[Luna]\nSabrás hacerlo discretamente, sin que Lana se entere, ¿verdad? Cuento contigo."
     },
     "gEsOBg": {
-        "en-US": "[Luna]\nOh... ah... yes, of course you're busy.\nI'm sorry I stopped you and wasted your time.",
-        "pt-BR": "[Kadu]\nAh... é... claro, você está ocupado.\nDesculpe por parar você e tomar seu tempo.",
+        "en-US": "[Luna]\nOh... well... Yes, of course you're busy.\nI'm sorry I stopped you and wasted your time.",
+        "pt-BR": "[Kadu]\nAh... É... Claro, você está ocupado.\nDesculpe por parar você e tomar seu tempo.",
         "es-ES": "[Luna]\nAh... sí... claro, estás ocupado.\nPerdona por detenerte y hacerte perder el tiempo."
     },
     "gUsOBg": {
         "en-US": "[Luna]\nI won't keep you any longer. Go on your way.",
-        "pt-BR": "[Kadu]\nSiga seu caminho, viajante.",
+        "pt-BR": "[Kadu]\nNão vou te segurar aqui. Siga seu caminho, viajante.",
         "es-ES": "[Luna]\nNo te entretendré más. Sigue tu camino."
     },
     "gksOBg": {
-        "en-US": "[Luna]\nLet's see... wow! These branches look better than the ones we had. They'll burn well. Now I'll hide them in the pile as if they'd always been here...",
-        "pt-BR": "[Kadu]\nVamos ver... uau! Estas lenhas parecem melhores do que as que tínhamos. Vão queimar bem. Agora vou escondê-las na pilha como se sempre estivessem aqui...",
-        "es-ES": "[Luna]\nVeamos... ¡guau! Estas ramas parecen mejores que las que teníamos. Arderán bien. Ahora las esconderé en la pila como si siempre hubieran estado aquí..."
+        "en-US": "[Luna]\nLet's see... Wow! These branches look better than the ones we had. They'll burn well. Now I'll hide them in the pile as if they'd always been here...",
+        "pt-BR": "[Kadu]\nVamos ver... Uau! Estas lenhas parecem melhores do que as que tínhamos. Vão queimar bem. Agora vou escondê-las na pilha como se sempre tivessem estado aqui...",
+        "es-ES": "[Luna]\nVeamos... ¡Guau! Estas ramas parecen mejores que las que teníamos. Arderán bien. Ahora las esconderé en la pila como si siempre hubieran estado aquí..."
     },
     "g0sOBg": {
         "en-US": "[Luna]\nTa-da! No one will notice! At the rate you're defeating them, we should have things under control before the festival ends, however many revive. Better yet, maybe I'll find a way to stop it first...",
@@ -660,8 +660,8 @@
         "es-ES": "[Luna]\n¡Tachán! ¡Nadie lo notará! Al ritmo al que las derrotas, controlaremos la situación antes de que acabe el festival, por muchas que revivan. Y mejor aún si encuentro antes cómo impedirlo..."
     },
     "hEsOBg": {
-        "en-US": "[Luna]\nAnd... um...",
-        "pt-BR": "[Kadu]\nMas... é...",
+        "en-US": "[Luna]\nAnd... Hm...",
+        "pt-BR": "[Kadu]\nMas... É...",
         "es-ES": "[Luna]\nY... eh..."
     },
     "hUsOBg": {
@@ -670,14 +670,14 @@
         "es-ES": "Dime."
     },
     "hksOBg": {
-        "en-US": "[Luna]\nCould you help again tomorrow? I'm not usually this shameless. It's just the situation...",
-        "pt-BR": "[Kadu]\nPode ajudar de novo amanhã? Normalmente não sou tão cara de pau. É que a situação...",
+        "en-US": "[Luna]\nCould you help again tomorrow? I'm not usually this shameless. It's just that the situation...",
+        "pt-BR": "[Kadu]\nPode me ajudar de novo amanhã? Normalmente não sou tão cara de pau. É que a situação...",
         "es-ES": "[Luna]\n¿Podrías ayudarme otra vez mañana? No suelo abusar así de la gente. Es que la situación..."
     },
     "h0sOBg": {
-        "en-US": "[Luna]\nOh, right, your reward! Here's one ^4D4DFFHarvest Festival Raffle Ticket^000000~",
-        "pt-BR": "[Kadu]\nAh, é mesmo, sua recompensa! Aqui está um ^4D4DFFBilhete Outonal^000000~",
-        "es-ES": "[Luna]\n¡Ah, sí, tu recompensa! Aquí tienes un ^4D4DFFBoleto del Sorteo de la Cosecha^000000."
+        "en-US": "[Luna]\nOh, right, your reward! Here's one ^4D4DFFAutumnal Ticket^000000.",
+        "pt-BR": "[Kadu]\nAh, é mesmo, sua recompensa! Aqui está um ^4D4DFFBilhete Outonal^000000.",
+        "es-ES": "[Luna]\n¡Ah, sí, tu recompensa! Aquí tienes un ^4D4DFFBoleto Otoñal^000000."
     },
     "iEsOBg": {
         "en-US": "[Luna]\nTake it to <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> to receive a Harvest Festival gift.",
@@ -687,26 +687,26 @@
     "iUsOBg": {
         "en-US": "[Luna]\nWhere are the Quality Branches? Don't you have them? Did you forget? Did you lose them?",
         "pt-BR": "[Kadu]\nCadê as Lenhas de Qualidade? Não trouxe? Esqueceu? Perdeu?",
-        "es-ES": "[Luna]\n¿Dónde están las Ramas de Calidad? ¿No las tienes? ¿Las olvidaste? ¿Las perdiste?"
+        "es-ES": "[Luna]\n¿Dónde están las Leñas de Calidad? ¿No las tienes? ¿Las olvidaste? ¿Las perdiste?"
     },
     "iksOBg": {
-        "en-US": "[Luna]\nOh, that's a real problem... the branches are still disappearing, so we have to replace them quickly.",
-        "pt-BR": "[Kadu]\nAh, isso é um problemão... a lenha continua sumindo, então precisamos repor tudo logo.",
-        "es-ES": "[Luna]\nAh, eso es un problema... las ramas siguen desapareciendo, así que debemos reponerlas cuanto antes."
+        "en-US": "[Luna]\nOh, that's a real problem... The branches are still disappearing, so we have to replace them quickly.",
+        "pt-BR": "[Kadu]\nAh, isso é um problemão... A lenha continua sumindo, então precisamos repor tudo logo.",
+        "es-ES": "[Luna]\nAh, eso es un problema... Las ramas siguen desapareciendo, así que debemos reponerlas cuanto antes."
     },
     "i0sOBg": {
         "en-US": "[Luna]\nOh no... please bring ^0000CD10 Quality Branches^000000. And defeat some ^0000CDRevived Branches^000000, too. About ^0000CD10^000000 of them.",
-        "pt-BR": "[Kadu]\nAh, não... por favor, traga ^0000CD10 Lenhas de Qualidade^000000. E derrote algumas ^0000CDLenhas Vivas^000000 também. Cerca de ^0000CD10^000000.",
-        "es-ES": "[Luna]\nAy, no... trae ^0000CD10 Ramas de Calidad^000000, por favor. Y derrota también a unas ^0000CDRamas Revividas^000000. Unas ^0000CD10^000000."
+        "pt-BR": "[Kadu]\nAh, não... por favor, traga ^0000CD10 Lenhas de Qualidade^000000. E derrote algumas ^0000CDLenhas Vivas^000000 também. Umas ^0000CD10^000000 delas.",
+        "es-ES": "[Luna]\nAy, no... trae ^0000CD10 Leñas de Calidad^000000, por favor. Y derrota también a unas ^0000CDRamas Revividas^000000. Unas ^0000CD10^000000."
     },
     "jEsOBg": {
-        "en-US": "[Luna]\nWhat about the Revived Branches? You need to defeat them... even now, the firewood is coming to life and wandering off!",
-        "pt-BR": "[Kadu]\nE as Lenhas Vivas? Você precisa derrotá-las... a lenha continua ressuscitando e saindo por aí!",
-        "es-ES": "[Luna]\n¿Y las Ramas Revividas? Tienes que derrotarlas... ¡Incluso ahora, la leña sigue reviviendo y escapando!"
+        "en-US": "[Luna]\nWhat about the Revived Branches? You need to defeat them! Even now, the firewood is coming to life and wandering off!",
+        "pt-BR": "[Kadu]\nE as Lenhas Vivas? Você precisa derrotá-las! A lenha continua ganhando vida e saindo por aí!",
+        "es-ES": "[Luna]\n¿Y las Ramas Revividas? ¡Tienes que derrotarlas! ¡Incluso ahora, las ramas siguen reviviendo y escapando!"
     },
     "jUsOBg": {
         "en-US": "[Luna]\nIf we don't defeat them soon, Midgard will be in danger! You don't want revived trees ruling over you, do you? Then hurry and defeat them!",
-        "pt-BR": "[Kadu]\nSe não as derrotarmos logo, Midgard estará em perigo! Você não quer viver sob o domínio de árvores ressuscitadas, quer? Então corra e derrote-as!",
+        "pt-BR": "[Kadu]\nSe não as derrotarmos logo, Midgard estará em perigo! Você não quer viver sob o domínio de árvores ressuscitadas, quer? Então anda!",
         "es-ES": "[Luna]\n¡Si no las derrotamos pronto, Midgard estará en peligro! No querrás vivir bajo el dominio de árboles revividos, ¿verdad? ¡Entonces date prisa!"
     },
     "jksOBg": {
@@ -716,8 +716,8 @@
     },
     "j0sOBg": {
         "en-US": "[Luna]\nAdventurer!!! Thank goodness you're here!!! More revived and escaped overnight. And now they're going to count the remaining firewood! I'm doomed!",
-        "pt-BR": "[Kadu]\nAventureiro!!! Ainda bem que veio!!! Mais lenhas ressuscitaram e fugiram durante a noite. E agora vão contar a lenha restante! Estou perdido!",
-        "es-ES": "[Luna]\n¡¡¡Aventurero!!! ¡¡¡Menos mal que viniste!!! Anoche revivieron y escaparon más. ¡Y ahora van a contar la leña que queda! ¡Estoy perdido!"
+        "pt-BR": "[Kadu]\nViajante!!! Ainda bem que você veio!!! Mais lenhas ganharam vida e fugiram à noite. E agora vão contar a lenha restante! Estou ferrado!",
+        "es-ES": "[Luna]\n¡¡¡Trotamundos!!! ¡¡¡Menos mal que viniste!!! Anoche revivieron y escaparon más. ¡Y ahora van a contar la leña que queda! ¡Estoy perdido!"
     },
     "kEsOBg": {
         "en-US": "I'll help!",
@@ -730,13 +730,13 @@
         "es-ES": "Hoy no puedo."
     },
     "kksOBg": {
-        "en-US": "[Luna]\nPlease ^0000CDdefeat about 10 Revived Branches^000000 and bring ^0000CD10 Quality Branches^000000 again today. My reputation and my life are in your hands!",
-        "pt-BR": "[Kadu]\nHoje também, ^0000CDderrote cerca de 10 Lenhas Vivas^000000 e traga ^0000CD10 Lenhas de Qualidade^000000. Minha reputação e minha vida estão nas suas mãos!",
-        "es-ES": "[Luna]\nHoy también, ^0000CDderrota unas 10 Ramas Revividas^000000 y trae ^0000CD10 Ramas de Calidad^000000. ¡Mi reputación y mi vida están en tus manos!"
+        "en-US": "[Luna]\nPlease ^0000CDdefeat about 10 Revived Branches^000000 and ^0000CDbring 10 Quality Branches^000000 again today. My reputation and my life are in your hands!",
+        "pt-BR": "[Kadu]\nHoje também, ^0000CDderrote cerca de 10 Lenhas Vivas^000000 e ^0000CDtraga 10 Lenhas de Qualidade^000000. Minha reputação e vida estão nas suas mãos!",
+        "es-ES": "[Luna]\nHoy también, ^0000CDderrota unas 10 Ramas Revividas^000000 y ^0000CDtrae 10 Ramas de Calidad^000000. ¡Mi reputación y mi vida están en tus manos!"
     },
     "k0sOBg": {
-        "en-US": "[Luna]\nOf course... sigh... I understand.",
-        "pt-BR": "[Kadu]\nClaro... ah... entendo.",
+        "en-US": "[Luna]\nOf course... Ugh... I understand.",
+        "pt-BR": "[Kadu]\nClaro... Ah... Entendo.",
         "es-ES": "[Luna]\nClaro... uf... lo entiendo."
     },
     "lEsOBg": {
@@ -776,18 +776,18 @@
     },
     "m0sOBg": {
         "en-US": "[Serena]\nHello! Are you here for the Harvest Festival? You look like an experienced adventurer. Am I right?",
-        "pt-BR": "[Serena]\nOlá! Veio aproveitar o Festival da Colheita? Parece um aventureiro experiente. Estou certa?",
+        "pt-BR": "[Serena]\nOlá! Veio aproveitar o Festival da Colheita? Você parece um aventureiro experiente. Estou certa?",
         "es-ES": "[Serena]\n¡Hola! ¿Viniste al Festival de la Cosecha? Pareces un aventurero experimentado. ¿Me equivoco?"
     },
     "nEsOBg": {
         "en-US": "Well... I am an adventurer.",
-        "pt-BR": "Bom... sou aventureiro, sim.",
+        "pt-BR": "Bom... Sou aventureiro, sim.",
         "es-ES": "Bueno... aventurero sí que soy."
     },
     "nUsOBg": {
-        "en-US": "[Serena]\nAt this time of year, while everyone shares the harvest, hungry wild boars come down to people's homes looking for food. You've heard of that, right?",
-        "pt-BR": "[Serena]\nNesta época, enquanto todos compartilham a colheita, Selvagens famintos se aproximam das casas em busca de comida. Já ouviu falar disso, não é?",
-        "es-ES": "[Serena]\nEn esta época, mientras todos comparten la cosecha, los jabalíes hambrientos se acercan a las casas buscando comida. Has oído hablar de eso, ¿verdad?"
+        "en-US": "[Serena]\nAt this time of year, while everyone shares the harvest, Hungry Savages come down to people's homes looking for food. You've heard of that, right?",
+        "pt-BR": "[Serena]\nNessa época, enquanto todos compartilham a colheita, Selvagens Famintos se aproximam das casas em busca de comida. Já ouviu falar disso, não?",
+        "es-ES": "[Serena]\nEn esta época, mientras todos comparten la cosecha, los Salvajes Hambrientos se acercan a las casas buscando comida. Has oído hablar de eso, ¿verdad?"
     },
     "nksOBg": {
         "en-US": "[Serena]\nThey damage growing crops and eat harvested produce, so people go out to hunt them every year around this time.",
@@ -805,14 +805,14 @@
         "es-ES": "[Serena]\nPor eso, el comité del Festival de la Cosecha de Alberta deja comida en sus rutas habituales para evitar daños. Todos salen ganando."
     },
     "oUsOBg": {
-        "en-US": "[Serena]\nBut that doesn't help with the boars already in residential areas. Hunting them would go against our purpose.",
+        "en-US": "[Serena]\nBut that doesn't help with the ones that are already in residential areas. Hunting them would go against our purpose.",
         "pt-BR": "[Serena]\nMas isso não resolve o caso dos que já chegaram às casas. Caçá-los iria contra nosso propósito.",
         "es-ES": "[Serena]\nPero eso no resuelve el problema de los que ya han llegado a las casas. Cazarlos iría contra nuestro propósito."
     },
     "oksOBg": {
-        "en-US": "[Serena]\nSo we capture the lost, hungry boars and send them back home.",
-        "pt-BR": "[Serena]\nEntão capturamos os Selvagens famintos que se perderam e os levamos de volta para casa.",
-        "es-ES": "[Serena]\nAsí que capturamos a los jabalíes hambrientos que se han perdido y los devolvemos a su hogar."
+        "en-US": "[Serena]\nSo we capture the lost, Hungry Savages and send them back home.",
+        "pt-BR": "[Serena]\nEntão capturamos os Selvagens Famintos que se perderam e os levamos de volta para casa.",
+        "es-ES": "[Serena]\nAsí que capturamos a los Salvajes Hambrientos que se han perdido y los devolvemos a su hogar."
     },
     "o0sOBg": {
         "en-US": "[Serena]\nWe encourage both monster-catching enthusiasts and festival visitors to spare some time to help. Of course, we reward them for their effort.",
@@ -840,14 +840,14 @@
         "es-ES": "[Serena]\n¡Excelente decisión!"
     },
     "qEsOBg": {
-        "en-US": "[Serena]\nI'll ^0000CDlend you a special trap^000000 to ^0000CDcapture Hungry Boars^000000. It's completely safe and won't hurt them.",
-        "pt-BR": "[Serena]\nVou ^0000CDemprestar uma Armadilha de Selvagem^000000 para ^0000CDcapturar Selvagens Famintos^000000. É muito segura e não machuca os animais.",
-        "es-ES": "[Serena]\nTe ^0000CDprestaré una trampa especial^000000 para ^0000CDcapturar Jabalíes Hambrientos^000000. Es muy segura y no les hará daño."
+        "en-US": "[Serena]\nI'll ^0000CDlend you a special Trap^000000 to ^0000CDcapture Hungry Savages^000000. It's completely safe and won't hurt them.",
+        "pt-BR": "[Serena]\nVou te ^0000CDemprestar uma Armadilha especial^000000 para ^0000CDcapturar Selvagens Famintos^000000. É muito segura e não vai machucá-los.",
+        "es-ES": "[Serena]\nTe ^0000CDprestaré una Trampa especial^000000 para ^0000CDcapturar Salvajes Hambrientos^000000. Es muy segura y no les hará daño."
     },
     "qUsOBg": {
-        "en-US": "[Serena]\nPlease ^0000CDcapture at least 10 Hungry Boars^000000 and bring them here. I'll take all the boars you've captured. Thank you!",
+        "en-US": "[Serena]\nPlease ^0000CDcapture at least 10 Hungry Savages^000000 and bring them here. I'll take the ones you capture. Thank you!",
         "pt-BR": "[Serena]\nPor favor, ^0000CDcapture pelo menos 10 Selvagens Famintos^000000 e traga-os aqui. Vou recolher todos os que você capturar. Obrigada!",
-        "es-ES": "[Serena]\nPor favor, ^0000CDcaptura al menos 10 Jabalíes Hambrientos^000000 y tráelos. Recogeré todos los que captures. ¡Gracias!"
+        "es-ES": "[Serena]\nPor favor, ^0000CDcaptura al menos 10 Salvajes Hambrientos^000000 y tráelos. Recogeré todos los que captures. ¡Gracias!"
     },
     "qksOBg": {
         "en-US": "[Serena]\nI see. Come back when you have some free time. I'm sure you'll enjoy it!",
@@ -855,9 +855,9 @@
         "es-ES": "[Serena]\nEntiendo. Vuelve cuando tengas un rato libre. ¡Seguro que lo disfrutarás!"
     },
     "q0sOBg": {
-        "en-US": "[Serena]\nAdventurer, have you captured all the boars?",
+        "en-US": "[Serena]\nAdventurer, have you captured all the Savages?",
         "pt-BR": "[Serena]\nAventureiro, já capturou todos os Selvagens?",
-        "es-ES": "[Serena]\nAventurero, ¿ya capturaste todos los jabalíes?"
+        "es-ES": "[Serena]\nAventurero, ¿ya capturaste todos los Salvajes?"
     },
     "rEsOBg": {
         "en-US": "[Serena]\nOne... two... No one has ever brought them back so quickly! You're remarkably skilled. I'd love to recruit you!",
@@ -865,34 +865,34 @@
         "es-ES": "[Serena]\nUno... dos... ¡Nadie los había traído tan rápido! Tienes un talento extraordinario. ¡Hasta quisiera contratarte!"
     },
     "rUsOBg": {
-        "en-US": "[Serena]\nHere's your promised reward: a ^4D4DFFHarvest Festival Raffle Ticket^000000. Take it to <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> to exchange it for a prize.",
+        "en-US": "[Serena]\nHere's your promised reward: a ^4D4DFFAutumnal Ticket^000000. Take it to <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> to exchange it for a prize.",
         "pt-BR": "[Serena]\nAqui está a recompensa prometida: um ^4D4DFFBilhete Outonal^000000. Leve-o a <NAVI>[Rafael]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> para trocar por um prêmio.",
-        "es-ES": "[Serena]\nAquí está la recompensa prometida: un ^4D4DFFBoleto del Sorteo de la Cosecha^000000. Llévaselo a <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> para cambiarlo por un premio."
+        "es-ES": "[Serena]\nAquí está la recompensa prometida: un ^4D4DFFBoleto Otoñal^000000. Llévaselo a <NAVI>[Gale]<INFO>alberta.gat,141,188,0,101,0</INFO></NAVI> para cambiarlo por un premio."
     },
     "rksOBg": {
         "en-US": "[Serena]\nThe other is an ^4D4DFFAnywhere Ticket^000000. Show it to the <NAVI>[Speedboat Captain]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> for a free trip to the local region of your choice.",
-        "pt-BR": "[Serena]\nO outro é um ^4D4DFFVale-Viagem^000000. Mostre-o ao <NAVI>[Barqueiro]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar de graça à região local que desejar.",
-        "es-ES": "[Serena]\nEl otro es un ^4D4DFFBoleto a Cualquier Destino^000000. Muéstraselo al <NAVI>[Capitán de Lancha]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar gratis a la región local que quieras."
+        "pt-BR": "[Serena]\nO outro é um ^4D4DFFVale-Viagem^000000. Mostre-o ao <NAVI>[Barqueiro]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar de graça à região que desejar.",
+        "es-ES": "[Serena]\nEl otro es un ^4D4DFFVale de Viaje^000000. Muéstraselo al <NAVI>[Capitán de Lancha]<INFO>alberta.gat,140,170,0,101,0</INFO></NAVI> para viajar gratis a la región que quieras."
     },
     "r0sOBg": {
-        "en-US": "[Serena]\nI'll collect the trap and all the captured boars. Rest for today. Can I count on you again tomorrow?",
+        "en-US": "[Serena]\nI'll collect the trap and all the captured Savages. Rest for today. Can I count on you again tomorrow?",
         "pt-BR": "[Serena]\nVou recolher a armadilha e todos os Selvagens capturados. Descanse por hoje. Posso contar com você amanhã também?",
-        "es-ES": "[Serena]\nRecogeré la trampa y todos los jabalíes capturados. Descansa por hoy. ¿Puedo contar contigo mañana también?"
+        "es-ES": "[Serena]\nRecogeré la trampa y todos los Salvajes capturados. Descansa por hoy. ¿Puedo contar contigo mañana también?"
     },
     "sEsOBg": {
-        "en-US": "[Serena]\nHmm... you're a few short. Please ^0000CDcapture 10 Hungry Boars^000000 and bring them here.",
-        "pt-BR": "[Serena]\nHum... ainda faltam alguns. Por favor, ^0000CDcapture 10 Selvagens Famintos^000000 e traga-os aqui.",
-        "es-ES": "[Serena]\nMmm... faltan unos cuantos. ^0000CDCaptura 10 Jabalíes Hambrientos^000000 y tráelos, por favor."
+        "en-US": "[Serena]\nHmm... You're a few short. Please ^0000CDcapture 10 Hungry Savages^000000 and bring them here.",
+        "pt-BR": "[Serena]\nHm... Ainda faltam alguns. Por favor, ^0000CDcapture 10 Selvagens Famintos^000000 e traga-os aqui.",
+        "es-ES": "[Serena]\nMmm... Faltan unos cuantos. ^0000CDCaptura 10 Salvajes Hambrientos^000000 y tráelos, por favor."
     },
     "sUsOBg": {
-        "en-US": "[Serena]\nHello! Lovely weather again, isn't it? Boars are even livelier on days like this. Will you bring some back today?",
-        "pt-BR": "[Serena]\nOlá! O tempo está bom de novo, não é? Em dias assim, os Selvagens ficam ainda mais ativos. Vai trazer alguns hoje?",
-        "es-ES": "[Serena]\n¡Hola! Hoy también hace buen tiempo, ¿verdad? En días así los jabalíes están más activos. ¿Traerás algunos hoy?"
+        "en-US": "[Serena]\nHello! Lovely weather again, isn't it? The Savages are even livelier on days like this. Will you hunt some and bring them to me today?",
+        "pt-BR": "[Serena]\nOlá! O tempo está bom de novo, né? Em dias assim, os Selvagens ficam ainda mais ativos. Vai caçar e me trazer alguns hoje?",
+        "es-ES": "[Serena]\n¡Hola! Hoy también hace buen tiempo, ¿verdad? En días así los Salvajes están más activos. ¿Vas a cazar y traerme algunos hoy?"
     },
     "sksOBg": {
-        "en-US": "I'll bring some today, too.",
-        "pt-BR": "Vou trazer alguns hoje também.",
-        "es-ES": "Hoy también traeré algunos."
+        "en-US": "I'll hunt some today, too.",
+        "pt-BR": "Vou caçar alguns hoje também.",
+        "es-ES": "Hoy también cazaré algunos."
     },
     "s0sOBg": {
         "en-US": "I'll enjoy the festival today.",
@@ -900,22 +900,22 @@
         "es-ES": "Hoy disfrutaré del festival."
     },
     "tEsOBg": {
-        "en-US": "[Serena]\nI'll ^0000CDlend you a special trap^000000 to ^0000CDcapture Hungry Boars^000000. It's completely safe and won't hurt them.",
-        "pt-BR": "[Serena]\nVou ^0000CDemprestar uma Armadilha de Selvagem^000000 para ^0000CDcapturar Selvagens Famintos^000000. É muito segura e não machuca os animais.",
-        "es-ES": "[Serena]\nTe ^0000CDprestaré una trampa especial^000000 para ^0000CDcapturar Jabalíes Hambrientos^000000. Es muy segura y no les hará daño."
+        "en-US": "[Serena]\nI'll ^0000CDlend you a special trap^000000 to ^0000CDcapture Hungry Savages^000000. It's completely safe and won't hurt them.",
+        "pt-BR": "[Serena]\nVou te ^0000CDemprestar uma Armadilha especial^000000 para ^0000CDcapturar Selvagens Famintos^000000. É muito segura e não vai machucá-los.",
+        "es-ES": "[Serena]\nTe ^0000CDprestaré una trampa especial^000000 para ^0000CDcapturar Salvajes Hambrientos^000000. Es muy segura y no les hará daño."
     },
     "tUsOBg": {
-        "en-US": "[Serena]\nPlease ^0000CDcapture about 10 Hungry Boars^000000 and bring them here. Thanks again for your help today!",
+        "en-US": "[Serena]\nPlease ^0000CDcapture about 10 Hungry Savages^000000 and bring them here. Thanks again for your help today!",
         "pt-BR": "[Serena]\nPor favor, ^0000CDcapture cerca de 10 Selvagens Famintos^000000 e traga-os aqui. Obrigada por ajudar hoje também!",
-        "es-ES": "[Serena]\nPor favor, ^0000CDcaptura unos 10 Jabalíes Hambrientos^000000 y tráelos. ¡Gracias por ayudar hoy también!"
+        "es-ES": "[Serena]\nPor favor, ^0000CDcaptura unos 10 Salvajes Hambrientos^000000 y tráelos. ¡Gracias por ayudar hoy también!"
     },
     "tksOBg": {
         "en-US": "[Serena]\nYou need a break? Of course. I'll see you another time. Enjoy the Harvest Festival!",
         "pt-BR": "[Serena]\nPrecisa descansar? Claro. Até a próxima. Aproveite o Festival da Colheita!",
-        "es-ES": "[Serena]\n¿Necesitas descansar? Claro. Nos veremos en otro momento. ¡Disfruta del Festival de la Cosecha!"
+        "es-ES": "[Serena]\n¿Necesitas descansar? Claro. Nos vemos luego. ¡Disfruta del Festival de la Cosecha!"
     },
     "t0sOBg": {
-        "en-US": "[Serena]\nHello! You're here early. Could you wait a little longer? I need to service the boar traps. Please come back after dawn. Sorry!",
+        "en-US": "[Serena]\nHello! You're here early. Could you wait a little longer? I need to service the traps. Please come back after dawn. Sorry!",
         "pt-BR": "[Serena]\nOlá! Você chegou cedo. Pode esperar um pouco mais? Preciso fazer a manutenção das armadilhas. Volte depois da madrugada. Desculpe!",
         "es-ES": "[Serena]\n¡Hola! Llegaste temprano. ¿Puedes esperar un poco más? Tengo que revisar las trampas. Vuelve cuando pase la madrugada. ¡Lo siento!"
     },
@@ -931,17 +931,17 @@
     },
     "uksOBg": {
         "en-US": "Care for a taste of home cooking?",
-        "pt-BR": "Quer provar uma comida da nossa terra?",
+        "pt-BR": "Quer provar uma comida típica nossa?",
         "es-ES": "¿Quieres probar comida de nuestra tierra?"
     },
     "u0sOBg": {
         "en-US": "[Songhwa]\nAren't you tired? That looks like a heavy load. Why not leave some of it behind?",
-        "pt-BR": "[Songhwa]\nNão está cansado? Essa carga parece pesada. Que tal deixar algumas coisas para trás?",
+        "pt-BR": "[Songhwa]\nNão se cansou? Essa carga parece pesada. Que tal deixar algumas coisas para trás?",
         "es-ES": "[Songhwa]\n¿No te cansas? Llevas una carga muy pesada. ¿Por qué no dejas algunas cosas?"
     },
     "vEsOBg": {
         "en-US": "[Songhwa]\nYou look like a visitor. Did you come to Alberta for the Harvest Festival? Did you join the bonfire ceremony?",
-        "pt-BR": "[Songhwa]\nParece que está visitando a cidade. Veio a Alberta pelo Festival da Colheita? Participou da cerimônia da fogueira?",
+        "pt-BR": "[Songhwa]\nVocê parece ser turista. Veio a Alberta pelo Festival da Colheita? Participou da cerimônia da fogueira?",
         "es-ES": "[Songhwa]\nPareces turista. ¿Viniste a Alberta por el Festival de la Cosecha? ¿Participaste en la ceremonia de la hoguera?"
     },
     "vUsOBg": {
@@ -955,13 +955,13 @@
         "es-ES": "[Songhwa]\nHay mucha gente, ¿verdad? Unos embarcan para pasar las fiestas con su familia, otros regresan aquí y otros se quedan, como nosotros."
     },
     "v0sOBg": {
-        "en-US": "[Songhwa]\nSome were born here, but many can't go home for one reason or another. We gather to ease the loneliness, cooking and sharing dishes from our hometowns. Food tastes better when shared~",
-        "pt-BR": "[Songhwa]\nAlguns são daqui, mas muitos não podem voltar para sua terra natal. Nós nos reunimos para aliviar a solidão, preparando e compartilhando pratos de nossas cidades. Comida compartilhada é mais gostosa~",
+        "en-US": "[Songhwa]\nSome were born here, but many can't go home for one reason or another. We gather to ease the loneliness, cooking and sharing dishes from our hometowns. Food tastes better when shared.",
+        "pt-BR": "[Songhwa]\nAlguns são daqui, mas muitos não podem voltar para sua terra natal. Nós nos reunimos para aliviar a solidão, preparando e compartilhando pratos de nossas cidades. Comida compartilhada é sempre mais gostosa.",
         "es-ES": "[Songhwa]\nAlgunos son de aquí, pero muchos no pueden volver a su tierra. Nos reunimos para aliviar la soledad, cocinando y compartiendo platos de nuestros hogares. ¡La comida sabe mejor compartida!"
     },
     "wEsOBg": {
         "en-US": "[Songhwa]\nWe've made some hometown dishes again this year. Want a taste?",
-        "pt-BR": "[Songhwa]\nEste ano também preparamos pratos da nossa terra. Quer provar?",
+        "pt-BR": "[Songhwa]\nEste ano também preparamos pratos típicos de onde viemos. Quer provar?",
         "es-ES": "[Songhwa]\nEste año también preparamos platos de nuestra tierra. ¿Quieres probarlos?"
     },
     "wUsOBg": {
@@ -980,9 +980,9 @@
         "es-ES": "[Songhwa]\n¿Por qué no?"
     },
     "xEsOBg": {
-        "en-US": "[Mr. Kim]\nWe're out of songpyeon! Songpyeon!",
-        "pt-BR": "[Sr. Kim]\nAcabou o songpyeon! O songpyeon!",
-        "es-ES": "[Señor Kim]\n¡No quedan songpyeon! ¡Songpyeon!"
+        "en-US": "[Mr. Kim]\nWe're out of Songpyeon Rice Cake!",
+        "pt-BR": "[Sr. Kim]\nAcabou o Bolinho Songpyeon!",
+        "es-ES": "[Señor Kim]\n¡No quedan Pasteles Songpyeon!"
     },
     "xUsOBg": {
         "en-US": "[Songhwa]\nWhat? Then make some more!",
@@ -990,14 +990,14 @@
         "es-ES": "[Songhwa]\n¿Qué? ¡Pues prepara más!"
     },
     "xksOBg": {
-        "en-US": "[Mr. Kim]\nHow can I make songpyeon without ingredients? We're out of Grain, Honey, and Green Herbs. Should I make it out of thin air?",
-        "pt-BR": "[Sr. Kim]\nComo vou fazer songpyeon sem ingredientes? Não temos Sacola de Grãos, Mel nem Ervas Verdes. Quer que eu faça com ar?",
-        "es-ES": "[Señor Kim]\n¿Cómo voy a preparar songpyeon sin ingredientes? No quedan Granos, Miel ni Hierbas Verdes. ¿Quieres que los haga con aire?"
+        "en-US": "[Mr. Kim]\nHow can I make Songpyeon without ingredients? We're out of Grain, Honey, and Green Herbs. Should I make it out of thin air?",
+        "pt-BR": "[Sr. Kim]\nComo vou fazer Songpyeon sem ingredientes? Não temos Sacola de Grãos, Mel nem Ervas Verdes. Quer que eu faça com ar?",
+        "es-ES": "[Señor Kim]\n¿Cómo voy a preparar Songpyeon sin ingredientes? No quedan Granos, Miel ni Hierbas Verdes. ¿Quieres que los haga con aire?"
     },
     "x0sOBg": {
-        "en-US": "How can I make songpyeon without ingredients?",
-        "pt-BR": "Como vou fazer songpyeon sem ingredientes?",
-        "es-ES": "¿Cómo voy a preparar songpyeon sin ingredientes?"
+        "en-US": "How can I make Songpyeon Rice Cake without ingredients?",
+        "pt-BR": "Como vou fazer Bolinho Songpyeon sem ingredientes?",
+        "es-ES": "¿Cómo voy a preparar el Pastel Songpyeon sin ingredientes?"
     },
     "yEsOBg": {
         "en-US": "[Songhwa]\nHow are we short of so much? You should have stocked up!",
@@ -1005,13 +1005,13 @@
         "es-ES": "[Songhwa]\n¿Cómo pueden faltar tantas cosas? ¡Debiste prepararlas con antelación!"
     },
     "yUsOBg": {
-        "en-US": "[Mr. Kim]\nSo many people have come from out of town to taste our hometown cooking!",
-        "pt-BR": "[Sr. Kim]\nÉ que veio muita gente de fora para provar a comida da nossa terra!",
-        "es-ES": "[Señor Kim]\n¡Ha venido mucha gente de fuera para probar la comida de nuestra tierra!"
+        "en-US": "[Mr. Kim]\nSo many people have come from out of town to taste our traditional food!",
+        "pt-BR": "[Sr. Kim]\nÉ que veio muita gente de fora para provar as nossas comidas típicas!",
+        "es-ES": "[Señor Kim]\n¡Ha venido mucha gente de fuera para probar nuestras comidas típicas!"
     },
     "yksOBg": {
         "en-US": "[Songhwa]\nYou heard that, didn't you? What a shame. I'm sorry you can't have a taste.",
-        "pt-BR": "[Songhwa]\nOuviu, não foi? Que pena. Sinto muito por não poder oferecer uma prova.",
+        "pt-BR": "[Songhwa]\nOuviu, não foi? Que pena. Sinto muito por não poder te oferecer uma prova.",
         "es-ES": "[Songhwa]\nYa lo oíste, ¿verdad? Qué pena. Lamento que no puedas probarla."
     },
     "y0sOBg": {
@@ -1021,7 +1021,7 @@
     },
     "zEsOBg": {
         "en-US": "[Songhwa]\nI know! Why don't you gather the ingredients yourself? Think of it as part of the festival and enjoy the outing!",
-        "pt-BR": "[Songhwa]\nJá sei! Que tal buscar os ingredientes? Pense nisso como parte do festival e aproveite o passeio!",
+        "pt-BR": "[Songhwa]\nJá sei! Que tal você ir buscar os ingredientes? Pense nisso como parte do festival e aproveite o passeio!",
         "es-ES": "[Songhwa]\n¡Ya sé! ¿Por qué no consigues tú los ingredientes? ¡Piensa que también forma parte del festival y disfruta del paseo!"
     },
     "zUsOBg": {
@@ -1030,9 +1030,9 @@
         "es-ES": "¡Sí, lo haré!"
     },
     "zksOBg": {
-        "en-US": "[Songhwa]\nI like your spirit! Bring ^0000CD1 Grain, 3 Honey, and 10 Green Herbs^000000, would you? I'll prepare the other dishes meanwhile.",
-        "pt-BR": "[Songhwa]\nGosto desse entusiasmo! Traga ^0000CD1 Sacola de Grãos, 3 unidades de Mel e 10 Ervas Verdes^000000, pode ser? Enquanto isso, preparo os outros pratos.",
-        "es-ES": "[Songhwa]\n¡Me gusta tu entusiasmo! Trae ^0000CD1 Grano, 3 Mieles y 10 Hierbas Verdes^000000, ¿sí? Mientras tanto prepararé los demás platos."
+        "en-US": "[Songhwa]\nI like your spirit! Bring ^0000CD1 Grains, 3 Honey, and 10 Green Herb^000000, would you? I'll prepare the other dishes meanwhile.",
+        "pt-BR": "[Songhwa]\nGosto desse entusiasmo! Traga ^0000CD1 Sacola de Grãos, 3 Mel e 10 Erva Verde^000000, pode ser? Enquanto isso, preparo os outros pratos.",
+        "es-ES": "[Songhwa]\n¡Me gusta tu entusiasmo! Trae ^0000CD1 Granos, 3 Miel y 10 Hierba Verde^000000, ¿sí? Mientras tanto prepararé los demás platos."
     },
     "z0sOBg": {
         "en-US": "[Eunwol]\nNot right now!",
@@ -1045,19 +1045,19 @@
         "es-ES": "¡Ahora no!"
     },
     "0UsOBg": {
-        "en-US": "[Eunwol]\nWe're running short of mooncakes!",
-        "pt-BR": "[Eunwol]\nEstamos ficando sem bolinhos da lua!",
-        "es-ES": "[Eunwol]\n¡Nos faltan pasteles de luna!"
+        "en-US": "[Eunwol]\nWe're running short of Hazy Mooncakes!",
+        "pt-BR": "[Eunwol]\nEstamos ficando sem Bolinhos de Lua!",
+        "es-ES": "[Eunwol]\n¡Nos falta Pastel Lunar Brumoso!"
     },
     "0ksOBg": {
         "en-US": "[Eunwol]\nI told you earlier! We're short of mooncake ingredients! Yellow Spice and Wooden Blocks!",
-        "pt-BR": "[Eunwol]\nEu já falei! Faltam ingredientes para os bolinhos da lua! Condimento Amarelo e Troncos!",
+        "pt-BR": "[Eunwol]\nEu já falei! Faltam ingredientes para os Bolinhos de Lua! Condimento Amarelo e Tronco Especial!",
         "es-ES": "[Eunwol]\n¡Ya lo dije antes! ¡Faltan ingredientes para los pasteles de luna! ¡Especias Amarillas y Trozos de Madera!"
     },
     "00sOBg": {
-        "en-US": "We're short of mooncake ingredients!",
-        "pt-BR": "Faltam ingredientes para os bolinhos da lua!",
-        "es-ES": "¡Faltan ingredientes para los pasteles de luna!"
+        "en-US": "We're short of Hazy Mooncake ingredients!",
+        "pt-BR": "Faltam ingredientes para os Bolinhos de Lua!",
+        "es-ES": "¡Faltan ingredientes para los Pasteles Lunares Brumosos!"
     },
     "1EsOBg": {
         "en-US": "[Songhwa]\nYou should have prepared them in advance!",
@@ -1071,13 +1071,13 @@
     },
     "1ksOBg": {
         "en-US": "[Songhwa]\nSigh... that's how it is, then. What a shame you can't try any.",
-        "pt-BR": "[Songhwa]\nAh... então é isso. Que pena não poder oferecer uma prova.",
+        "pt-BR": "[Songhwa]\nAh... então é isso. Que pena não poder te oferecer uma prova.",
         "es-ES": "[Songhwa]\nUf... así están las cosas. Qué pena que no puedas probarlos."
     },
     "10sOBg": {
-        "en-US": "[Songhwa]\nI like your spirit! Bring ^0000CD1 Yellow Spice and 3 Wooden Blocks^000000, would you? I'll prepare the other dishes meanwhile.",
+        "en-US": "[Songhwa]\nI like your spirit! Bring ^0000CD1 Yellow Spice and 3 Trunks^000000, would you? I'll prepare the other dishes meanwhile.",
         "pt-BR": "[Songhwa]\nGosto desse entusiasmo! Traga ^0000CD1 Condimento Amarelo e 3 Troncos^000000, pode ser? Enquanto isso, preparo os outros pratos.",
-        "es-ES": "[Songhwa]\n¡Me gusta tu entusiasmo! Trae ^0000CD1 Especia Amarilla y 3 Trozos de Madera^000000, ¿sí? Mientras tanto prepararé los demás platos."
+        "es-ES": "[Songhwa]\n¡Me gusta tu entusiasmo! Trae ^0000CD1 Especia Amarilla y 3 Troncos^000000, ¿sí? Mientras tanto prepararé los demás platos."
     },
     "2EsOBg": {
         "en-US": "[Louise]\nNow isn't a good time!",
@@ -1105,7 +1105,7 @@
         "es-ES": "[Louise]\n¡Faltan ingredientes para el pavo asado! ¡Salsa Sabrosa, Zanahorias y Limones!"
     },
     "3UsOBg": {
-        "en-US": "We don't have enough ingredients for roast turkey!",
+        "en-US": "We don't have enough ingredients for the roast turkey!",
         "pt-BR": "Faltam ingredientes para o peru assado!",
         "es-ES": "¡Faltan ingredientes para el pavo asado!"
     },
@@ -1125,19 +1125,19 @@
         "es-ES": "[Songhwa]\n¡Volviste! ¿Conseguiste todo? Déjame ver."
     },
     "4UsOBg": {
-        "en-US": "[Songhwa]\nYou've brought exactly what we need. Now to cook it... Go on, make some songpyeon!",
-        "pt-BR": "[Songhwa]\nTrouxe exatamente o que precisamos. Agora vamos cozinhar... Vamos, prepare o songpyeon!",
-        "es-ES": "[Songhwa]\nTrajiste justo lo que necesitamos. Ahora hay que cocinar... ¡Vamos, prepara el songpyeon!"
+        "en-US": "[Songhwa]\nYou've brought exactly what we need. Now to cook it... Go on, make some Songpyeon Rice Cake!",
+        "pt-BR": "[Songhwa]\nTrouxe exatamente o que precisamos. Agora vamos cozinhar... Vamos, prepare o Bolinho Songpyeon!",
+        "es-ES": "[Songhwa]\nTrajiste justo lo que necesitamos. Ahora hay que cocinar... ¡Vamos, prepara el Pastel Songpyeon!"
     },
     "4ksOBg": {
-        "en-US": "[Mr. Kim]\nTime to show off my skills!!!",
-        "pt-BR": "[Sr. Kim]\nHora de mostrar meu talento!!!",
-        "es-ES": "[Señor Kim]\n¡¡¡Hora de demostrar mi talento!!!"
+        "en-US": "[Mr. Kim]\nTime to show off my skills!",
+        "pt-BR": "[Sr. Kim]\nHora de mostrar meu talento!",
+        "es-ES": "[Señor Kim]\n¡Hora de demostrar mi talento!"
     },
     "40sOBg": {
         "en-US": "[Mr. Kim]\nThe songpyeon is ready! Go ahead and finish the hometown meal!",
-        "pt-BR": "[Sr. Kim]\nO songpyeon está pronto! Termine de preparar a comida da nossa terra!",
-        "es-ES": "[Señor Kim]\n¡El songpyeon está listo! ¡Termina de preparar la comida de nuestra tierra!"
+        "pt-BR": "[Sr. Kim]\nO Bolinho Songpyeon está pronto! Termine de preparar a comida típica!",
+        "es-ES": "[Señor Kim]\n¡El Pastel Songpyeon está listo! ¡Termina de preparar la comida típica!"
     },
     "5EsOBg": {
         "en-US": "[Songhwa]\nThanks for your hard work. Take this with you.\nIt's a ticket you can use at the Harvest Festival.",
@@ -1155,9 +1155,9 @@
         "es-ES": "Oye, ven aquí un momento..."
     },
     "50sOBg": {
-        "en-US": "[Songhwa]\nYou're still short. Please bring ^0000CD1 Grain, 3 Honey, and 10 Green Herbs^000000. I'll prepare the other dishes meanwhile.",
-        "pt-BR": "[Songhwa]\nAinda faltam coisas. Traga ^0000CD1 Sacola de Grãos, 3 unidades de Mel e 10 Ervas Verdes^000000. Enquanto isso, preparo os outros pratos.",
-        "es-ES": "[Songhwa]\nAún faltan cosas. Trae ^0000CD1 Grano, 3 Mieles y 10 Hierbas Verdes^000000. Mientras tanto prepararé los demás platos."
+        "en-US": "[Songhwa]\nYou're still short. Please bring ^0000CD1 Grains, 3 Honey, and 10 Green Herb^000000. I'll prepare the other dishes meanwhile.",
+        "pt-BR": "[Songhwa]\nAinda faltam ingredientes. Traga ^0000CD1 Sacola de Grãos, 3 Mel e 10 Erva Verde^000000. Enquanto isso, preparo os outros pratos.",
+        "es-ES": "[Songhwa]\nAún faltan ingredientes. Trae ^0000CD1 Granos, 3 Miel y 10 Hierba Verde^000000. Mientras tanto prepararé los demás platos."
     },
     "6EsOBg": {
         "en-US": "[Songhwa]\nYou've brought exactly what we need. Now to cook it... Go on, make some mooncakes!",
@@ -1176,17 +1176,17 @@
     },
     "60sOBg": {
         "en-US": "Adventurer! Adventurer! Come here for a moment...",
-        "pt-BR": "Aventureiro! Aventureiro! Venha aqui um instante...",
-        "es-ES": "¡Aventurero! ¡Aventurero! Ven aquí un momento..."
+        "pt-BR": "Viajante! Viajante! Venha aqui um momento...",
+        "es-ES": "¡Trotamundos! ¡Trotamundos! Ven aquí un momento..."
     },
     "7EsOBg": {
-        "en-US": "[Songhwa]\nYou're still short. Please bring ^0000CD1 Yellow Spice and 3 Wooden Blocks^000000. I'll prepare the other dishes meanwhile.",
-        "pt-BR": "[Songhwa]\nAinda faltam coisas. Traga ^0000CD1 Condimento Amarelo e 3 Troncos^000000. Enquanto isso, preparo os outros pratos.",
-        "es-ES": "[Songhwa]\nAún faltan cosas. Trae ^0000CD1 Especia Amarilla y 3 Trozos de Madera^000000. Mientras tanto prepararé los demás platos."
+        "en-US": "[Songhwa]\nYou're still short. Please bring ^0000CD1 Yellow Spice and 3 Trunks^000000. I'll prepare the other dishes meanwhile.",
+        "pt-BR": "[Songhwa]\nAinda faltam ingredientes. Traga ^0000CD1 Condimento Amarelo e 3 Troncos^000000. Enquanto isso, preparo os outros pratos.",
+        "es-ES": "[Songhwa]\nAún faltan ingredientes. Trae ^0000CD1 Especia Amarilla y 3 Tronco^000000. Mientras tanto prepararé los demás platos."
     },
     "7UsOBg": {
-        "en-US": "[Songhwa]\nYou've brought exactly what we need. Now to cook it... Go on, make some roast turkey!",
-        "pt-BR": "[Songhwa]\nTrouxe exatamente o que precisamos. Agora vamos cozinhar... Vamos, prepare o peru assado!",
+        "en-US": "[Songhwa]\nYou've brought exactly what we need. Now it's time to cook it... Go on, make some roast turkey!",
+        "pt-BR": "[Songhwa]\nTrouxe exatamente o que precisamos. Agora temos que cozinhar... Vamos, prepare o peru assado!",
         "es-ES": "[Songhwa]\nTrajiste justo lo que necesitamos. Ahora hay que cocinar... ¡Vamos, prepara el pavo asado!"
     },
     "7ksOBg": {

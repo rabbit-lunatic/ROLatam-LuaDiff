@@ -1733,5 +1733,15 @@
         "en-US": "Please speak to the Staff as quickly as possible to receive any Arena Points you may have earned. Thank you for your cooperation.",
         "pt-BR": "Entre em contato com a equipe o mais rápido possível para receber os Arena Points que você ganhou. Obrigado por sua cooperação.",
         "es-ES": "Habla con el personal lo antes posible para recibir los puntos de Arena que hayas ganado. Gracias por tu colaboración."
+    },
+    "G6b9AQ": {
+        "en-US": "Whoa...!\nYour records got messed up?\nWhat are we supposed to do...?",
+        "pt-BR": "Nossa...!\nSeus registros ficaram bagunçados?\nO que vamos fazer...?",
+        "es-ES": "¡Vaya...!\n¿Se han alterado tus registros?\n¿Qué vamos a hacer...?"
+    },
+    "HKb9AQ": {
+        "en-US": "[Staff]\nSorry {0},\nbut I can't even reward\nyou with the default number\nof Arena Points.",
+        "pt-BR": "[Funcionário]\nDesculpe, {0},\nmas não posso nem conceder\na quantidade padrão\nde Pontos de Arena.",
+        "es-ES": "[Personal]\nLo siento, {0},\npero ni siquiera puedo darte\nla cantidad habitual\nde Puntos de Arena."
     }
 }

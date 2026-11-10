@@ -210,9 +210,9 @@
         "es-ES": "Voglinde: Es ultrasecreto. Ten cuidado."
     },
     "ilcDDg": {
-        "en-US": "[Voglinde]\nI'll talk to Mr. ^E5555EHellrock^000000 about getting you back to Midgard.\nHe should be able to take you as far as ^E5555EAl De Baran^000000.\nYou can make it to ^E5555EProntera^000000 on your own, right?",
-        "pt-BR": "[Voglinde]\nVou falar com o Sr. ^E5555EHellok^000000 para que ele leve você de volta a Midgard.\nEle deve conseguir levar até ^E5555EAl De Baran^000000.\nDe lá, você consegue chegar a ^E5555EProntera^000000 por conta própria, certo?",
-        "es-ES": "[Voglinde]\nHablaré con el señor ^E5555EHellok^000000 para que puedas ir hasta Midgard.\nProbablemente pueda llevarte hasta ^E5555EAldebaran^000000.\nPuedes llegar por tu cuenta hasta ^E5555EProntera^000000, ¿no?"
+        "en-US": "[Voglinde]\nI'll talk to Mr. ^E5555EHellock^000000 about getting you back to Midgard.\nHe should be able to take you as far as ^E5555EAl De Baran^000000.\nYou can make it to ^E5555EProntera^000000 on your own, right?",
+        "pt-BR": "[Voglinde]\nVou falar com o Sr. ^E5555EHellock^000000 para que ele leve você de volta a Midgard.\nEle deve conseguir levar até ^E5555EAl De Baran^000000.\nDe lá, você consegue chegar a ^E5555EProntera^000000 por conta própria, certo?",
+        "es-ES": "[Voglinde]\nHablaré con el señor ^E5555EHellock^000000 para que puedas ir hasta Midgard.\nProbablemente pueda llevarte hasta ^E5555EAldebaran^000000.\nPuedes llegar por tu cuenta hasta ^E5555EProntera^000000, ¿no?"
     },
     "i1cDDg": {
         "en-US": "[Voglinde]\nThere's someone named Ellis working as a ^E5555ECopy Officer in Prontera^000000.\nShe should be somewhere ^E5555Enear Prontera Cathedral^000000.\nTell her I sent you and say <B>Saint</B>. She'll know what you mean.",
@@ -270,9 +270,9 @@
         "es-ES": "Lehar: ¡Me acuerdo haber visto a una persona cuando era niño, pero nada más!"
     },
     "llcDDg": {
-        "en-US": "[Voglinde]\nI'm counting on you, sweetie.\nYou remember where Mr. ^E5555EHellrock^000000 got off the airship earlier, right?\nThere's a ^E5555Estrange-looking hut^000000 there.\nHe should be resting inside.",
-        "pt-BR": "[Voglinde]\nEntão conto com você, meu bem.\nO Sr. ^E5555EHellok^000000 está onde vocês desceram da aeronave antes, certo?\nLá tem uma ^E5555Ecabana de aparência estranha^000000.\nEle deve estar descansando por lá.",
-        "es-ES": "[Voglinde]\nEntonces, cariño, cuento contigo.\nEl señor ^E5555EHellok^000000 está donde bajamos de la aeronave hace un rato, ¿verdad?\nAllí hay una ^E5555Ecabaña de aspecto extraño^000000.\nSeguro está descansando ahí."
+        "en-US": "[Voglinde]\nI'm counting on you, sweetie.\nYou remember where Mr. ^E5555EHellock^000000 got off the airship earlier, right?\nThere's a ^E5555Estrange-looking hut^000000 there.\nHe should be resting inside.",
+        "pt-BR": "[Voglinde]\nEntão conto com você, meu bem.\nO Sr. ^E5555EHellock^000000 está onde vocês desceram da aeronave antes, certo?\nLá tem uma ^E5555Ecabana de aparência estranha^000000.\nEle deve estar descansando por lá.",
+        "es-ES": "[Voglinde]\nEntonces, cariño, cuento contigo.\nEl señor ^E5555EHellock^000000 está donde bajamos de la aeronave hace un rato, ¿verdad?\nAllí hay una ^E5555Ecabaña de aspecto extraño^000000.\nSeguro está descansando ahí."
     },
     "l1cDDg": {
         "en-US": "Voglinde : Enough. Follow me to the prayer room.",
@@ -505,34 +505,34 @@
         "es-ES": "Lehar: ¡Nooooooo!"
     },
     "xVcDDg": {
-        "en-US": "Hellrock",
-        "pt-BR": "Hellok",
-        "es-ES": "Hellok"
+        "en-US": "Hellock",
+        "pt-BR": "Hellock",
+        "es-ES": "Hellock"
     },
     "xlcDDg": {
-        "en-US": "[Hellrock]\nBwahahahaha!!!!\nTime to give those delts another brutal workout today!",
-        "pt-BR": "[Hellok]\nUahahahahaha!!!!\nHora de dar mais um treino pesado para esses deltoides hoje!",
-        "es-ES": "[Hellok]\n¡Jajajajaja!\n¡A ver si hoy también trabajamos esos deltoides con todo!"
+        "en-US": "[Hellock]\nBwahahahaha!!!!\nTime to give those delts another brutal workout today!",
+        "pt-BR": "[Hellock]\nUahahahahaha!!!!\nHora de dar mais um treino pesado para esses deltoides hoje!",
+        "es-ES": "[Hellock]\n¡Jajajajaja!\n¡A ver si hoy también trabajamos esos deltoides con todo!"
     },
     "x1cDDg": {
-        "en-US": "[Hellrock]\nOh~\n<FONT SIZE = 16><B>Hello there.</FONT></B>\n{0}!\nVoglinde told me about you.\nYou're heading to ^E5555EMidgard^000000, right?",
-        "pt-BR": "[Hellok]\nOpa!\n<FONT SIZE = 16><B>Olá.</FONT></B>\n{0}!\nA Sra. Voglinde me contou tudo.\nVocê vai para ^E5555EMidgard^000000, não é?",
-        "es-ES": "[Hellok]\n¡Oh!\n<FONT SIZE = 16><B>Saludos.</FONT></B>\n¡{0}!\nYa me contaron todo.\n¿Vas a ^E5555EMidgard^000000?"
+        "en-US": "[Hellock]\nOh~\n<FONT SIZE = 16><B>Hello there.</FONT></B>\n{0}!\nVoglinde told me about you.\nYou're heading to ^E5555EMidgard^000000, right?",
+        "pt-BR": "[Hellock]\nOpa!\n<FONT SIZE = 16><B>Olá.</FONT></B>\n{0}!\nA Sra. Voglinde me contou tudo.\nVocê vai para ^E5555EMidgard^000000, não é?",
+        "es-ES": "[Hellock]\n¡Oh!\n<FONT SIZE = 16><B>Saludos.</FONT></B>\n¡{0}!\nYa me contaron todo.\n¿Vas a ^E5555EMidgard^000000?"
     },
     "yFcDDg": {
-        "en-US": "[Hellrock]\nIs it just you going, {0}?\nThat's way too light... Maybe I should load up a few sandbags too...",
-        "pt-BR": "[Hellok]\nSó você vai, {0}?\nEstá leve demais… Será que devo colocar alguns sacos de areia também…",
-        "es-ES": "[Hellok]\n¿Solo vas tú, {0}?\nEs demasiado ligero… tal vez deba cargar unos sacos de arena..."
+        "en-US": "[Hellock]\nIs it just you going, {0}?\nThat's way too light... Maybe I should load up a few sandbags too...",
+        "pt-BR": "[Hellock]\nSó você vai, {0}?\nEstá leve demais… Será que devo colocar alguns sacos de areia também…",
+        "es-ES": "[Hellock]\n¿Solo vas tú, {0}?\nEs demasiado ligero… tal vez deba cargar unos sacos de arena..."
     },
     "yVcDDg": {
-        "en-US": "Hellrock : If I just run, I'll lose muscle...",
-        "pt-BR": "Hellok: Se eu só correr, vou perder massa muscular…",
-        "es-ES": "Hellok: Si solo corro, voy a perder masa muscular…"
+        "en-US": "Hellock : If I just run, I'll lose muscle...",
+        "pt-BR": "Hellock: Se eu só correr, vou perder massa muscular…",
+        "es-ES": "Hellock: Si solo corro, voy a perder masa muscular…"
     },
     "ylcDDg": {
-        "en-US": "[Hellrock]\nAnyway, let's get going!",
-        "pt-BR": "[Hellok]\nEnfim, vamos partir logo!",
-        "es-ES": "[Hellok]\nBueno, vámonos."
+        "en-US": "[Hellock]\nAnyway, let's get going!",
+        "pt-BR": "[Hellock]\nEnfim, vamos partir logo!",
+        "es-ES": "[Hellock]\nBueno, vámonos."
     },
     "y1cDDg": {
         "en-US": "What about the airship?",
@@ -540,19 +540,19 @@
         "es-ES": "¿Y la aeronave?"
     },
     "zFcDDg": {
-        "en-US": "[Hellrock]\nThe airship can only go toward Varmundt's Mansion.\nThat's not something we can decide on our own...",
-        "pt-BR": "[Hellok]\nA aeronave só pode ir na direção da Mansão de Varmunt.\nIsso não é algo que podemos decidir por conta própria…",
-        "es-ES": "[Hellok]\nLa aeronave solo puede ir hacia la Mansión Varmunt.\nNo es algo que podamos decidir por nuestra cuenta…"
+        "en-US": "[Hellock]\nThe airship can only go toward Varmundt's Mansion.\nThat's not something we can decide on our own...",
+        "pt-BR": "[Hellock]\nA aeronave só pode ir na direção da Mansão de Varmunt.\nIsso não é algo que podemos decidir por conta própria…",
+        "es-ES": "[Hellock]\nLa aeronave solo puede ir hacia la Mansión Varmunt.\nNo es algo que podamos decidir por nuestra cuenta…"
     },
     "zVcDDg": {
-        "en-US": "[Hellrock]\nDon't worry, I'll carry the sled myself all the way to ^E5555EAl De Baran^000000.\nMy broad shoulders will keep it firmly secured.\nHahaha!!!",
-        "pt-BR": "[Hellok]\nPara ^E5555EAl De Baran^000000, eu mesmo carrego o trenó, então não se preocupe.\nMeus ombros largos vão mantê-lo bem firme.\nHahaha!!!",
-        "es-ES": "[Hellok]\nPara ir a ^E5555EAldebaran^000000 yo mismo cargaré el trineo.\nMis hombros lo mantendrán bien firme. ¡Ja, ja, ja!"
+        "en-US": "[Hellock]\nDon't worry, I'll carry the sled myself all the way to ^E5555EAl De Baran^000000.\nMy broad shoulders will keep it firmly secured.\nHahaha!!!",
+        "pt-BR": "[Hellock]\nPara ^E5555EAl De Baran^000000, eu mesmo carrego o trenó, então não se preocupe.\nMeus ombros largos vão mantê-lo bem firme.\nHahaha!!!",
+        "es-ES": "[Hellock]\nPara ir a ^E5555EAldebaran^000000 yo mismo cargaré el trineo.\nMis hombros lo mantendrán bien firme. ¡Ja, ja, ja!"
     },
     "zlcDDg": {
-        "en-US": "Hellrock : And I get a workout too! Isn't that killing two birds with one stone!",
-        "pt-BR": "Hellok: E ainda serve de exercício! É matar dois coelhos com uma cajadada só!",
-        "es-ES": "Hellok: ¡Y además hago ejercicio! ¡Es como matar dos pájaros de un tiro!"
+        "en-US": "Hellock : And I get a workout too! Isn't that killing two birds with one stone!",
+        "pt-BR": "Hellock: E ainda serve de exercício! É matar dois coelhos com uma cajadada só!",
+        "es-ES": "Hellock: ¡Y además hago ejercicio! ¡Es como matar dos pájaros de un tiro!"
     },
     "z1cDDg": {
         "en-US": "Depart",
@@ -565,74 +565,74 @@
         "es-ES": "Esperar"
     },
     "0VcDDg": {
-        "en-US": "[Hellrock]\nThen we're off.\nHold on tight!",
-        "pt-BR": "[Hellok]\nEntão vamos partir.\nSegurem firme!",
-        "es-ES": "[Hellok]\nVámonos, entonces.\n¡Agárrense bien!"
+        "en-US": "[Hellock]\nThen we're off.\nHold on tight!",
+        "pt-BR": "[Hellock]\nEntão vamos partir.\nSegurem firme!",
+        "es-ES": "[Hellock]\nVámonos, entonces.\n¡Agárrense bien!"
     },
     "0lcDDg": {
-        "en-US": "[Hellrock]\nIs that so?\nThen let me know when you're ready.",
-        "pt-BR": "[Hellok]\nÉ mesmo?\nEntão me avise quando estiver tudo pronto.",
-        "es-ES": "[Hellok]\nAh, ¿sí?\nAvíseme cuando esté listo."
+        "en-US": "[Hellock]\nIs that so?\nThen let me know when you're ready.",
+        "pt-BR": "[Hellock]\nÉ mesmo?\nEntão me avise quando estiver tudo pronto.",
+        "es-ES": "[Hellock]\nAh, ¿sí?\nAvíseme cuando esté listo."
     },
     "01cDDg": {
-        "en-US": "[Hellrock]\nBwahahahaha!!!!\nUntil Voglinde calls for me, I'm going to focus entirely on my lower body!!",
-        "pt-BR": "[Hellok]\nUahahahahaha!!!!\nAté a Sra. Voglinde me chamar, vou focar totalmente nos treinos de pernas!!",
-        "es-ES": "[Hellok]\n¡Jajajajaja!\n¡Ahora voy a entrenar solo las piernas hasta que me llame la señora Voglinde!"
+        "en-US": "[Hellock]\nBwahahahaha!!!!\nUntil Voglinde calls for me, I'm going to focus entirely on my lower body!!",
+        "pt-BR": "[Hellock]\nUahahahahaha!!!!\nAté a Sra. Voglinde me chamar, vou focar totalmente nos treinos de pernas!!",
+        "es-ES": "[Hellock]\n¡Jajajajaja!\n¡Ahora voy a entrenar solo las piernas hasta que me llame la señora Voglinde!"
     },
     "1FcDDg": {
-        "en-US": "[Hellrock]\nUghhh...\nO-Oh man...!!",
-        "pt-BR": "[Hellok]\nUgh…\nAi… ai…!!",
-        "es-ES": "[Hellok]\nUgh…\n¡A… ay…!"
+        "en-US": "[Hellock]\nUghhh...\nO-Oh man...!!",
+        "pt-BR": "[Hellock]\nUgh…\nAi… ai…!!",
+        "es-ES": "[Hellock]\nUgh…\n¡A… ay…!"
     },
     "1VcDDg": {
-        "en-US": "[Hellrock]\nHello!!!!\nAre you heading to Al De Baran again today?",
-        "pt-BR": "[Hellok]\nOlá!!!!\nVai para Al De Baran hoje também?",
-        "es-ES": "[Hellok]\n¡Hola!\n¿Hoy también vas a Aldebaran?"
+        "en-US": "[Hellock]\nHello!!!!\nAre you heading to Al De Baran again today?",
+        "pt-BR": "[Hellock]\nOlá!!!!\nVai para Al De Baran hoje também?",
+        "es-ES": "[Hellock]\n¡Hola!\n¿Hoy también vas a Aldebaran?"
     },
     "1lcDDg": {
-        "en-US": "[Hellrock]\nHello!!!!\nLet's see... Are you heading to ^E5555EVarmundt's Mansion^000000, by any chance?",
-        "pt-BR": "[Hellok]\nOlá!!!!\nDeixe-me ver… por acaso vai para a ^E5555EMansão de Varmunt^000000?",
-        "es-ES": "[Hellok]\n¡¡Hola!\nA ver… ¿vas a la ^E5555EMansión Varmunt^000000?"
+        "en-US": "[Hellock]\nHello!!!!\nLet's see... Are you heading to ^E5555EVarmundt's Mansion^000000, by any chance?",
+        "pt-BR": "[Hellock]\nOlá!!!!\nDeixe-me ver… por acaso vai para a ^E5555EMansão de Varmunt^000000?",
+        "es-ES": "[Hellock]\n¡¡Hola!\nA ver… ¿vas a la ^E5555EMansión Varmunt^000000?"
     },
     "11cDDg": {
-        "en-US": "[Hellrock]\nIt's not under my jurisdiction... but would you like me to send you to a friend who can help?",
-        "pt-BR": "[Hellok]\nNão é da minha responsabilidade… mas quer que eu leve você até um amigo que possa ajudar?",
-        "es-ES": "[Hellok]\nNo es exactamente mi responsabilidad… ¿Quieres que te diga quién te puede ayudar?"
+        "en-US": "[Hellock]\nIt's not under my jurisdiction... but would you like me to send you to a friend who can help?",
+        "pt-BR": "[Hellock]\nNão é da minha responsabilidade… mas quer que eu leve você até um amigo que possa ajudar?",
+        "es-ES": "[Hellock]\nNo es exactamente mi responsabilidad… ¿Quieres que te diga quién te puede ayudar?"
     },
     "2FcDDg": {
-        "en-US": "[Hellrock]\nHello.\nAdventurer, nice weather, isn't it?",
-        "pt-BR": "[Hellok]\nOlá.\nAventureiro, o tempo está ótimo, não acha?",
-        "es-ES": "[Hellok]\nHola.\nHace muy buen clima, ¿verdad?"
+        "en-US": "[Hellock]\nHello.\nAdventurer, nice weather, isn't it?",
+        "pt-BR": "[Hellock]\nOlá.\nAventureiro, o tempo está ótimo, não acha?",
+        "es-ES": "[Hellock]\nHola.\nHace muy buen clima, ¿verdad?"
     },
     "2VcDDg": {
-        "en-US": "[Hellrock]\nAh! {0}.\nYou're finally awake!\nThis is Al De Baran.",
-        "pt-BR": "[Hellok]\nAh! {0}.\nAté que enfim você acordou!\nEstamos em Al De Baran.",
-        "es-ES": "[Hellok]\n¡Ah! {0}.\n¡Por fin recuperó el conocimiento!\nEstamos en Al De Baran."
+        "en-US": "[Hellock]\nAh! {0}.\nYou're finally awake!\nThis is Al De Baran.",
+        "pt-BR": "[Hellock]\nAh! {0}.\nAté que enfim você acordou!\nEstamos em Al De Baran.",
+        "es-ES": "[Hellock]\n¡Ah! {0}.\n¡Por fin recuperó el conocimiento!\nEstamos en Al De Baran."
     },
     "2lcDDg": {
-        "en-US": "[Hellrock]\nI can't go as far as Prontera because of various agreements, so I'll wait here.\nWhen you're finished, come back to ^E5555EAl De Baran^000000.",
-        "pt-BR": "[Hellok]\nPor causa de vários acordos, não posso ir até Prontera, então vou esperar aqui.\nQuando terminar o que precisa fazer, volte para ^E5555EAl De Baran^000000.",
-        "es-ES": "[Hellok]\nDebido a varios acuerdos, no puedo ir hasta Prontera, así que esperaré aquí.\nCuando termines tus pendientes, vuelve a ^E5555EAldebaran^000000."
+        "en-US": "[Hellock]\nI can't go as far as Prontera because of various agreements, so I'll wait here.\nWhen you're finished, come back to ^E5555EAl De Baran^000000.",
+        "pt-BR": "[Hellock]\nPor causa de vários acordos, não posso ir até Prontera, então vou esperar aqui.\nQuando terminar o que precisa fazer, volte para ^E5555EAl De Baran^000000.",
+        "es-ES": "[Hellock]\nDebido a varios acuerdos, no puedo ir hasta Prontera, así que esperaré aquí.\nCuando termines tus pendientes, vuelve a ^E5555EAldebaran^000000."
     },
     "21cDDg": {
-        "en-US": "Hellrock : Since I'm in Midgard, I should pick up that new soy protein powder!",
-        "pt-BR": "Hellok: Já que estou em Midgard, vou aproveitar para comprar aquele novo suplemento de proteína de soja!",
-        "es-ES": "Hellok: ¡Ya que estoy en Midgard, aprovecharé para comprar el nuevo polvo de proteína de soya!"
+        "en-US": "Hellock : Since I'm in Midgard, I should pick up that new soy protein powder!",
+        "pt-BR": "Hellock: Já que estou em Midgard, vou aproveitar para comprar aquele novo suplemento de proteína de soja!",
+        "es-ES": "Hellock: ¡Ya que estoy en Midgard, aprovecharé para comprar el nuevo polvo de proteína de soya!"
     },
     "3FcDDg": {
-        "en-US": "[Hellrock]\nHave you finished everything you needed to do in Prontera?\nWhen you're done, come to ^E5555EAl De Baran^000000.",
-        "pt-BR": "[Hellok]\nJá terminou tudo o que precisava fazer em Prontera?\nQuando terminar, venha para ^E5555EAl De Baran^000000.",
-        "es-ES": "[Hellok]\n¿Ya terminaste tus pendientes en Prontera?\nCuando termines, ve a ^E5555EAldebaran^000000."
+        "en-US": "[Hellock]\nHave you finished everything you needed to do in Prontera?\nWhen you're done, come to ^E5555EAl De Baran^000000.",
+        "pt-BR": "[Hellock]\nJá terminou tudo o que precisava fazer em Prontera?\nQuando terminar, venha para ^E5555EAl De Baran^000000.",
+        "es-ES": "[Hellock]\n¿Ya terminaste tus pendientes en Prontera?\nCuando termines, ve a ^E5555EAldebaran^000000."
     },
     "3VcDDg": {
-        "en-US": "[Hellrock]\nYou're here.\nThen let's head right... Wait... I think there are more people than Voglinde mentioned...\nWasn't just one Cardinal supposed to be coming with you?",
-        "pt-BR": "[Hellok]\nChegou.\nEntão vamos direto… espere… parece que tem mais gente do que a Sra. Voglinde mencionou…\nNão era só um Cardeal que viria junto?",
-        "es-ES": "[Hellok]\nLlegaste.\nEntonces vámonos… un segundo… parece que hay más personas de las que mencionó la señora Voglinde…\n¿No iba a venir solo un Cardenal con nosotros?"
+        "en-US": "[Hellock]\nYou're here.\nThen let's head right... Wait... I think there are more people than Voglinde mentioned...\nWasn't just one Cardinal supposed to be coming with you?",
+        "pt-BR": "[Hellock]\nChegou.\nEntão vamos direto… espere… parece que tem mais gente do que a Sra. Voglinde mencionou…\nNão era só um Cardeal que viria junto?",
+        "es-ES": "[Hellock]\nLlegaste.\nEntonces vámonos… un segundo… parece que hay más personas de las que mencionó la señora Voglinde…\n¿No iba a venir solo un Cardenal con nosotros?"
     },
     "3lcDDg": {
-        "en-US": "[Hellrock]\nWhat's everyone carrying?\nYou have some luggage?\nOne bag... two... wait a second...\nNo, I'm not saying I can't carry it, but all this luggage...",
-        "pt-BR": "[Hellok]\nO que vocês estão carregando?\nEstão com bagagem?\nUma bolsa... duas... Esperem um pouco...\nNão é que eu não consiga carregar, mas é que tem tanta bagagem...",
-        "es-ES": "[Hellok]\n¿Qué llevan en las manos?\n¿Dicen que traen algo de equipaje?\nUna bolsa… dos… no, esperen un momento…\nNo es que no pueda con el peso, pero el equipaje..."
+        "en-US": "[Hellock]\nWhat's everyone carrying?\nYou have some luggage?\nOne bag... two... wait a second...\nNo, I'm not saying I can't carry it, but all this luggage...",
+        "pt-BR": "[Hellock]\nO que vocês estão carregando?\nEstão com bagagem?\nUma bolsa... duas... Esperem um pouco...\nNão é que eu não consiga carregar, mas é que tem tanta bagagem...",
+        "es-ES": "[Hellock]\n¿Qué llevan en las manos?\n¿Dicen que traen algo de equipaje?\nUna bolsa… dos… no, esperen un momento…\nNo es que no pueda con el peso, pero el equipaje..."
     },
     "31cDDg": {
         "en-US": "[Dew]\nHuh???",
@@ -640,24 +640,24 @@
         "es-ES": "[Du]\n¿Eh?"
     },
     "4FcDDg": {
-        "en-US": "[Hellrock]\nThen we're off...\nUrrrghhh!!!!",
-        "pt-BR": "[Hellok]\nEntão, lá vamos nós…\nUaaaargh!!!!",
-        "es-ES": "[Hellok]\n¡Vámonos, pues!\n¡Uaaaaaagh!"
+        "en-US": "[Hellock]\nThen we're off...\nUrrrghhh!!!!",
+        "pt-BR": "[Hellock]\nEntão, lá vamos nós…\nUaaaargh!!!!",
+        "es-ES": "[Hellock]\n¡Vámonos, pues!\n¡Uaaaaaagh!"
     },
     "4VcDDg": {
-        "en-US": "[Hellrock]\nGhh...\nM-My ba...",
-        "pt-BR": "[Hellok]\nArgh…\nMeus… meus ombr…",
-        "es-ES": "[Hellok]\nUgh…\nMi… mi cintu…"
+        "en-US": "[Hellock]\nGhh...\nM-My ba...",
+        "pt-BR": "[Hellock]\nArgh…\nMeus… meus ombr…",
+        "es-ES": "[Hellock]\nUgh…\nMi… mi cintu…"
     },
     "4lcDDg": {
-        "en-US": "[Hellrock]\nO-Oh man...",
-        "pt-BR": "[Hellok]\nAi… ai…",
-        "es-ES": "[Hellok]\nA… ay…"
+        "en-US": "[Hellock]\nO-Oh man...",
+        "pt-BR": "[Hellock]\nAi… ai…",
+        "es-ES": "[Hellock]\nA… ay…"
     },
     "41cDDg": {
-        "en-US": "[Hellrock]\nHello!!!!\nAre you heading to ^E5555EIssgard^000000 again today?",
-        "pt-BR": "[Hellok]\nOlá!!!!\nVai para ^E5555EIssgard^000000 hoje também?",
-        "es-ES": "[Hellok]\n¡Hola!\n¿Hoy también vas a ^E5555EIssgard^000000?"
+        "en-US": "[Hellock]\nHello!!!!\nAre you heading to ^E5555EIssgard^000000 again today?",
+        "pt-BR": "[Hellock]\nOlá!!!!\nVai para ^E5555EIssgard^000000 hoje também?",
+        "es-ES": "[Hellock]\n¡Hola!\n¿Hoy también vas a ^E5555EIssgard^000000?"
     },
     "5FcDDg": {
         "en-US": "Copy Officer",
